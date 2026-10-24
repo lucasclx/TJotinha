@@ -1,0 +1,346 @@
+{
+  "materia": "Legislação Interna",
+  "slug": "legislacao-interna",
+  "questoes": [
+    {
+      "id": "legislacao-interna-001",
+      "lei": "res850",
+      "artigos": ["res850-3", "res850-8"],
+      "tema": "Teletrabalho — direitos e auxílios",
+      "dificuldade": "facil",
+      "enunciado": "Nos termos da Resolução TJSP nº 850/2021, o regime de teletrabalho, exercido de acordo com as regras da Resolução, assegura a quem o realiza os mesmos direitos do regime presencial,",
+      "alternativas": {
+        "A": "inclusive auxílio-alimentação e auxílio-transporte.",
+        "B": "exceto auxílio-alimentação e auxílio-transporte.",
+        "C": "inclusive auxílio-transporte, exceto auxílio-alimentação.",
+        "D": "inclusive auxílio-alimentação, exceção feita ao auxílio-transporte.",
+        "E": "além de ajuda de custo para aquisição de equipamentos."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 3º da Res. 850/2021 (e art. 8º, § 2º, para servidores). O teletrabalho não pode implicar qualquer despesa ao Tribunal (art. 4º), e o servidor providencia, às suas expensas, a estrutura necessária (art. 5º e art. 20)."
+    },
+    {
+      "id": "legislacao-interna-002",
+      "lei": "res850",
+      "artigos": ["res850-9"],
+      "tema": "Limite de servidores em teletrabalho",
+      "dificuldade": "media",
+      "enunciado": "Segundo a Resolução TJSP nº 850/2021, nas unidades de primeiro grau, com exceção dos gabinetes, a quantidade de servidores em teletrabalho, por unidade, será de até",
+      "alternativas": {
+        "A": "30% do quadro, arredondadas as frações para baixo.",
+        "B": "50% do quadro, arredondadas as frações para o primeiro número inteiro imediatamente superior.",
+        "C": "70% do quadro, arredondadas as frações para o primeiro número inteiro imediatamente superior.",
+        "D": "50% do quadro, arredondadas as frações para baixo.",
+        "E": "100% do quadro, a critério do juiz."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 9º, III, da Res. 850/2021. Nas unidades vinculadas à Presidência, Vice-Presidência, Corregedoria e Presidências de Seção, o limite é de até 70% (inciso II); nos gabinetes, o número é definido pelo Juiz ou Desembargador (inciso IV)."
+    },
+    {
+      "id": "legislacao-interna-003",
+      "lei": "res850",
+      "artigos": ["res850-9"],
+      "tema": "Intervalo de almoço e registro de frequência",
+      "dificuldade": "media",
+      "enunciado": "Sobre as regras do teletrabalho de servidores na Resolução TJSP nº 850/2021, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A superação da meta de produtividade gera banco de horas.",
+        "B": "O intervalo para almoço é de 1 hora, em horário livre.",
+        "C": "As reuniões virtuais com o gestor devem ter periodicidade mínima semanal.",
+        "D": "A frequência é registrada por planilha enviada mensalmente ao gestor.",
+        "E": "O intervalo para almoço, de 30 minutos, com tolerância de até 15 minutos, deve ocorrer obrigatoriamente entre 12h e 14h."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 9º, VIII, da Res. 850/2021. A frequência é registrada pelo log in e log off no sistema (IX); as reuniões têm periodicidade mínima mensal (VI); e a superação da meta não gera horas extras nem banco de horas (X)."
+    },
+    {
+      "id": "legislacao-interna-004",
+      "lei": "res850",
+      "artigos": ["res850-11"],
+      "tema": "Vedações ao teletrabalho",
+      "dificuldade": "media",
+      "enunciado": "É vedada a participação em teletrabalho, nos termos da Resolução TJSP nº 850/2021, ao servidor que",
+      "alternativas": {
+        "A": "esteja no primeiro ano do estágio probatório.",
+        "B": "tenha sofrido penalidade disciplinar nos 5 (cinco) anos anteriores à solicitação.",
+        "C": "esteja no terceiro ano do estágio probatório.",
+        "D": "tenha sido relotado pelo processo de remoção nos últimos 2 (dois) anos.",
+        "E": "resida em comarca diversa da sua lotação, em qualquer hipótese."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 11, VI, da Res. 850/2021. Também é vedado a quem sofreu penalidade disciplinar nos 2 anos anteriores (II), foi desligado do teletrabalho por descumprimento nos últimos 6 meses (III) ou foi relotado por remoção nos últimos 6 meses (IV). O servidor pode pedir autorização para residir em local diverso da lotação (art. 10, § 4º)."
+    },
+    {
+      "id": "legislacao-interna-005",
+      "lei": "res850",
+      "artigos": ["res850-13", "res850-19"],
+      "tema": "Esclarecimentos e retorno ao presencial",
+      "dificuldade": "dificil",
+      "enunciado": "No caso de descumprimento dos deveres do teletrabalho, o servidor deverá prestar esclarecimentos ao gestor da unidade em ____ dias úteis; e, em caso de cessação do teletrabalho, terá o prazo de até ____ dias úteis para retorno ao trabalho presencial. Assinale a alternativa que completa corretamente as lacunas.",
+      "alternativas": {
+        "A": "5 … 10",
+        "B": "2 … 10",
+        "C": "2 … 5",
+        "D": "3 … 5",
+        "E": "5 … 5"
+      },
+      "gabarito": "C",
+      "comentario": "Art. 13 (esclarecimentos em 2 dias úteis) e art. 19, § 1º (retorno ao presencial em até 5 dias úteis, mantido o dever de cumprir o plano de trabalho) da Res. 850/2021."
+    },
+    {
+      "id": "legislacao-interna-006",
+      "lei": "res850",
+      "artigos": ["res850-18"],
+      "tema": "Produtividade no teletrabalho",
+      "dificuldade": "facil",
+      "enunciado": "A produtividade do servidor em teletrabalho, conforme a Resolução TJSP nº 850/2021, como regra,",
+      "alternativas": {
+        "A": "deverá ser igual à produtividade aferida na atividade presencial.",
+        "B": "deverá ser superior à produtividade aferida na atividade presencial da unidade de trabalho.",
+        "C": "poderá ser inferior em até 10% à da atividade presencial.",
+        "D": "não é objeto de aferição.",
+        "E": "é fixada livremente pelo servidor no plano de trabalho."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 18, caput, da Res. 850/2021. Os servidores com deficiência, necessidades especiais ou doença grave (Capítulo IV) são dispensados desse acréscimo de produtividade (§ 3º)."
+    },
+    {
+      "id": "legislacao-interna-007",
+      "lei": "res963",
+      "artigos": ["res963-4"],
+      "tema": "Governança do eproc",
+      "dificuldade": "media",
+      "enunciado": "Nos termos da Resolução TJSP nº 963/2025, a governança do sistema eproc será exercida pelos seguintes órgãos:",
+      "alternativas": {
+        "A": "Comitê Gestor do eproc, Secretaria de Tecnologia da Informação e Corregedoria Geral da Justiça.",
+        "B": "Conselho Superior da Magistratura, Núcleo de Gestão Negocial e Comitê Interinstitucional.",
+        "C": "Comitê Gestor do eproc, Núcleo de Gestão Negocial e Núcleo de Gestão Técnica.",
+        "D": "Presidência, Vice-Presidência e Corregedoria Geral da Justiça.",
+        "E": "Núcleo de Gestão Técnica, Secretaria de Governança de Sistemas e Comitê Interinstitucional."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 4º da Res. 963/2025: CGe, NGN e NGT. O CGe é o órgão coordenador e interlocutor das demandas locais junto à versão nacional (art. 5º). A interlocução com entidades externas se faz pelo Comitê Interinstitucional (art. 8º)."
+    },
+    {
+      "id": "legislacao-interna-008",
+      "lei": "res963",
+      "artigos": ["res963-16"],
+      "tema": "Credenciamento e desligamento de usuários internos",
+      "dificuldade": "media",
+      "enunciado": "O usuário interno com perfil de gestor do sistema eproc deve interromper o acesso de usuário subordinado, após o encerramento do vínculo com a unidade, em até",
+      "alternativas": {
+        "A": "24 (vinte e quatro) horas, sob pena de responsabilidade.",
+        "B": "48 (quarenta e oito) horas, sob pena de responsabilidade.",
+        "C": "5 (cinco) dias úteis.",
+        "D": "10 (dez) dias úteis.",
+        "E": "30 (trinta) dias."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 16, § 1º, da Res. 963/2025. A atribuição de perfil no sistema não equivale ao reconhecimento de cargo ou função para qualquer outra finalidade (§ 3º)."
+    },
+    {
+      "id": "legislacao-interna-009",
+      "lei": "res963",
+      "artigos": ["res963-21"],
+      "tema": "Indisponibilidade e prorrogação de prazos",
+      "dificuldade": "dificil",
+      "enunciado": "Conforme a Resolução TJSP nº 963/2025, os prazos que se vencerem no dia de indisponibilidade do eproc serão prorrogados para o dia útil seguinte à retomada do funcionamento quando a indisponibilidade",
+      "alternativas": {
+        "A": "ocorrer por qualquer período entre 00h01min e 11h59min dos dias de expediente forense.",
+        "B": "for superior a 30 minutos, em qualquer horário.",
+        "C": "decorrer de falha na conexão de internet do usuário.",
+        "D": "for superior a 60 minutos, ininterruptos ou não, e ocorrer entre 12h00min e 23h00min.",
+        "E": "ocorrer em feriados ou finais de semana, por qualquer período."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 21, I, da Res. 963/2025. Também há prorrogação se a indisponibilidade ocorrer por qualquer período entre 23h01min e 00h00min (II). Não prorrogam: indisponibilidade entre 00h01min e 11h59min, em feriados e fins de semana (§ 1º) ou por falha do próprio usuário (§ 3º)."
+    },
+    {
+      "id": "legislacao-interna-010",
+      "lei": "res963",
+      "artigos": ["res963-26"],
+      "tema": "Tempestividade no eproc",
+      "dificuldade": "media",
+      "enunciado": "No sistema eproc, considera-se realizado o ato processual no dia e hora do seu envio ao sistema, sendo tempestivo o ato transmitido integralmente até as 24 horas do último dia do prazo. Para essa aferição, o eproc considerará",
+      "alternativas": {
+        "A": "o horário registrado nos equipamentos do remetente.",
+        "B": "o horário inicial de conexão do usuário à internet.",
+        "C": "o horário oficial de Brasília - DF.",
+        "D": "o horário local da comarca do peticionante.",
+        "E": "o horário do início do acesso do usuário ao eproc."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 26, §§ 1º a 3º, da Res. 963/2025. Não se consideram, para tempestividade, o horário de conexão à internet, o horário inicial de acesso ao eproc nem os horários dos equipamentos do remetente."
+    },
+    {
+      "id": "legislacao-interna-011",
+      "lei": "res963",
+      "artigos": ["res963-34", "res963-31"],
+      "tema": "Agravo de instrumento e certidão narratória no eproc",
+      "dificuldade": "dificil",
+      "enunciado": "Acerca da Resolução TJSP nº 963/2025, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "No agravo de instrumento, a parte deve juntar cópia integral do processo de primeiro grau.",
+        "B": "O agravo de instrumento tirado de processo do eproc é interposto no sistema de primeiro grau, que o envia automaticamente ao segundo grau, onde é processado em autos apartados com nova numeração.",
+        "C": "O agravo de instrumento será processado nos próprios autos de primeiro grau.",
+        "D": "A certidão narratória do eproc não substitui a certidão de objeto e pé.",
+        "E": "As apelações no eproc são processadas em autos apartados, com nova numeração."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 34 da Res. 963/2025; a parte agravante junta apenas a petição do agravo com as razões, dispensadas as peças do primeiro grau (§ 1º). As apelações são processadas nos próprios autos (art. 33). A certidão narratória tem a mesma validade da certidão de objeto e pé (art. 31, parágrafo único)."
+    },
+    {
+      "id": "legislacao-interna-012",
+      "lei": "lc1111",
+      "artigos": ["lc1111-11"],
+      "tema": "Estágio probatório",
+      "dificuldade": "facil",
+      "enunciado": "De acordo com a Lei Complementar nº 1.111/2010 (Plano de Cargos e Carreiras do TJSP), o servidor nomeado para cargo de provimento efetivo ficará sujeito a estágio probatório durante o período de",
+      "alternativas": {
+        "A": "24 (vinte e quatro) meses.",
+        "B": "30 (trinta) meses.",
+        "C": "12 (doze) meses.",
+        "D": "48 (quarenta e oito) meses.",
+        "E": "36 (trinta e seis) meses."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 11 da LC 1.111/2010: 36 meses, com avaliação de assiduidade, pontualidade, aptidão, capacidade e eficiência. Fica dispensado quem, aprovado em novo concurso para outro cargo efetivo do Anexo I, já o tiver cumprido no cargo anterior (art. 40)."
+    },
+    {
+      "id": "legislacao-interna-013",
+      "lei": "lc1111",
+      "artigos": ["lc1111-13", "lc1111-21", "lc1111-29"],
+      "tema": "Progressão, promoção e acesso",
+      "dificuldade": "media",
+      "enunciado": "Na LC nº 1.111/2010, a passagem do servidor de cargo de provimento efetivo de um grau para o imediatamente superior, dentro da mesma referência e nível, denomina-se",
+      "alternativas": {
+        "A": "promoção.",
+        "B": "acesso.",
+        "C": "progressão.",
+        "D": "enquadramento.",
+        "E": "remoção."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 13 da LC 1.111/2010 (progressão). Promoção é a passagem para o nível e grau imediatamente superior, dentro da mesma referência (art. 21). Acesso é o provimento vertical de cargo em comissão de direção, coordenação, supervisão ou chefia (art. 29)."
+    },
+    {
+      "id": "legislacao-interna-014",
+      "lei": "lc1111",
+      "artigos": ["lc1111-14", "lc1111-18"],
+      "tema": "Requisitos e recurso da progressão",
+      "dificuldade": "dificil",
+      "enunciado": "Para participar do processo de progressão, o servidor deve ter cumprido, no mesmo cargo efetivo e grau, interstício mínimo de ____ de efetivo exercício, e poderá recorrer do resultado ao Comitê de Recursos Humanos no prazo máximo de ____. Assinale a alternativa que completa corretamente as lacunas.",
+      "alternativas": {
+        "A": "1 (um) ano … 30 (trinta) dias corridos",
+        "B": "2 (dois) anos … 15 (quinze) dias úteis",
+        "C": "3 (três) anos … 30 (trinta) dias corridos",
+        "D": "1 (um) ano … 10 (dez) dias úteis",
+        "E": "2 (dois) anos … 30 (trinta) dias corridos"
+      },
+      "gabarito": "A",
+      "comentario": "Art. 14, I (interstício de 1 ano, redação da LC 1.217/2013), e art. 18 (recurso em até 30 dias corridos da publicação do resultado) da LC 1.111/2010. A progressão exige resultado final positivo na avaliação anual de desempenho (art. 16)."
+    },
+    {
+      "id": "legislacao-interna-015",
+      "lei": "ri",
+      "artigos": ["ri-8"],
+      "tema": "Composição do Órgão Especial",
+      "dificuldade": "media",
+      "enunciado": "Segundo o Regimento Interno do TJSP, o Órgão Especial é constituído por",
+      "alternativas": {
+        "A": "vinte e um desembargadores, todos eleitos pelo Tribunal Pleno.",
+        "B": "vinte e cinco desembargadores, sendo membros natos o Presidente, o Vice-Presidente e o Corregedor Geral da Justiça.",
+        "C": "vinte e cinco desembargadores, todos pelo critério de antiguidade.",
+        "D": "trinta desembargadores, metade por antiguidade e metade por eleição.",
+        "E": "doze desembargadores eleitos e o Presidente do Tribunal."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 8º do RITJSP: 25 desembargadores; Presidente, Vice-Presidente e Corregedor Geral são membros natos, e os demais integram as classes de antiguidade e de eleitos. O Tribunal Pleno elege doze desembargadores que integrarão o Órgão Especial e seus suplentes (art. 4º, II)."
+    },
+    {
+      "id": "legislacao-interna-016",
+      "lei": "ri",
+      "artigos": ["ri-15"],
+      "tema": "Conselho Superior da Magistratura",
+      "dificuldade": "media",
+      "enunciado": "O Conselho Superior da Magistratura do TJSP é composto, nos termos do Regimento Interno,",
+      "alternativas": {
+        "A": "pelo Presidente do Tribunal, pelo Vice-Presidente, pelo Corregedor Geral da Justiça, pelo Decano e pelos Presidentes das Seções.",
+        "B": "pelos vinte e cinco membros do Órgão Especial.",
+        "C": "pelo Presidente do Tribunal, pelo Corregedor Geral da Justiça e por três desembargadores eleitos.",
+        "D": "pelo Corregedor Geral da Justiça, que o preside, e pelos Presidentes das Seções.",
+        "E": "pelo Presidente, pelo Vice-Presidente e pelo Decano, apenas."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 15 do RITJSP. O Conselho é presidido pelo Presidente do Tribunal; havendo empate, prevalece o voto do presidente do Conselho (§ 2º)."
+    },
+    {
+      "id": "legislacao-interna-017",
+      "lei": "ri",
+      "artigos": ["ri-146"],
+      "tema": "Sustentação oral",
+      "dificuldade": "dificil",
+      "enunciado": "Ressalvada disposição legal em sentido contrário, o Regimento Interno do TJSP estabelece que NÃO haverá sustentação oral no julgamento de",
+      "alternativas": {
+        "A": "apelação cível.",
+        "B": "agravo de instrumento referente a tutela provisória de urgência.",
+        "C": "embargos de declaração.",
+        "D": "recurso em sentido estrito.",
+        "E": "apelação criminal."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 146, § 4º, do RITJSP: não há sustentação oral em embargos declaratórios, incidente de suspeição, conflito de competência, arquivamento de inquérito ou representação criminal, e agravo — exceto no de instrumento referente a tutelas provisórias de urgência ou da evidência e no interno contra extinção de feito originário."
+    },
+    {
+      "id": "legislacao-interna-018",
+      "lei": "nscgj",
+      "artigos": ["nscgj-6", "nscgj-8"],
+      "tema": "Correições",
+      "dificuldade": "media",
+      "enunciado": "De acordo com as Normas de Serviço da Corregedoria Geral da Justiça, o Juiz Corregedor Permanente efetuará correição ordinária",
+      "alternativas": {
+        "A": "a cada dois anos, sem necessidade de edital.",
+        "B": "uma vez por ano, de preferência no mês de dezembro, anunciada por edital com pelo menos quinze dias de antecedência.",
+        "C": "semestralmente, anunciada com trinta dias de antecedência.",
+        "D": "uma vez por ano, a qualquer momento e sem prévio anúncio.",
+        "E": "mensalmente, em todas as serventias."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 8º e § 1º das NSCGJ (edital afixado no átrio do fórum e publicado no DJE, com comunicação à OAB). A correição EXTRAordinária é que se realiza a qualquer momento e sem prévio anúncio (art. 6º, § 2º)."
+    },
+    {
+      "id": "legislacao-interna-019",
+      "lei": "nscgj",
+      "artigos": ["nscgj-104"],
+      "tema": "Prazo para expedição de certidões",
+      "dificuldade": "facil",
+      "enunciado": "Segundo as Normas de Serviço da Corregedoria Geral da Justiça, as certidões serão expedidas pelo ofício de justiça no prazo de",
+      "alternativas": {
+        "A": "48 (quarenta e oito) horas, contadas do pedido.",
+        "B": "10 (dez) dias, contados do despacho do juiz.",
+        "C": "15 (quinze) dias, contados do recolhimento das custas.",
+        "D": "5 (cinco) dias, contados da data do recebimento do respectivo pedido.",
+        "E": "3 (três) dias úteis, em qualquer hipótese."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 104, § 2º, das NSCGJ. A certidão para fins de protesto de decisão judicial é expedida em 3 dias (art. 104-A, § 1º). Certidão de processo em segredo de justiça depende de despacho do juiz, salvo se pedida por parte ou procurador habilitado (art. 104, § 5º)."
+    },
+    {
+      "id": "legislacao-interna-020",
+      "lei": "nscgj",
+      "artigos": ["nscgj-132", "nscgj-133", "nscgj-165"],
+      "tema": "Intimações e carga rápida",
+      "dificuldade": "dificil",
+      "enunciado": "Considerando as Normas de Serviço da Corregedoria Geral da Justiça, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O servidor pode prestar informações por telefone aos advogados sobre os atos do processo.",
+        "B": "Despachos, decisões interlocutórias e sentenças devem ser encaminhados à publicação no prazo máximo de 10 (dez) dias da devolução dos autos em cartório.",
+        "C": "A carga rápida dos autos é concedida pelo período de uma hora, e os requerimentos são atendidos se formulados até 1 (uma) hora antes do término do expediente forense.",
+        "D": "É permitida a retenção do documento de identificação do advogado para controle da carga.",
+        "E": "A carga rápida é concedida pelo prazo de 24 horas."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 165, caput e I, das NSCGJ. É vedado prestar informações por telefone (art. 132, parágrafo único); a publicação deve ser encaminhada em até 3 dias (art. 133); e é vedada a retenção do documento de identificação do advogado (art. 166)."
+    }
+  ]
+}

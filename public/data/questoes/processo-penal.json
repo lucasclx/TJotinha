@@ -1,0 +1,346 @@
+{
+  "materia": "Direito Processual Penal",
+  "slug": "processo-penal",
+  "questoes": [
+    {
+      "id": "processo-penal-001",
+      "lei": "cpp",
+      "artigos": ["cpp-252", "cpp-254"],
+      "tema": "Impedimento x suspeição do juiz",
+      "dificuldade": "media",
+      "enunciado": "Nos termos do Código de Processo Penal, constitui hipótese de impedimento (e não de suspeição) do juiz a situação em que",
+      "alternativas": {
+        "A": "o juiz for amigo íntimo ou inimigo capital de qualquer das partes.",
+        "B": "o juiz tiver aconselhado qualquer das partes.",
+        "C": "o juiz for credor ou devedor de qualquer das partes.",
+        "D": "ele próprio houver servido como testemunha no processo.",
+        "E": "o juiz for sócio de sociedade interessada no processo."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 252, II, do CPP: o juiz não poderá exercer jurisdição no processo em que ele próprio houver desempenhado as funções do inciso I ou servido como testemunha (impedimento). As demais alternativas são hipóteses de suspeição do art. 254 (incisos I, IV, V e VI)."
+    },
+    {
+      "id": "processo-penal-002",
+      "lei": "cpp",
+      "artigos": ["cpp-256"],
+      "tema": "Suspeição provocada pela parte",
+      "dificuldade": "facil",
+      "enunciado": "Segundo o CPP, a suspeição não poderá ser declarada nem reconhecida quando",
+      "alternativas": {
+        "A": "a parte injuriar o juiz ou de propósito der motivo para criá-la.",
+        "B": "o processo já estiver na fase de alegações finais.",
+        "C": "a parte for assistida pela Defensoria Pública.",
+        "D": "o juiz for parente afim de terceiro grau da parte.",
+        "E": "a arguição for feita pelo Ministério Público."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 256 do CPP: \"A suspeição não poderá ser declarada nem reconhecida, quando a parte injuriar o juiz ou de propósito der motivo para criá-la.\""
+    },
+    {
+      "id": "processo-penal-003",
+      "lei": "cpp",
+      "artigos": ["cpp-361", "cpp-362"],
+      "tema": "Citação por edital e com hora certa",
+      "dificuldade": "facil",
+      "enunciado": "De acordo com o CPP, se o réu não for encontrado, será citado por edital, com o prazo de",
+      "alternativas": {
+        "A": "10 (dez) dias.",
+        "B": "30 (trinta) dias.",
+        "C": "15 (quinze) dias.",
+        "D": "20 (vinte) dias.",
+        "E": "5 (cinco) dias."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 361 do CPP: \"Se o réu não for encontrado, será citado por edital, com o prazo de 15 (quinze) dias.\" Se o réu se oculta para não ser citado, a citação é com hora certa (art. 362)."
+    },
+    {
+      "id": "processo-penal-004",
+      "lei": "cpp",
+      "artigos": ["cpp-366"],
+      "tema": "Réu citado por edital que não comparece",
+      "dificuldade": "media",
+      "enunciado": "Se o acusado, citado por edital, não comparecer nem constituir advogado,",
+      "alternativas": {
+        "A": "o processo seguirá à revelia, com nomeação de defensor dativo.",
+        "B": "ficarão suspensos o processo e o curso do prazo prescricional, podendo o juiz determinar a produção antecipada das provas consideradas urgentes.",
+        "C": "o processo será suspenso, mas o prazo prescricional continuará a correr.",
+        "D": "o juiz deverá decretar obrigatoriamente a prisão preventiva.",
+        "E": "será realizada nova citação, desta vez com hora certa."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 366 do CPP: ficam suspensos o processo e o curso do prazo prescricional, podendo o juiz determinar a produção antecipada das provas urgentes e, se for o caso, decretar prisão preventiva (faculdade, e não obrigação)."
+    },
+    {
+      "id": "processo-penal-005",
+      "lei": "cpp",
+      "artigos": ["cpp-370"],
+      "tema": "Intimações",
+      "dificuldade": "media",
+      "enunciado": "Conforme o CPP, a intimação do Ministério Público e do defensor nomeado será",
+      "alternativas": {
+        "A": "feita por publicação no órgão oficial, incluindo o nome do acusado.",
+        "B": "feita por via postal, com aviso de recebimento.",
+        "C": "dispensada, se o ato for praticado em audiência.",
+        "D": "feita por edital, com prazo de dez dias.",
+        "E": "pessoal."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 370, § 4º, do CPP: \"A intimação do Ministério Público e do defensor nomeado será pessoal.\" Já o defensor constituído, o advogado do querelante e o assistente são intimados por publicação no órgão oficial, incluindo o nome do acusado, sob pena de nulidade (§ 1º)."
+    },
+    {
+      "id": "processo-penal-006",
+      "lei": "cpp",
+      "artigos": ["cpp-394"],
+      "tema": "Espécies de procedimento comum",
+      "dificuldade": "facil",
+      "enunciado": "O procedimento comum ordinário será adotado quando tiver por objeto crime cuja sanção máxima cominada for",
+      "alternativas": {
+        "A": "superior a 2 (dois) anos de pena privativa de liberdade.",
+        "B": "inferior a 4 (quatro) anos de pena privativa de liberdade.",
+        "C": "igual ou superior a 8 (oito) anos de pena privativa de liberdade.",
+        "D": "igual ou superior a 4 (quatro) anos de pena privativa de liberdade.",
+        "E": "superior a 4 (quatro) anos de reclusão, exclusivamente."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 394, § 1º, I, do CPP: ordinário, quando a sanção máxima cominada for igual ou superior a 4 anos; sumário, quando inferior a 4 anos (II); sumaríssimo, para as infrações de menor potencial ofensivo (III)."
+    },
+    {
+      "id": "processo-penal-007",
+      "lei": "cpp",
+      "artigos": ["cpp-397"],
+      "tema": "Absolvição sumária",
+      "dificuldade": "media",
+      "enunciado": "Após a resposta à acusação, o juiz deverá absolver sumariamente o acusado quando verificar, entre outras hipóteses,",
+      "alternativas": {
+        "A": "a existência manifesta de causa excludente da culpabilidade, inclusive a inimputabilidade.",
+        "B": "a falta de justa causa para o exercício da ação penal.",
+        "C": "que o fato narrado evidentemente não constitui crime.",
+        "D": "a inépcia manifesta da denúncia.",
+        "E": "a ausência de pressuposto processual."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 397 do CPP: absolvição sumária por excludente manifesta da ilicitude; excludente manifesta da culpabilidade, salvo inimputabilidade; fato que evidentemente não constitui crime; ou extinção da punibilidade. Inépcia, falta de pressuposto processual ou de justa causa são hipóteses de rejeição da denúncia (art. 395)."
+    },
+    {
+      "id": "processo-penal-008",
+      "lei": "cpp",
+      "artigos": ["cpp-400", "cpp-401"],
+      "tema": "Audiência de instrução no rito ordinário",
+      "dificuldade": "media",
+      "enunciado": "No procedimento ordinário, a audiência de instrução e julgamento deve ser realizada no prazo máximo de ____ dias, e poderão ser inquiridas até ____ testemunhas arroladas pela acusação e igual número pela defesa. Assinale a alternativa que preenche corretamente as lacunas.",
+      "alternativas": {
+        "A": "60 (sessenta) … 8 (oito)",
+        "B": "30 (trinta) … 5 (cinco)",
+        "C": "90 (noventa) … 8 (oito)",
+        "D": "60 (sessenta) … 5 (cinco)",
+        "E": "30 (trinta) … 8 (oito)"
+      },
+      "gabarito": "A",
+      "comentario": "Arts. 400 e 401 do CPP (rito ordinário): audiência em até 60 dias; até 8 testemunhas por parte. No rito sumário, a audiência é em até 30 dias (art. 531) com até 5 testemunhas por parte (art. 532)."
+    },
+    {
+      "id": "processo-penal-009",
+      "lei": "cpp",
+      "artigos": ["cpp-403"],
+      "tema": "Alegações finais orais",
+      "dificuldade": "media",
+      "enunciado": "Não havendo requerimento de diligências ao final da audiência no procedimento ordinário, as alegações finais orais serão oferecidas pela acusação e pela defesa, respectivamente, pelo prazo de",
+      "alternativas": {
+        "A": "10 (dez) minutos, prorrogáveis por mais 5 (cinco).",
+        "B": "15 (quinze) minutos, improrrogáveis.",
+        "C": "20 (vinte) minutos, prorrogáveis por mais 10 (dez).",
+        "D": "30 (trinta) minutos, prorrogáveis por mais 10 (dez).",
+        "E": "uma hora e meia para cada parte."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 403 do CPP: alegações finais orais por 20 minutos, prorrogáveis por mais 10. Diante da complexidade do caso ou do número de acusados, o juiz pode conceder 5 dias sucessivos para memoriais e terá 10 dias para sentenciar (§ 3º)."
+    },
+    {
+      "id": "processo-penal-010",
+      "lei": "cpp",
+      "artigos": ["cpp-414"],
+      "tema": "Impronúncia",
+      "dificuldade": "media",
+      "enunciado": "Não se convencendo da materialidade do fato ou da existência de indícios suficientes de autoria ou de participação, o juiz, fundamentadamente, impronunciará o acusado. Nesse caso,",
+      "alternativas": {
+        "A": "a decisão faz coisa julgada material, impedindo nova acusação.",
+        "B": "caberá recurso em sentido estrito contra a impronúncia.",
+        "C": "os autos serão remetidos ao juiz singular competente.",
+        "D": "o acusado deverá ser submetido a julgamento pelo júri.",
+        "E": "enquanto não ocorrer a extinção da punibilidade, poderá ser formulada nova denúncia ou queixa se houver prova nova."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 414, parágrafo único, do CPP. Contra a sentença de impronúncia ou de absolvição sumária cabe apelação (art. 416), e não recurso em sentido estrito."
+    },
+    {
+      "id": "processo-penal-011",
+      "lei": "cpp",
+      "artigos": ["cpp-447", "cpp-463"],
+      "tema": "Composição do Tribunal do Júri",
+      "dificuldade": "facil",
+      "enunciado": "O Tribunal do Júri é composto por 1 (um) juiz togado, seu presidente, e por",
+      "alternativas": {
+        "A": "21 (vinte e um) jurados sorteados, 7 (sete) dos quais constituirão o Conselho de Sentença.",
+        "B": "25 (vinte e cinco) jurados sorteados, 7 (sete) dos quais constituirão o Conselho de Sentença.",
+        "C": "25 (vinte e cinco) jurados sorteados, 12 (doze) dos quais constituirão o Conselho de Sentença.",
+        "D": "15 (quinze) jurados sorteados, 7 (sete) dos quais constituirão o Conselho de Sentença.",
+        "E": "15 (quinze) jurados sorteados, 5 (cinco) dos quais constituirão o Conselho de Sentença."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 447 do CPP: 1 juiz togado e 25 jurados, 7 dos quais formam o Conselho de Sentença. Para instalar os trabalhos basta o comparecimento de pelo menos 15 jurados (art. 463)."
+    },
+    {
+      "id": "processo-penal-012",
+      "lei": "cpp",
+      "artigos": ["cpp-468"],
+      "tema": "Recusas imotivadas de jurados",
+      "dificuldade": "media",
+      "enunciado": "À medida que as cédulas forem sendo retiradas da urna para a formação do Conselho de Sentença, as partes poderão recusar os jurados sorteados sem motivar a recusa. Segundo o CPP,",
+      "alternativas": {
+        "A": "o Ministério Público e, depois dele, a defesa poderão recusar até 5 (cinco) jurados cada um.",
+        "B": "apenas a defesa pode recusar imotivadamente, até 3 (três) jurados.",
+        "C": "a defesa e, depois dela, o Ministério Público poderão recusar até 3 (três) jurados cada parte.",
+        "D": "o Ministério Público e, depois dele, a defesa poderão recusar até 3 (três) jurados cada parte.",
+        "E": "cada parte poderá recusar até 2 (dois) jurados, começando pelo Ministério Público."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 468 do CPP: \"a defesa e, depois dela, o Ministério Público poderão recusar os jurados sorteados, até 3 (três) cada parte, sem motivar a recusa.\""
+    },
+    {
+      "id": "processo-penal-013",
+      "lei": "cpp",
+      "artigos": ["cpp-477"],
+      "tema": "Tempo dos debates no Júri",
+      "dificuldade": "media",
+      "enunciado": "Nos debates em plenário do Júri, com um único acusado, o tempo destinado à acusação e à defesa será de",
+      "alternativas": {
+        "A": "uma hora para cada, e de meia hora para a réplica e outro tanto para a tréplica.",
+        "B": "duas horas para cada, e de uma hora para a réplica e outro tanto para a tréplica.",
+        "C": "uma hora e meia para cada, e de duas horas para a réplica e outro tanto para a tréplica.",
+        "D": "duas horas e meia para cada, e de duas horas para a réplica e outro tanto para a tréplica.",
+        "E": "uma hora e meia para cada, e de uma hora para a réplica e outro tanto para a tréplica."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 477 do CPP. Havendo mais de um acusado, o tempo da acusação e da defesa é acrescido de 1 hora e elevado ao dobro o da réplica e da tréplica (§ 2º)."
+    },
+    {
+      "id": "processo-penal-014",
+      "lei": "cpp",
+      "artigos": ["cpp-581", "cpp-416"],
+      "tema": "Cabimento do recurso em sentido estrito",
+      "dificuldade": "media",
+      "enunciado": "Assinale a alternativa que indica decisão contra a qual cabe recurso em sentido estrito, nos termos do art. 581 do CPP.",
+      "alternativas": {
+        "A": "Decisão que pronunciar o réu.",
+        "B": "Sentença de absolvição sumária no procedimento do júri.",
+        "C": "Sentença de impronúncia.",
+        "D": "Sentença definitiva de condenação proferida por juiz singular.",
+        "E": "Decisão que receber a denúncia."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 581, IV, do CPP: cabe RESE da decisão que pronunciar o réu. Contra a impronúncia e a absolvição sumária cabe apelação (art. 416); contra a condenação por juiz singular, apelação (art. 593, I). O RESE cabe da decisão que NÃO receber a denúncia (art. 581, I)."
+    },
+    {
+      "id": "processo-penal-015",
+      "lei": "cpp",
+      "artigos": ["cpp-593", "cpp-586"],
+      "tema": "Prazo de apelação",
+      "dificuldade": "facil",
+      "enunciado": "Segundo o CPP, a apelação e o recurso em sentido estrito voluntário poderão ser interpostos, respectivamente, nos prazos de",
+      "alternativas": {
+        "A": "15 (quinze) e 5 (cinco) dias.",
+        "B": "5 (cinco) e 5 (cinco) dias.",
+        "C": "10 (dez) e 5 (cinco) dias.",
+        "D": "5 (cinco) e 2 (dois) dias.",
+        "E": "8 (oito) e 3 (três) dias."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 593 do CPP: apelação no prazo de 5 dias. Art. 586: o recurso voluntário (RESE) poderá ser interposto no prazo de cinco dias. Atenção: as razões de apelação são apresentadas em 8 dias (art. 600) e as do RESE em 2 dias (art. 588)."
+    },
+    {
+      "id": "processo-penal-016",
+      "lei": "cpp",
+      "artigos": ["cpp-619"],
+      "tema": "Embargos de declaração no CPP",
+      "dificuldade": "media",
+      "enunciado": "Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão, no prazo de",
+      "alternativas": {
+        "A": "cinco dias contados da intimação pessoal das partes.",
+        "B": "dez dias contados da publicação do acórdão.",
+        "C": "quinze dias úteis.",
+        "D": "dois dias contados da sua publicação.",
+        "E": "quarenta e oito horas contadas do julgamento."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 619 do CPP: embargos de declaração no prazo de dois dias contados da publicação. Não confundir com os embargos infringentes e de nulidade (10 dias, art. 609, parágrafo único) e com os embargos de declaração no JECrim (5 dias, art. 83, § 1º, da Lei 9.099/1995)."
+    },
+    {
+      "id": "processo-penal-017",
+      "lei": "cpp",
+      "artigos": ["cpp-622", "cpp-623", "cpp-626"],
+      "tema": "Revisão criminal",
+      "dificuldade": "dificil",
+      "enunciado": "A respeito da revisão criminal, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Só pode ser requerida antes da extinção da pena.",
+        "B": "Julgada procedente, o tribunal poderá agravar a pena, se constatar erro na dosimetria.",
+        "C": "No caso de morte do réu, poderá ser pedida pelo cônjuge, ascendente, descendente ou irmão.",
+        "D": "É admissível a reiteração do pedido com os mesmos fundamentos, a qualquer tempo.",
+        "E": "Somente o Ministério Público pode requerê-la em favor do condenado."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 623 do CPP. A revisão pode ser requerida em qualquer tempo, antes da extinção da pena ou após; a reiteração só é admitida se fundada em novas provas (art. 622). Não poderá ser agravada a pena imposta pela decisão revista (art. 626, parágrafo único)."
+    },
+    {
+      "id": "processo-penal-018",
+      "lei": "l9099pen",
+      "artigos": ["l9099pen-61"],
+      "tema": "Infração de menor potencial ofensivo",
+      "dificuldade": "facil",
+      "enunciado": "Consideram-se infrações penais de menor potencial ofensivo, para os efeitos da Lei nº 9.099/1995,",
+      "alternativas": {
+        "A": "os crimes a que a lei comine pena mínima não superior a 1 (um) ano.",
+        "B": "apenas as contravenções penais.",
+        "C": "os crimes a que a lei comine pena máxima inferior a 4 (quatro) anos.",
+        "D": "os crimes punidos exclusivamente com detenção, qualquer que seja a pena.",
+        "E": "as contravenções penais e os crimes a que a lei comine pena máxima não superior a 2 (dois) anos, cumulada ou não com multa."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 61 da Lei 9.099/1995. A pena mínima igual ou inferior a 1 ano é requisito da suspensão condicional do processo (art. 89), e não do conceito de menor potencial ofensivo."
+    },
+    {
+      "id": "processo-penal-019",
+      "lei": "l9099pen",
+      "artigos": ["l9099pen-74", "l9099pen-75"],
+      "tema": "Composição dos danos civis",
+      "dificuldade": "media",
+      "enunciado": "Em crime de ação penal pública condicionada à representação, a composição dos danos civis homologada pelo juiz no Juizado Especial Criminal",
+      "alternativas": {
+        "A": "acarreta a renúncia ao direito de representação.",
+        "B": "é recorrível por apelação no prazo de dez dias.",
+        "C": "não impede o oferecimento de denúncia pelo Ministério Público.",
+        "D": "depende de homologação pelo juízo cível para ter eficácia de título.",
+        "E": "suspende o processo pelo prazo de dois a quatro anos."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 74 da Lei 9.099/1995: a composição dos danos civis é homologada por sentença irrecorrível e tem eficácia de título a ser executado no juízo cível; tratando-se de ação privada ou pública condicionada à representação, o acordo homologado acarreta a renúncia ao direito de queixa ou representação."
+    },
+    {
+      "id": "processo-penal-020",
+      "lei": "l9099pen",
+      "artigos": ["l9099pen-76", "l9099pen-89"],
+      "tema": "Transação penal x suspensão condicional do processo",
+      "dificuldade": "dificil",
+      "enunciado": "Sobre a transação penal e a suspensão condicional do processo previstas na Lei nº 9.099/1995, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A pena restritiva de direitos aplicada na transação penal importa reincidência.",
+        "B": "A suspensão condicional do processo cabe somente nas infrações de menor potencial ofensivo.",
+        "C": "Durante o prazo de suspensão do processo, a prescrição continua a correr normalmente.",
+        "D": "A suspensão condicional do processo pode ser proposta nos crimes com pena mínima igual ou inferior a um ano, pelo prazo de dois a quatro anos.",
+        "E": "Não se admite a proposta de transação se o agente tiver sido beneficiado pela mesma medida no prazo de dez anos."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 89 da Lei 9.099/1995: nos crimes com pena mínima igual ou inferior a um ano, abrangidos ou não pela Lei, o MP poderá propor a suspensão do processo por dois a quatro anos; não corre a prescrição durante a suspensão (§ 6º). Na transação (art. 76), a pena não importa reincidência (§ 4º) e o impedimento é o benefício anterior no prazo de cinco anos (§ 2º, II)."
+    }
+  ]
+}

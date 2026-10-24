@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "penal",
+    "materia": "Direito Penal",
+    "arquivo": "penal.json",
+    "total": 20
+  },
+  {
+    "slug": "processo-penal",
+    "materia": "Direito Processual Penal",
+    "arquivo": "processo-penal.json",
+    "total": 20
+  },
+  {
+    "slug": "processo-civil",
+    "materia": "Direito Processual Civil",
+    "arquivo": "processo-civil.json",
+    "total": 20
+  },
+  {
+    "slug": "constitucional",
+    "materia": "Direito Constitucional",
+    "arquivo": "constitucional.json",
+    "total": 20
+  },
+  {
+    "slug": "administrativo",
+    "materia": "Direito Administrativo",
+    "arquivo": "administrativo.json",
+    "total": 20
+  },
+  {
+    "slug": "legislacao-interna",
+    "materia": "Legislação Interna",
+    "arquivo": "legislacao-interna.json",
+    "total": 20
+  }
+]
