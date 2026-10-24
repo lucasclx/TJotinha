@@ -1,6 +1,6 @@
 {
  "premissas": {
-  "dataProva": "2027-03-28",
+  "dataProva": "2027-03-14",
   "inicio": "2026-10-26",
   "minutosPorDia": [
    60,
@@ -12,20 +12,20 @@
    240
   ],
   "diaRevisaoSemanal": 0,
-  "semanasFinais": 3
+  "semanasFinais": 2
  },
  "resumo": {
-  "semanas": 22,
-  "horasTotais": 315,
+  "semanas": 20,
+  "horasTotais": 285,
   "horasPorTipo": {
-   "estudo": 147,
-   "questoes": 98,
-   "revisao": 62,
-   "simulado": 8
+   "estudo": 140,
+   "questoes": 80,
+   "revisao": 61,
+   "simulado": 4
   },
   "fimPrimeiraLeitura": "2026-12-18",
-  "ciclosIniciados": 6,
-  "inicioRetaFinal": "2027-03-07"
+  "ciclosIniciados": 5,
+  "inicioRetaFinal": "2027-02-28"
  },
  "avisos": [],
  "semanas": [
@@ -10292,7 +10292,7 @@
    "inicio": "2027-02-22",
    "fim": "2027-02-28",
    "fase": "Ciclo 5: releitura com questões",
-   "minutos": 870,
+   "minutos": 885,
    "dias": [
     {
      "data": "2027-02-22",
@@ -10999,850 +10999,6 @@
     {
      "data": "2027-02-28",
      "diaSemana": "domingo",
-     "minutos": 60,
-     "tarefas": [
-      {
-       "id": "semanal-2027-02-28",
-       "tipo": "revisao",
-       "minutos": 60,
-       "unidades": [
-        "cpp-u4",
-        "cpc-u1",
-        "cpc-u2",
-        "cpc-u3",
-        "cf-u1",
-        "cf-u2",
-        "nscgj-u1",
-        "nscgj-u2",
-        "cpc-u5",
-        "cpc-u4",
-        "cpc-u6",
-        "nscgj-u3",
-        "nscgj-u4",
-        "cpp-u6",
-        "nscgj-u5",
-        "cpp-u5",
-        "cpp-u7",
-        "cpc-u7",
-        "cpc-u8",
-        "cpc-u9",
-        "nscgj-u6",
-        "nscgj-u7",
-        "cf-u3",
-        "cf-u4",
-        "cpc-u10",
-        "cpc-u11",
-        "cpc-u12",
-        "nscgj-u8",
-        "nscgj-u9",
-        "cpp-u8"
-       ],
-       "descricao": "Revisão da semana: reler grifos e anotações de CPP, CPC, CF/88, NSCGJ e refazer as questões que errou."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "n": 19,
-   "inicio": "2027-03-01",
-   "fim": "2027-03-07",
-   "fase": "Ciclo 5: releitura com questões",
-   "minutos": 895,
-   "dias": [
-    {
-     "data": "2027-03-01",
-     "diaSemana": "segunda",
-     "minutos": 110,
-     "tarefas": [
-      {
-       "unidadeId": "cpp-u9",
-       "leiId": "cpp",
-       "de": "cpp-531",
-       "ate": "cpp-548",
-       "ciclo": 5,
-       "id": "estudo-cpp-u9-c5",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPP, Arts. 531 a 548 (Capítulo V · Do processo sumário)"
-      },
-      {
-       "unidadeId": "cpp-u9",
-       "leiId": "cpp",
-       "de": "cpp-531",
-       "ate": "cpp-548",
-       "ciclo": 5,
-       "id": "questoes-cpp-u9-c5",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPP, Arts. 531 a 548"
-      },
-      {
-       "unidadeId": "cpp-u10",
-       "leiId": "cpp",
-       "de": "cpp-574",
-       "ate": "cpp-606",
-       "ciclo": 5,
-       "id": "estudo-cpp-u10-c5",
-       "tipo": "estudo",
-       "minutos": 15,
-       "descricao": "Reler CPP, Arts. 574 a 606 (Capítulo I · Disposições gerais)"
-      },
-      {
-       "unidadeId": "cpp-u10",
-       "leiId": "cpp",
-       "de": "cpp-574",
-       "ate": "cpp-606",
-       "ciclo": 5,
-       "id": "questoes-cpp-u10-c5",
-       "tipo": "questoes",
-       "minutos": 15,
-       "descricao": "Questões VUNESP: CPP, Arts. 574 a 606"
-      },
-      {
-       "unidadeId": "cpc-u13",
-       "leiId": "cpc",
-       "de": "cpc-464",
-       "ate": "cpc-480",
-       "ciclo": 5,
-       "id": "estudo-cpc-u13-c5",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPC, Arts. 464 a 480 (Seção X · Da Prova Pericial)"
-      },
-      {
-       "unidadeId": "cpc-u13",
-       "leiId": "cpc",
-       "de": "cpc-464",
-       "ate": "cpc-480",
-       "ciclo": 5,
-       "id": "questoes-cpc-u13-c5",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPC, Arts. 464 a 480"
-      },
-      {
-       "unidadeId": "cpc-u14",
-       "leiId": "cpc",
-       "de": "cpc-481",
-       "ate": "cpc-495",
-       "ciclo": 5,
-       "id": "estudo-cpc-u14-c5",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPC, Arts. 481 a 495 (Seção XI · Da Inspeção Judicial)"
-      },
-      {
-       "unidadeId": "cpc-u14",
-       "leiId": "cpc",
-       "de": "cpc-481",
-       "ate": "cpc-495",
-       "ciclo": 5,
-       "id": "questoes-cpc-u14-c5",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPC, Arts. 481 a 495"
-      },
-      {
-       "unidadeId": "cpc-u15",
-       "leiId": "cpc",
-       "de": "cpc-496",
-       "ate": "cpc-512",
-       "ciclo": 5,
-       "id": "estudo-cpc-u15-c5",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPC, Arts. 496 a 512 (Seção III · Da Remessa Necessária)"
-      },
-      {
-       "unidadeId": "cpc-u15",
-       "leiId": "cpc",
-       "de": "cpc-496",
-       "ate": "cpc-512",
-       "ciclo": 5,
-       "id": "questoes-cpc-u15-c5",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPC, Arts. 496 a 512"
-      }
-     ]
-    },
-    {
-     "data": "2027-03-02",
-     "diaSemana": "terça",
-     "minutos": 110,
-     "tarefas": [
-      {
-       "unidadeId": "nscgj-u10",
-       "leiId": "nscgj",
-       "de": "nscgj-1206",
-       "ate": "nscgj-1223",
-       "ciclo": 5,
-       "id": "estudo-nscgj-u10-c5",
-       "tipo": "estudo",
-       "minutos": 15,
-       "descricao": "Reler NSCGJ, Arts. 1.206 a 1.223 (Subseção III · Das Exceções ao Peticionamento Eletrônico)"
-      },
-      {
-       "unidadeId": "nscgj-u10",
-       "leiId": "nscgj",
-       "de": "nscgj-1206",
-       "ate": "nscgj-1223",
-       "ciclo": 5,
-       "id": "questoes-nscgj-u10-c5",
-       "tipo": "questoes",
-       "minutos": 15,
-       "descricao": "Questões VUNESP: NSCGJ, Arts. 1.206 a 1.223"
-      },
-      {
-       "unidadeId": "nscgj-u11",
-       "leiId": "nscgj",
-       "de": "nscgj-1224",
-       "ate": "nscgj-1236",
-       "ciclo": 5,
-       "id": "estudo-nscgj-u11-c5",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler NSCGJ, Arts. 1.224 a 1.236 (Seção V · Da Consulta às Movimentações Processuais e Decisões)"
-      },
-      {
-       "unidadeId": "nscgj-u11",
-       "leiId": "nscgj",
-       "de": "nscgj-1224",
-       "ate": "nscgj-1236",
-       "ciclo": 5,
-       "id": "questoes-nscgj-u11-c5",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: NSCGJ, Arts. 1.224 a 1.236"
-      },
-      {
-       "unidadeId": "nscgj-u12",
-       "leiId": "nscgj",
-       "de": "nscgj-1237",
-       "ate": "nscgj-1255",
-       "ciclo": 5,
-       "id": "estudo-nscgj-u12-c5",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler NSCGJ, Arts. 1.237 a 1.255 (Subseção III · Da Elaboração de Expedientes pelo Ofício de Justiça)"
-      },
-      {
-       "unidadeId": "nscgj-u12",
-       "leiId": "nscgj",
-       "de": "nscgj-1237",
-       "ate": "nscgj-1255",
-       "ciclo": 5,
-       "id": "questoes-nscgj-u12-c5",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: NSCGJ, Arts. 1.237 a 1.255"
-      },
-      {
-       "unidadeId": "cpc-u16",
-       "leiId": "cpc",
-       "de": "cpc-513",
-       "ate": "cpc-527",
-       "ciclo": 5,
-       "id": "estudo-cpc-u16-c5",
-       "tipo": "estudo",
-       "minutos": 20,
-       "descricao": "Reler CPC, Arts. 513 a 527 (Capítulo I · Disposições gerais)"
-      },
-      {
-       "unidadeId": "cpc-u16",
-       "leiId": "cpc",
-       "de": "cpc-513",
-       "ate": "cpc-527",
-       "ciclo": 5,
-       "id": "questoes-cpc-u16-c5",
-       "tipo": "questoes",
-       "minutos": 20,
-       "descricao": "Questões VUNESP: CPC, Arts. 513 a 527"
-      }
-     ]
-    },
-    {
-     "data": "2027-03-03",
-     "diaSemana": "quarta",
-     "minutos": 120,
-     "tarefas": [
-      {
-       "unidadeId": "cpc-u17",
-       "leiId": "cpc",
-       "de": "cpc-528",
-       "ate": "cpc-538",
-       "ciclo": 5,
-       "id": "estudo-cpc-u17-c5",
-       "tipo": "estudo",
-       "minutos": 15,
-       "descricao": "Reler CPC, Arts. 528 a 538 (Capítulo IV · Do cumprimento de sentença que reconheça a exigibilidade de obrigação de prestar alimentos)"
-      },
-      {
-       "unidadeId": "cpc-u17",
-       "leiId": "cpc",
-       "de": "cpc-528",
-       "ate": "cpc-538",
-       "ciclo": 5,
-       "id": "questoes-cpc-u17-c5",
-       "tipo": "questoes",
-       "minutos": 15,
-       "descricao": "Questões VUNESP: CPC, Arts. 528 a 538"
-      },
-      {
-       "unidadeId": "nscgj-u13",
-       "leiId": "nscgj",
-       "de": "nscgj-1256",
-       "ate": "nscgj-1264",
-       "ciclo": 5,
-       "id": "estudo-nscgj-u13-c5",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler NSCGJ, Arts. 1.256 a 1.264 (Subseção IX · Da Juntada de Petições Intermediárias)"
-      },
-      {
-       "unidadeId": "nscgj-u13",
-       "leiId": "nscgj",
-       "de": "nscgj-1256",
-       "ate": "nscgj-1264",
-       "ciclo": 5,
-       "id": "questoes-nscgj-u13-c5",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: NSCGJ, Arts. 1.256 a 1.264"
-      },
-      {
-       "unidadeId": "nscgj-u14",
-       "leiId": "nscgj",
-       "de": "nscgj-1265",
-       "ate": "nscgj-1280-A",
-       "ciclo": 5,
-       "id": "estudo-nscgj-u14-c5",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler NSCGJ, Arts. 1.265 a 1.280-A (Subseção XIII · Da Expedição de Mandados de Levantamento)"
-      },
-      {
-       "unidadeId": "nscgj-u14",
-       "leiId": "nscgj",
-       "de": "nscgj-1265",
-       "ate": "nscgj-1280-A",
-       "ciclo": 5,
-       "id": "questoes-nscgj-u14-c5",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: NSCGJ, Arts. 1.265 a 1.280-A"
-      },
-      {
-       "unidadeId": "nscgj-u15",
-       "leiId": "nscgj",
-       "de": "nscgj-1281",
-       "ate": "nscgj-1301",
-       "ciclo": 5,
-       "id": "estudo-nscgj-u15-c5",
-       "tipo": "estudo",
-       "minutos": 15,
-       "descricao": "Reler NSCGJ, Arts. 1.281 a 1.301 (Subseção XXIII · Do Desentranhamento)"
-      },
-      {
-       "unidadeId": "nscgj-u15",
-       "leiId": "nscgj",
-       "de": "nscgj-1281",
-       "ate": "nscgj-1301",
-       "ciclo": 5,
-       "id": "questoes-nscgj-u15-c5",
-       "tipo": "questoes",
-       "minutos": 15,
-       "descricao": "Questões VUNESP: NSCGJ, Arts. 1.281 a 1.301"
-      },
-      {
-       "unidadeId": "cpp-u11",
-       "leiId": "cpp",
-       "de": "cpp-607",
-       "ate": "cpp-638",
-       "ciclo": 5,
-       "id": "estudo-cpp-u11-c5",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPP, Arts. 607 a 638 (Capítulo IV · Do protesto por novo júri)"
-      },
-      {
-       "unidadeId": "cpp-u11",
-       "leiId": "cpp",
-       "de": "cpp-607",
-       "ate": "cpp-638",
-       "ciclo": 5,
-       "id": "questoes-cpp-u11-c5",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPP, Arts. 607 a 638"
-      }
-     ]
-    },
-    {
-     "data": "2027-03-04",
-     "diaSemana": "quinta",
-     "minutos": 120,
-     "tarefas": [
-      {
-       "unidadeId": "cpp-u12",
-       "leiId": "cpp",
-       "de": "cpp-639",
-       "ate": "cpp-667",
-       "ciclo": 5,
-       "id": "estudo-cpp-u12-c5",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPP, Arts. 639 a 667 (Capítulo IX · Da carta testemunhável)"
-      },
-      {
-       "unidadeId": "cpp-u12",
-       "leiId": "cpp",
-       "de": "cpp-639",
-       "ate": "cpp-667",
-       "ciclo": 5,
-       "id": "questoes-cpp-u12-c5",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPP, Arts. 639 a 667"
-      },
-      {
-       "unidadeId": "cpc-u18",
-       "leiId": "cpc",
-       "de": "cpc-994",
-       "ate": "cpc-1014",
-       "ciclo": 5,
-       "id": "estudo-cpc-u18-c5",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPC, Arts. 994 a 1.014 (Capítulo I · Disposições gerais)"
-      },
-      {
-       "unidadeId": "cpc-u18",
-       "leiId": "cpc",
-       "de": "cpc-994",
-       "ate": "cpc-1014",
-       "ciclo": 5,
-       "id": "questoes-cpc-u18-c5",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPC, Arts. 994 a 1.014"
-      },
-      {
-       "unidadeId": "cpc-u19",
-       "leiId": "cpc",
-       "de": "cpc-1015",
-       "ate": "cpc-1026",
-       "ciclo": 5,
-       "id": "estudo-cpc-u19-c5",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPC, Arts. 1.015 a 1.026 (Capítulo III · Do agravo de instrumento)"
-      },
-      {
-       "unidadeId": "cpc-u19",
-       "leiId": "cpc",
-       "de": "cpc-1015",
-       "ate": "cpc-1026",
-       "ciclo": 5,
-       "id": "questoes-cpc-u19-c5",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPC, Arts. 1.015 a 1.026"
-      },
-      {
-       "unidadeId": "cp-u1",
-       "leiId": "cp",
-       "de": "cp-293",
-       "ate": "cp-311-A",
-       "ciclo": 6,
-       "id": "estudo-cp-u1-c6",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CP, Arts. 293 a 311-A (Capítulo II · Da falsidade de títulos e outros papéis públicos)"
-      },
-      {
-       "unidadeId": "cp-u1",
-       "leiId": "cp",
-       "de": "cp-293",
-       "ate": "cp-311-A",
-       "ciclo": 6,
-       "id": "questoes-cp-u1-c6",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CP, Arts. 293 a 311-A"
-      },
-      {
-       "unidadeId": "cp-u2",
-       "leiId": "cp",
-       "de": "cp-312",
-       "ate": "cp-337",
-       "ciclo": 6,
-       "id": "estudo-cp-u2-c6",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CP, Arts. 312 a 337 (Capítulo I · Dos crimes praticados por funcionário público contra a administração em geral)"
-      },
-      {
-       "unidadeId": "cp-u2",
-       "leiId": "cp",
-       "de": "cp-312",
-       "ate": "cp-337",
-       "ciclo": 6,
-       "id": "questoes-cp-u2-c6",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CP, Arts. 312 a 337"
-      },
-      {
-       "unidadeId": "cp-u3",
-       "leiId": "cp",
-       "de": "cp-339",
-       "ate": "cp-359",
-       "ciclo": 6,
-       "id": "estudo-cp-u3-c6",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CP, Arts. 339 a 359 (Capítulo III · Dos crimes contra a administração da justiça)"
-      },
-      {
-       "unidadeId": "cp-u3",
-       "leiId": "cp",
-       "de": "cp-339",
-       "ate": "cp-359",
-       "ciclo": 6,
-       "id": "questoes-cp-u3-c6",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CP, Arts. 339 a 359"
-      }
-     ]
-    },
-    {
-     "data": "2027-03-05",
-     "diaSemana": "sexta",
-     "minutos": 120,
-     "tarefas": [
-      {
-       "unidadeId": "cpp-u1",
-       "leiId": "cpp",
-       "de": "cpp-251",
-       "ate": "cpp-274",
-       "ciclo": 6,
-       "id": "estudo-cpp-u1-c6",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPP, Arts. 251 a 274 (Capítulo I · Do juiz)"
-      },
-      {
-       "unidadeId": "cpp-u1",
-       "leiId": "cpp",
-       "de": "cpp-251",
-       "ate": "cpp-274",
-       "ciclo": 6,
-       "id": "questoes-cpp-u1-c6",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPP, Arts. 251 a 274"
-      },
-      {
-       "unidadeId": "cpp-u2",
-       "leiId": "cpp",
-       "de": "cpp-351",
-       "ate": "cpp-372",
-       "ciclo": 6,
-       "id": "estudo-cpp-u2-c6",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPP, Arts. 351 a 372 (Capítulo I · Das citações)"
-      },
-      {
-       "unidadeId": "cpp-u2",
-       "leiId": "cpp",
-       "de": "cpp-351",
-       "ate": "cpp-372",
-       "ciclo": 6,
-       "id": "questoes-cpp-u2-c6",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPP, Arts. 351 a 372"
-      },
-      {
-       "unidadeId": "cpp-u3",
-       "leiId": "cpp",
-       "de": "cpp-394",
-       "ate": "cpp-405",
-       "ciclo": 6,
-       "id": "estudo-cpp-u3-c6",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPP, Arts. 394 a 405 (Capítulo I · Da instrução criminal)"
-      },
-      {
-       "unidadeId": "cpp-u3",
-       "leiId": "cpp",
-       "de": "cpp-394",
-       "ate": "cpp-405",
-       "ciclo": 6,
-       "id": "questoes-cpp-u3-c6",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPP, Arts. 394 a 405"
-      },
-      {
-       "unidadeId": "cpp-u4",
-       "leiId": "cpp",
-       "de": "cpp-406",
-       "ate": "cpp-424",
-       "ciclo": 6,
-       "id": "estudo-cpp-u4-c6",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPP, Arts. 406 a 424 (Seção I · Da Acusação e da Instrução Preliminar)"
-      },
-      {
-       "unidadeId": "cpp-u4",
-       "leiId": "cpp",
-       "de": "cpp-406",
-       "ate": "cpp-424",
-       "ciclo": 6,
-       "id": "questoes-cpp-u4-c6",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPP, Arts. 406 a 424"
-      },
-      {
-       "unidadeId": "cpc-u1",
-       "leiId": "cpc",
-       "de": "cpc-144",
-       "ate": "cpc-155",
-       "ciclo": 6,
-       "id": "estudo-cpc-u1-c6",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPC, Arts. 144 a 155 (Capítulo II · Dos impedimentos e da suspeição)"
-      },
-      {
-       "unidadeId": "cpc-u1",
-       "leiId": "cpc",
-       "de": "cpc-144",
-       "ate": "cpc-155",
-       "ciclo": 6,
-       "id": "questoes-cpc-u1-c6",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPC, Arts. 144 a 155"
-      },
-      {
-       "unidadeId": "cpc-u2",
-       "leiId": "cpc",
-       "de": "cpc-188",
-       "ate": "cpc-211",
-       "ciclo": 6,
-       "id": "estudo-cpc-u2-c6",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPC, Arts. 188 a 211 (Seção I · Dos Atos em Geral)"
-      },
-      {
-       "unidadeId": "cpc-u2",
-       "leiId": "cpc",
-       "de": "cpc-188",
-       "ate": "cpc-211",
-       "ciclo": 6,
-       "id": "questoes-cpc-u2-c6",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPC, Arts. 188 a 211"
-      }
-     ]
-    },
-    {
-     "data": "2027-03-06",
-     "diaSemana": "sábado",
-     "minutos": 240,
-     "tarefas": [
-      {
-       "unidadeId": "cpc-u3",
-       "leiId": "cpc",
-       "de": "cpc-212",
-       "ate": "cpc-235",
-       "ciclo": 6,
-       "id": "estudo-cpc-u3-c6",
-       "tipo": "estudo",
-       "minutos": 15,
-       "descricao": "Reler CPC, Arts. 212 a 235 (Seção I · Do Tempo)"
-      },
-      {
-       "unidadeId": "cpc-u3",
-       "leiId": "cpc",
-       "de": "cpc-212",
-       "ate": "cpc-235",
-       "ciclo": 6,
-       "id": "questoes-cpc-u3-c6",
-       "tipo": "questoes",
-       "minutos": 15,
-       "descricao": "Questões VUNESP: CPC, Arts. 212 a 235"
-      },
-      {
-       "unidadeId": "cf-u1",
-       "leiId": "cf",
-       "de": "cf-5",
-       "ate": "cf-5",
-       "ciclo": 6,
-       "id": "estudo-cf-u1-c6",
-       "tipo": "estudo",
-       "minutos": 15,
-       "descricao": "Reler CF/88, Art. 5 (Capítulo I · Dos direitos e deveres individuais e coletivos)"
-      },
-      {
-       "unidadeId": "cf-u1",
-       "leiId": "cf",
-       "de": "cf-5",
-       "ate": "cf-5",
-       "ciclo": 6,
-       "id": "questoes-cf-u1-c6",
-       "tipo": "questoes",
-       "minutos": 15,
-       "descricao": "Questões VUNESP: CF/88, Art. 5"
-      },
-      {
-       "unidadeId": "cf-u2",
-       "leiId": "cf",
-       "de": "cf-6",
-       "ate": "cf-13",
-       "ciclo": 6,
-       "id": "estudo-cf-u2-c6",
-       "tipo": "estudo",
-       "minutos": 15,
-       "descricao": "Reler CF/88, Arts. 6 a 13 (Capítulo II · Dos direitos sociais)"
-      },
-      {
-       "unidadeId": "cf-u2",
-       "leiId": "cf",
-       "de": "cf-6",
-       "ate": "cf-13",
-       "ciclo": 6,
-       "id": "questoes-cf-u2-c6",
-       "tipo": "questoes",
-       "minutos": 15,
-       "descricao": "Questões VUNESP: CF/88, Arts. 6 a 13"
-      },
-      {
-       "unidadeId": "nscgj-u1",
-       "leiId": "nscgj",
-       "de": "nscgj-5",
-       "ate": "nscgj-18",
-       "ciclo": 6,
-       "id": "estudo-nscgj-u1-c6",
-       "tipo": "estudo",
-       "minutos": 15,
-       "descricao": "Reler NSCGJ, Arts. 5 a 18 (Seção I · Das Atribuições)"
-      },
-      {
-       "unidadeId": "nscgj-u1",
-       "leiId": "nscgj",
-       "de": "nscgj-5",
-       "ate": "nscgj-18",
-       "ciclo": 6,
-       "id": "questoes-nscgj-u1-c6",
-       "tipo": "questoes",
-       "minutos": 15,
-       "descricao": "Questões VUNESP: NSCGJ, Arts. 5 a 18"
-      },
-      {
-       "unidadeId": "nscgj-u2",
-       "leiId": "nscgj",
-       "de": "nscgj-26",
-       "ate": "nscgj-62",
-       "ciclo": 6,
-       "id": "estudo-nscgj-u2-c6",
-       "tipo": "estudo",
-       "minutos": 20,
-       "descricao": "Reler NSCGJ, Arts. 26 a 62 (Seção I · Disposições Iniciais)"
-      },
-      {
-       "unidadeId": "nscgj-u2",
-       "leiId": "nscgj",
-       "de": "nscgj-26",
-       "ate": "nscgj-62",
-       "ciclo": 6,
-       "id": "questoes-nscgj-u2-c6",
-       "tipo": "questoes",
-       "minutos": 20,
-       "descricao": "Questões VUNESP: NSCGJ, Arts. 26 a 62"
-      },
-      {
-       "unidadeId": "cpc-u4",
-       "leiId": "cpc",
-       "de": "cpc-236",
-       "ate": "cpc-259",
-       "ciclo": 6,
-       "id": "estudo-cpc-u4-c6",
-       "tipo": "estudo",
-       "minutos": 20,
-       "descricao": "Reler CPC, Arts. 236 a 259 (Capítulo I · Disposições gerais)"
-      },
-      {
-       "unidadeId": "cpc-u4",
-       "leiId": "cpc",
-       "de": "cpc-236",
-       "ate": "cpc-259",
-       "ciclo": 6,
-       "id": "questoes-cpc-u4-c6",
-       "tipo": "questoes",
-       "minutos": 20,
-       "descricao": "Questões VUNESP: CPC, Arts. 236 a 259"
-      },
-      {
-       "unidadeId": "cpc-u5",
-       "leiId": "cpc",
-       "de": "cpc-260",
-       "ate": "cpc-275",
-       "ciclo": 6,
-       "id": "estudo-cpc-u5-c6",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPC, Arts. 260 a 275 (Capítulo III · Das cartas)"
-      },
-      {
-       "unidadeId": "cpc-u5",
-       "leiId": "cpc",
-       "de": "cpc-260",
-       "ate": "cpc-275",
-       "ciclo": 6,
-       "id": "questoes-cpc-u5-c6",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPC, Arts. 260 a 275"
-      },
-      {
-       "unidadeId": "cpc-u6",
-       "leiId": "cpc",
-       "de": "cpc-294",
-       "ate": "cpc-310",
-       "ciclo": 6,
-       "id": "estudo-cpc-u6-c6",
-       "tipo": "estudo",
-       "minutos": 10,
-       "descricao": "Reler CPC, Arts. 294 a 310 (Título I · Disposições gerais)"
-      },
-      {
-       "unidadeId": "cpc-u6",
-       "leiId": "cpc",
-       "de": "cpc-294",
-       "ate": "cpc-310",
-       "ciclo": 6,
-       "id": "questoes-cpc-u6-c6",
-       "tipo": "questoes",
-       "minutos": 10,
-       "descricao": "Questões VUNESP: CPC, Arts. 294 a 310"
-      }
-     ]
-    },
-    {
-     "data": "2027-03-07",
-     "diaSemana": "domingo",
      "minutos": 75,
      "tarefas": [
       {
@@ -11881,14 +11037,14 @@
    ]
   },
   {
-   "n": 20,
-   "inicio": "2027-03-08",
-   "fim": "2027-03-14",
+   "n": 19,
+   "inicio": "2027-03-01",
+   "fim": "2027-03-07",
    "fase": "Reta final: revisão geral e simulados",
    "minutos": 820,
    "dias": [
     {
-     "data": "2027-03-08",
+     "data": "2027-03-01",
      "diaSemana": "segunda",
      "minutos": 120,
      "tarefas": [
@@ -11929,7 +11085,7 @@
      ]
     },
     {
-     "data": "2027-03-09",
+     "data": "2027-03-02",
      "diaSemana": "terça",
      "minutos": 105,
      "tarefas": [
@@ -11968,7 +11124,7 @@
      ]
     },
     {
-     "data": "2027-03-10",
+     "data": "2027-03-03",
      "diaSemana": "quarta",
      "minutos": 90,
      "tarefas": [
@@ -12004,7 +11160,7 @@
      ]
     },
     {
-     "data": "2027-03-11",
+     "data": "2027-03-04",
      "diaSemana": "quinta",
      "minutos": 115,
      "tarefas": [
@@ -12042,7 +11198,7 @@
      ]
     },
     {
-     "data": "2027-03-12",
+     "data": "2027-03-05",
      "diaSemana": "sexta",
      "minutos": 100,
      "tarefas": [
@@ -12113,12 +11269,12 @@
      ]
     },
     {
-     "data": "2027-03-13",
+     "data": "2027-03-06",
      "diaSemana": "sábado",
      "minutos": 240,
      "tarefas": [
       {
-       "id": "simulado-2027-03-13",
+       "id": "simulado-2027-03-06",
        "tipo": "simulado",
        "minutos": 240,
        "descricao": "Simulado: prova anterior da VUNESP com tempo cronometrado. Depois corrija e releia os artigos das questões que errou."
@@ -12126,7 +11282,7 @@
      ]
     },
     {
-     "data": "2027-03-14",
+     "data": "2027-03-07",
      "diaSemana": "domingo",
      "minutos": 50,
      "tarefas": [
@@ -12152,14 +11308,14 @@
    ]
   },
   {
-   "n": 21,
-   "inicio": "2027-03-15",
-   "fim": "2027-03-21",
+   "n": 20,
+   "inicio": "2027-03-08",
+   "fim": "2027-03-13",
    "fase": "Reta final: revisão geral e simulados",
-   "minutos": 845,
+   "minutos": 605,
    "dias": [
     {
-     "data": "2027-03-15",
+     "data": "2027-03-08",
      "diaSemana": "segunda",
      "minutos": 105,
      "tarefas": [
@@ -12198,7 +11354,7 @@
      ]
     },
     {
-     "data": "2027-03-16",
+     "data": "2027-03-09",
      "diaSemana": "terça",
      "minutos": 85,
      "tarefas": [
@@ -12250,7 +11406,7 @@
      ]
     },
     {
-     "data": "2027-03-17",
+     "data": "2027-03-10",
      "diaSemana": "quarta",
      "minutos": 115,
      "tarefas": [
@@ -12290,7 +11446,7 @@
      ]
     },
     {
-     "data": "2027-03-18",
+     "data": "2027-03-11",
      "diaSemana": "quinta",
      "minutos": 120,
      "tarefas": [
@@ -12312,7 +11468,7 @@
        "descricao": "Revisão final: Regimento Interno, Arts. 152 a 290"
       },
       {
-       "id": "questoes-mistas-2027-03-18",
+       "id": "questoes-mistas-2027-03-11",
        "tipo": "questoes",
        "minutos": 60,
        "descricao": "Questões mistas de todas as matérias, focando nos assuntos em que mais errou."
@@ -12320,12 +11476,12 @@
      ]
     },
     {
-     "data": "2027-03-19",
+     "data": "2027-03-12",
      "diaSemana": "sexta",
      "minutos": 120,
      "tarefas": [
       {
-       "id": "questoes-mistas-2027-03-19",
+       "id": "questoes-mistas-2027-03-12",
        "tipo": "questoes",
        "minutos": 120,
        "descricao": "Questões mistas de todas as matérias, focando nos assuntos em que mais errou."
@@ -12333,112 +11489,12 @@
      ]
     },
     {
-     "data": "2027-03-20",
-     "diaSemana": "sábado",
-     "minutos": 240,
-     "tarefas": [
-      {
-       "id": "simulado-2027-03-20",
-       "tipo": "simulado",
-       "minutos": 240,
-       "descricao": "Simulado: prova anterior da VUNESP com tempo cronometrado. Depois corrija e releia os artigos das questões que errou."
-      }
-     ]
-    },
-    {
-     "data": "2027-03-21",
-     "diaSemana": "domingo",
-     "minutos": 60,
-     "tarefas": [
-      {
-       "id": "questoes-mistas-2027-03-21",
-       "tipo": "questoes",
-       "minutos": 60,
-       "descricao": "Questões mistas de todas as matérias, focando nos assuntos em que mais errou."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "n": 22,
-   "inicio": "2027-03-22",
-   "fim": "2027-03-27",
-   "fase": "Reta final: revisão geral e simulados",
-   "minutos": 660,
-   "dias": [
-    {
-     "data": "2027-03-22",
-     "diaSemana": "segunda",
-     "minutos": 120,
-     "tarefas": [
-      {
-       "id": "questoes-mistas-2027-03-22",
-       "tipo": "questoes",
-       "minutos": 120,
-       "descricao": "Questões mistas de todas as matérias, focando nos assuntos em que mais errou."
-      }
-     ]
-    },
-    {
-     "data": "2027-03-23",
-     "diaSemana": "terça",
-     "minutos": 120,
-     "tarefas": [
-      {
-       "id": "questoes-mistas-2027-03-23",
-       "tipo": "questoes",
-       "minutos": 120,
-       "descricao": "Questões mistas de todas as matérias, focando nos assuntos em que mais errou."
-      }
-     ]
-    },
-    {
-     "data": "2027-03-24",
-     "diaSemana": "quarta",
-     "minutos": 120,
-     "tarefas": [
-      {
-       "id": "questoes-mistas-2027-03-24",
-       "tipo": "questoes",
-       "minutos": 120,
-       "descricao": "Questões mistas de todas as matérias, focando nos assuntos em que mais errou."
-      }
-     ]
-    },
-    {
-     "data": "2027-03-25",
-     "diaSemana": "quinta",
-     "minutos": 120,
-     "tarefas": [
-      {
-       "id": "questoes-mistas-2027-03-25",
-       "tipo": "questoes",
-       "minutos": 120,
-       "descricao": "Questões mistas de todas as matérias, focando nos assuntos em que mais errou."
-      }
-     ]
-    },
-    {
-     "data": "2027-03-26",
-     "diaSemana": "sexta",
-     "minutos": 120,
-     "tarefas": [
-      {
-       "id": "questoes-mistas-2027-03-26",
-       "tipo": "questoes",
-       "minutos": 120,
-       "descricao": "Questões mistas de todas as matérias, focando nos assuntos em que mais errou."
-      }
-     ]
-    },
-    {
-     "data": "2027-03-27",
+     "data": "2027-03-13",
      "diaSemana": "sábado",
      "minutos": 60,
      "tarefas": [
       {
-       "id": "vespera-2027-03-27",
+       "id": "vespera-2027-03-13",
        "tipo": "revisao",
        "minutos": 60,
        "descricao": "Véspera: revisão leve dos grifos e anotações, sem conteúdo novo. Descanse."

@@ -11,7 +11,7 @@
 // - Reta final: revisão geral por peso e simulados semanais.
 
 export const PADRAO = {
-  dataProva: '2027-03-28',
+  dataProva: '2027-03-14',
   inicio: '2026-10-26',
   // Minutos por dia da semana, de domingo (0) a sábado (6).
   minutosPorDia: [60, 120, 120, 120, 120, 120, 240],

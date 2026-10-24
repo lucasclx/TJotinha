@@ -22,7 +22,7 @@ Se o tempo não der para a primeira leitura antes da reta final, o resultado tra
 
 ## Premissas (rascunho, a confirmar)
 
-- Prova em 28/03/2027 e início em 26/10/2026.
+- Prova em 14/03/2027 (data da capa do material) e início em 26/10/2026.
 - 2h de segunda a sexta, 4h no sábado e 1h no domingo.
 - Primeira leitura a 250 caracteres por minuto (ler, grifar e anotar).
 - Pesos de incidência (1 a 3) em `extrair_unidades.mjs` são estimativas a partir do histórico da VUNESP, não dados oficiais.
@@ -43,10 +43,10 @@ Se o tempo não der para a primeira leitura antes da reta final, o resultado tra
 `cronograma.json` (e o retorno de `gerarCronograma(unidades, opcoes)`):
 
 ```json
-{ "premissas": { "dataProva": "2027-03-28", "inicio": "2026-10-26",
-    "minutosPorDia": [60,120,120,120,120,120,240], "diaRevisaoSemanal": 0, "semanasFinais": 3 },
-  "resumo": { "semanas": 22, "horasTotais": 316, "horasPorTipo": {}, "fimPrimeiraLeitura": "2026-12-18",
-    "ciclosIniciados": 6, "inicioRetaFinal": "2027-03-07" },
+{ "premissas": { "dataProva": "2027-03-14", "inicio": "2026-10-26",
+    "minutosPorDia": [60,120,120,120,120,120,240], "diaRevisaoSemanal": 0, "semanasFinais": 2 },
+  "resumo": { "semanas": 20, "horasTotais": 285, "horasPorTipo": {}, "fimPrimeiraLeitura": "2026-12-18",
+    "ciclosIniciados": 5, "inicioRetaFinal": "2027-02-28" },
   "avisos": [],
   "semanas": [ { "n": 1, "inicio": "2026-10-26", "fim": "2026-11-01", "fase": "Ciclo 1: ...", "minutos": 780,
     "dias": [ { "data": "2026-10-26", "diaSemana": "segunda", "minutos": 100,
@@ -62,7 +62,7 @@ Se o tempo não der para a primeira leitura antes da reta final, o resultado tra
 
 ```sh
 node scripts/cronograma/extrair_unidades.mjs "Lei Seca Bloco II - TJ-SP 2027.html"
-node scripts/cronograma/gerar_cronograma.mjs --prova 2027-03-28 --inicio 2026-10-26 --minutos 60,120,120,120,120,120,240
+node scripts/cronograma/gerar_cronograma.mjs --prova 2027-03-14 --inicio 2026-10-26 --minutos 60,120,120,120,120,120,240
 ```
 
 `--minutos` vai de domingo a sábado.

@@ -4,16 +4,16 @@ Gerado por `scripts/cronograma/gerar_cronograma.mjs`. Não edite à mão: rode o
 
 ## Premissas
 
-- Prova: 28/03/2027. Início: 26/10/2026.
+- Prova: 14/03/2027. Início: 26/10/2026.
 - Tempo por dia: dom 1h, seg 2h, ter 2h, qua 2h, qui 2h, sex 2h, sáb 4h.
-- Domingo é dia de revisão semanal. Reta final de 3 semanas com simulados.
+- Domingo é dia de revisão semanal. Reta final de 2 semanas com simulados.
 - Ritmo de primeira leitura: 250 caracteres por minuto (ler, grifar e anotar). Pesos de incidência são estimativas.
 
 ## Resumo
 
-- 22 semanas, 315 h no total (estudo 147 h, questoes 98 h, revisao 62 h, simulado 8 h).
-- Primeira leitura completa termina em 18/12/2026; ciclos iniciados: 6.
-- Reta final começa em 07/03/2027.
+- 20 semanas, 285 h no total (estudo 140 h, questoes 80 h, revisao 61 h, simulado 4 h).
+- Primeira leitura completa termina em 18/12/2026; ciclos iniciados: 5.
+- Reta final começa em 28/02/2027.
 
 ## Semana 1 (26/10/2026 a 01/11/2026) — Ciclo 1: primeira leitura com questões
 
@@ -1315,126 +1315,34 @@ Gerado por `scripts/cronograma/gerar_cronograma.mjs`. Não edite à mão: rode o
 - [ ] Reler CPP, Arts. 492 a 497 (Seção XIV · Da sentença) — 0h10
 - [ ] Questões VUNESP: CPP, Arts. 492 a 497 — 0h10
 
-**domingo 28/02/2027** (1h)
-
-- [ ] Revisão da semana: reler grifos e anotações de CPP, CPC, CF/88, NSCGJ e refazer as questões que errou. — 1h
-
-## Semana 19 (01/03/2027 a 07/03/2027) — Ciclo 5: releitura com questões
-
-**segunda 01/03/2027** (1h50)
-
-- [ ] Reler CPP, Arts. 531 a 548 (Capítulo V · Do processo sumário) — 0h10
-- [ ] Questões VUNESP: CPP, Arts. 531 a 548 — 0h10
-- [ ] Reler CPP, Arts. 574 a 606 (Capítulo I · Disposições gerais) — 0h15
-- [ ] Questões VUNESP: CPP, Arts. 574 a 606 — 0h15
-- [ ] Reler CPC, Arts. 464 a 480 (Seção X · Da Prova Pericial) — 0h10
-- [ ] Questões VUNESP: CPC, Arts. 464 a 480 — 0h10
-- [ ] Reler CPC, Arts. 481 a 495 (Seção XI · Da Inspeção Judicial) — 0h10
-- [ ] Questões VUNESP: CPC, Arts. 481 a 495 — 0h10
-- [ ] Reler CPC, Arts. 496 a 512 (Seção III · Da Remessa Necessária) — 0h10
-- [ ] Questões VUNESP: CPC, Arts. 496 a 512 — 0h10
-
-**terça 02/03/2027** (1h50)
-
-- [ ] Reler NSCGJ, Arts. 1.206 a 1.223 (Subseção III · Das Exceções ao Peticionamento Eletrônico) — 0h15
-- [ ] Questões VUNESP: NSCGJ, Arts. 1.206 a 1.223 — 0h15
-- [ ] Reler NSCGJ, Arts. 1.224 a 1.236 (Seção V · Da Consulta às Movimentações Processuais e Decisões) — 0h10
-- [ ] Questões VUNESP: NSCGJ, Arts. 1.224 a 1.236 — 0h10
-- [ ] Reler NSCGJ, Arts. 1.237 a 1.255 (Subseção III · Da Elaboração de Expedientes pelo Ofício de Justiça) — 0h10
-- [ ] Questões VUNESP: NSCGJ, Arts. 1.237 a 1.255 — 0h10
-- [ ] Reler CPC, Arts. 513 a 527 (Capítulo I · Disposições gerais) — 0h20
-- [ ] Questões VUNESP: CPC, Arts. 513 a 527 — 0h20
-
-**quarta 03/03/2027** (2h)
-
-- [ ] Reler CPC, Arts. 528 a 538 (Capítulo IV · Do cumprimento de sentença que reconheça a exigibilidade de obrigação de prestar alimentos) — 0h15
-- [ ] Questões VUNESP: CPC, Arts. 528 a 538 — 0h15
-- [ ] Reler NSCGJ, Arts. 1.256 a 1.264 (Subseção IX · Da Juntada de Petições Intermediárias) — 0h10
-- [ ] Questões VUNESP: NSCGJ, Arts. 1.256 a 1.264 — 0h10
-- [ ] Reler NSCGJ, Arts. 1.265 a 1.280-A (Subseção XIII · Da Expedição de Mandados de Levantamento) — 0h10
-- [ ] Questões VUNESP: NSCGJ, Arts. 1.265 a 1.280-A — 0h10
-- [ ] Reler NSCGJ, Arts. 1.281 a 1.301 (Subseção XXIII · Do Desentranhamento) — 0h15
-- [ ] Questões VUNESP: NSCGJ, Arts. 1.281 a 1.301 — 0h15
-- [ ] Reler CPP, Arts. 607 a 638 (Capítulo IV · Do protesto por novo júri) — 0h10
-- [ ] Questões VUNESP: CPP, Arts. 607 a 638 — 0h10
-
-**quinta 04/03/2027** (2h)
-
-- [ ] Reler CPP, Arts. 639 a 667 (Capítulo IX · Da carta testemunhável) — 0h10
-- [ ] Questões VUNESP: CPP, Arts. 639 a 667 — 0h10
-- [ ] Reler CPC, Arts. 994 a 1.014 (Capítulo I · Disposições gerais) — 0h10
-- [ ] Questões VUNESP: CPC, Arts. 994 a 1.014 — 0h10
-- [ ] Reler CPC, Arts. 1.015 a 1.026 (Capítulo III · Do agravo de instrumento) — 0h10
-- [ ] Questões VUNESP: CPC, Arts. 1.015 a 1.026 — 0h10
-- [ ] Reler CP, Arts. 293 a 311-A (Capítulo II · Da falsidade de títulos e outros papéis públicos) — 0h10
-- [ ] Questões VUNESP: CP, Arts. 293 a 311-A — 0h10
-- [ ] Reler CP, Arts. 312 a 337 (Capítulo I · Dos crimes praticados por funcionário público contra a administração em geral) — 0h10
-- [ ] Questões VUNESP: CP, Arts. 312 a 337 — 0h10
-- [ ] Reler CP, Arts. 339 a 359 (Capítulo III · Dos crimes contra a administração da justiça) — 0h10
-- [ ] Questões VUNESP: CP, Arts. 339 a 359 — 0h10
-
-**sexta 05/03/2027** (2h)
-
-- [ ] Reler CPP, Arts. 251 a 274 (Capítulo I · Do juiz) — 0h10
-- [ ] Questões VUNESP: CPP, Arts. 251 a 274 — 0h10
-- [ ] Reler CPP, Arts. 351 a 372 (Capítulo I · Das citações) — 0h10
-- [ ] Questões VUNESP: CPP, Arts. 351 a 372 — 0h10
-- [ ] Reler CPP, Arts. 394 a 405 (Capítulo I · Da instrução criminal) — 0h10
-- [ ] Questões VUNESP: CPP, Arts. 394 a 405 — 0h10
-- [ ] Reler CPP, Arts. 406 a 424 (Seção I · Da Acusação e da Instrução Preliminar) — 0h10
-- [ ] Questões VUNESP: CPP, Arts. 406 a 424 — 0h10
-- [ ] Reler CPC, Arts. 144 a 155 (Capítulo II · Dos impedimentos e da suspeição) — 0h10
-- [ ] Questões VUNESP: CPC, Arts. 144 a 155 — 0h10
-- [ ] Reler CPC, Arts. 188 a 211 (Seção I · Dos Atos em Geral) — 0h10
-- [ ] Questões VUNESP: CPC, Arts. 188 a 211 — 0h10
-
-**sábado 06/03/2027** (4h)
-
-- [ ] Reler CPC, Arts. 212 a 235 (Seção I · Do Tempo) — 0h15
-- [ ] Questões VUNESP: CPC, Arts. 212 a 235 — 0h15
-- [ ] Reler CF/88, Art. 5 (Capítulo I · Dos direitos e deveres individuais e coletivos) — 0h15
-- [ ] Questões VUNESP: CF/88, Art. 5 — 0h15
-- [ ] Reler CF/88, Arts. 6 a 13 (Capítulo II · Dos direitos sociais) — 0h15
-- [ ] Questões VUNESP: CF/88, Arts. 6 a 13 — 0h15
-- [ ] Reler NSCGJ, Arts. 5 a 18 (Seção I · Das Atribuições) — 0h15
-- [ ] Questões VUNESP: NSCGJ, Arts. 5 a 18 — 0h15
-- [ ] Reler NSCGJ, Arts. 26 a 62 (Seção I · Disposições Iniciais) — 0h20
-- [ ] Questões VUNESP: NSCGJ, Arts. 26 a 62 — 0h20
-- [ ] Reler CPC, Arts. 236 a 259 (Capítulo I · Disposições gerais) — 0h20
-- [ ] Questões VUNESP: CPC, Arts. 236 a 259 — 0h20
-- [ ] Reler CPC, Arts. 260 a 275 (Capítulo III · Das cartas) — 0h10
-- [ ] Questões VUNESP: CPC, Arts. 260 a 275 — 0h10
-- [ ] Reler CPC, Arts. 294 a 310 (Título I · Disposições gerais) — 0h10
-- [ ] Questões VUNESP: CPC, Arts. 294 a 310 — 0h10
-
-**domingo 07/03/2027** (1h15)
+**domingo 28/02/2027** (1h15)
 
 - [ ] Revisão final: CP, Arts. 293 a 359 — 0h25
 - [ ] Revisão final: CPP, Arts. 251 a 472 — 0h50
 
-## Semana 20 (08/03/2027 a 14/03/2027) — Reta final: revisão geral e simulados
+## Semana 19 (01/03/2027 a 07/03/2027) — Reta final: revisão geral e simulados
 
-**segunda 08/03/2027** (2h)
+**segunda 01/03/2027** (2h)
 
 - [ ] Revisão final: CPP, Arts. 473 a 667 — 1h
 - [ ] Revisão final: CPC, Arts. 144 a 310 — 1h
 
-**terça 09/03/2027** (1h45)
+**terça 02/03/2027** (1h45)
 
 - [ ] Revisão final: CPC, Arts. 311 a 433 — 0h50
 - [ ] Revisão final: CPC, Arts. 434 a 527 — 0h55
 
-**quarta 10/03/2027** (1h30)
+**quarta 03/03/2027** (1h30)
 
 - [ ] Revisão final: CPC, Arts. 528 a 1.026 — 0h30
 - [ ] Revisão final: CF/88, Arts. 5 a 92 — 1h
 
-**quinta 11/03/2027** (1h55)
+**quinta 04/03/2027** (1h55)
 
 - [ ] Revisão final: NSCGJ, Arts. 5 a 121 — 1h
 - [ ] Revisão final: NSCGJ, Arts. 121-A a 1.205-D — 0h55
 
-**sexta 12/03/2027** (1h40)
+**sexta 05/03/2027** (1h40)
 
 - [ ] Revisão final: NSCGJ, Arts. 1.206 a 1.280-A — 0h50
 - [ ] Revisão final: NSCGJ, Arts. 1.281 a 1.301 — 0h15
@@ -1442,71 +1350,41 @@ Gerado por `scripts/cronograma/gerar_cronograma.mjs`. Não edite à mão: rode o
 - [ ] Revisão final: Lei 9.099 (cível), Arts. 3 a 19 — 0h10
 - [ ] Revisão final: Lei 12.153, Arts. 1 a 28 — 0h10
 
-**sábado 13/03/2027** (4h)
+**sábado 06/03/2027** (4h)
 
 - [ ] Simulado: prova anterior da VUNESP com tempo cronometrado. Depois corrija e releia os artigos das questões que errou. — 4h
 
-**domingo 14/03/2027** (0h50)
+**domingo 07/03/2027** (0h50)
 
 - [ ] Revisão final: Lei 10.261, Arts. 1 a 263 — 0h50
 
-## Semana 21 (15/03/2027 a 21/03/2027) — Reta final: revisão geral e simulados
+## Semana 20 (08/03/2027 a 13/03/2027) — Reta final: revisão geral e simulados
 
-**segunda 15/03/2027** (1h45)
+**segunda 08/03/2027** (1h45)
 
 - [ ] Revisão final: Lei 10.261, Arts. 264 a 323 — 0h50
 - [ ] Revisão final: Lei 8.429, Arts. 1 a 25 — 0h55
 
-**terça 16/03/2027** (1h25)
+**terça 09/03/2027** (1h25)
 
 - [ ] Revisão final: Res. 963, Arts. 1 a 43 — 0h20
 - [ ] Revisão final: Res. 850, Arts. 1 a 40 — 0h35
 - [ ] Revisão final: LC 1.111, Arts. 1 a 3 (ADT) — 0h30
 
-**quarta 17/03/2027** (1h55)
+**quarta 10/03/2027** (1h55)
 
 - [ ] Revisão final: Regimento Interno, Arts. 1 a 56 — 1h
 - [ ] Revisão final: Regimento Interno, Arts. 57 a 151 — 0h55
 
-**quinta 18/03/2027** (2h)
+**quinta 11/03/2027** (2h)
 
 - [ ] Revisão final: Regimento Interno, Arts. 152 a 290 — 1h
 - [ ] Questões mistas de todas as matérias, focando nos assuntos em que mais errou. — 1h
 
-**sexta 19/03/2027** (2h)
+**sexta 12/03/2027** (2h)
 
 - [ ] Questões mistas de todas as matérias, focando nos assuntos em que mais errou. — 2h
 
-**sábado 20/03/2027** (4h)
-
-- [ ] Simulado: prova anterior da VUNESP com tempo cronometrado. Depois corrija e releia os artigos das questões que errou. — 4h
-
-**domingo 21/03/2027** (1h)
-
-- [ ] Questões mistas de todas as matérias, focando nos assuntos em que mais errou. — 1h
-
-## Semana 22 (22/03/2027 a 27/03/2027) — Reta final: revisão geral e simulados
-
-**segunda 22/03/2027** (2h)
-
-- [ ] Questões mistas de todas as matérias, focando nos assuntos em que mais errou. — 2h
-
-**terça 23/03/2027** (2h)
-
-- [ ] Questões mistas de todas as matérias, focando nos assuntos em que mais errou. — 2h
-
-**quarta 24/03/2027** (2h)
-
-- [ ] Questões mistas de todas as matérias, focando nos assuntos em que mais errou. — 2h
-
-**quinta 25/03/2027** (2h)
-
-- [ ] Questões mistas de todas as matérias, focando nos assuntos em que mais errou. — 2h
-
-**sexta 26/03/2027** (2h)
-
-- [ ] Questões mistas de todas as matérias, focando nos assuntos em que mais errou. — 2h
-
-**sábado 27/03/2027** (1h)
+**sábado 13/03/2027** (1h)
 
 - [ ] Véspera: revisão leve dos grifos e anotações, sem conteúdo novo. Descanse. — 1h
