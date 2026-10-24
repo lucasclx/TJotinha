@@ -1,0 +1,346 @@
+{
+  "materia": "Direito Constitucional",
+  "slug": "constitucional",
+  "questoes": [
+    {
+      "id": "constitucional-001",
+      "lei": "cf",
+      "artigos": ["cf-5"],
+      "tema": "Inviolabilidade do domicílio",
+      "dificuldade": "facil",
+      "enunciado": "Segundo o art. 5º, XI, da Constituição Federal, a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo",
+      "alternativas": {
+        "A": "em caso de flagrante delito ou desastre, ou para prestar socorro, ou, a qualquer hora, por determinação judicial.",
+        "B": "por determinação da autoridade policial, durante o dia.",
+        "C": "em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.",
+        "D": "por determinação judicial, apenas durante a noite.",
+        "E": "em caso de flagrante delito, somente durante o dia."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 5º, XI, da CF. Flagrante, desastre e socorro autorizam o ingresso a qualquer hora; a determinação judicial, somente durante o dia."
+    },
+    {
+      "id": "constitucional-002",
+      "lei": "cf",
+      "artigos": ["cf-5"],
+      "tema": "Direito de reunião",
+      "dificuldade": "facil",
+      "enunciado": "Todos podem reunir-se pacificamente, sem armas, em locais abertos ao público,",
+      "alternativas": {
+        "A": "mediante autorização prévia da autoridade competente.",
+        "B": "independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente.",
+        "C": "independentemente de autorização ou de aviso prévio.",
+        "D": "mediante autorização judicial, quando a reunião envolver mais de cem pessoas.",
+        "E": "desde que haja autorização do Poder Executivo municipal."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 5º, XVI, da CF: não se exige autorização, apenas prévio aviso à autoridade competente, e a reunião não pode frustrar outra anteriormente convocada para o mesmo local."
+    },
+    {
+      "id": "constitucional-003",
+      "lei": "cf",
+      "artigos": ["cf-5"],
+      "tema": "Dissolução de associações",
+      "dificuldade": "media",
+      "enunciado": "As associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas",
+      "alternativas": {
+        "A": "por decisão judicial, exigindo-se, no caso de suspensão, o trânsito em julgado.",
+        "B": "por ato do Ministério Público, após inquérito civil.",
+        "C": "por decisão administrativa fundamentada, assegurada a ampla defesa.",
+        "D": "por decisão judicial, exigindo-se, no caso de dissolução, o trânsito em julgado.",
+        "E": "por lei específica, em ambos os casos."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 5º, XIX, da CF: dissolução compulsória ou suspensão só por decisão judicial; para a dissolução (\"no primeiro caso\"), exige-se o trânsito em julgado."
+    },
+    {
+      "id": "constitucional-004",
+      "lei": "cf",
+      "artigos": ["cf-5"],
+      "tema": "Mandados constitucionais de criminalização",
+      "dificuldade": "media",
+      "enunciado": "De acordo com a Constituição Federal, a prática do racismo constitui crime",
+      "alternativas": {
+        "A": "inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei.",
+        "B": "inafiançável e insuscetível de graça ou anistia, mas prescritível.",
+        "C": "afiançável e imprescritível, sujeito à pena de detenção.",
+        "D": "hediondo, insuscetível de graça, anistia e indulto.",
+        "E": "inafiançável e prescritível, sujeito à pena de reclusão."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 5º, XLII, da CF. A ação de grupos armados contra a ordem constitucional também é inafiançável e imprescritível (XLIV). Já tortura, tráfico, terrorismo e hediondos são inafiançáveis e insuscetíveis de graça ou anistia (XLIII)."
+    },
+    {
+      "id": "constitucional-005",
+      "lei": "cf",
+      "artigos": ["cf-5"],
+      "tema": "Penas vedadas",
+      "dificuldade": "facil",
+      "enunciado": "Nos termos do art. 5º, XLVII, da CF, NÃO haverá penas",
+      "alternativas": {
+        "A": "de multa e de perda de bens.",
+        "B": "de suspensão ou interdição de direitos.",
+        "C": "de morte, em qualquer hipótese.",
+        "D": "de caráter perpétuo, de trabalhos forçados, de banimento e cruéis; e de morte, salvo em caso de guerra declarada.",
+        "E": "de prestação social alternativa."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 5º, XLVII, da CF. Multa, perda de bens, prestação social alternativa e suspensão ou interdição de direitos são penas expressamente admitidas no inciso XLVI."
+    },
+    {
+      "id": "constitucional-006",
+      "lei": "cf",
+      "artigos": ["cf-5"],
+      "tema": "Extradição",
+      "dificuldade": "media",
+      "enunciado": "Sobre a extradição, a Constituição Federal estabelece que",
+      "alternativas": {
+        "A": "o brasileiro nato poderá ser extraditado em caso de tráfico ilícito de entorpecentes.",
+        "B": "o estrangeiro poderá ser extraditado por crime político, se houver tratado.",
+        "C": "nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei.",
+        "D": "o naturalizado poderá ser extraditado por qualquer crime praticado após a naturalização.",
+        "E": "não será concedida extradição de estrangeiro, em nenhuma hipótese."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 5º, LI, da CF. O inciso LII veda a extradição de estrangeiro por crime político ou de opinião."
+    },
+    {
+      "id": "constitucional-007",
+      "lei": "cf",
+      "artigos": ["cf-5"],
+      "tema": "Prisão civil",
+      "dificuldade": "facil",
+      "enunciado": "De acordo com o texto do art. 5º, LXVII, da Constituição Federal, não haverá prisão civil por dívida, salvo a do",
+      "alternativas": {
+        "A": "devedor de tributos e a do depositário infiel.",
+        "B": "responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel.",
+        "C": "devedor de aluguéis e a do responsável por obrigação alimentícia.",
+        "D": "falido fraudulento.",
+        "E": "responsável por obrigação alimentícia, ainda que o inadimplemento seja involuntário."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 5º, LXVII, da CF, em sua literalidade. (Atenção: a jurisprudência do STF não admite mais a prisão do depositário infiel — Súmula Vinculante 25 —, mas a prova de lei seca costuma cobrar o texto.)"
+    },
+    {
+      "id": "constitucional-008",
+      "lei": "cf",
+      "artigos": ["cf-5"],
+      "tema": "Remédios constitucionais",
+      "dificuldade": "media",
+      "enunciado": "Conceder-se-á ________ sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. Assinale a alternativa que preenche corretamente a lacuna.",
+      "alternativas": {
+        "A": "habeas data",
+        "B": "mandado de segurança",
+        "C": "ação popular",
+        "D": "habeas corpus",
+        "E": "mandado de injunção"
+      },
+      "gabarito": "E",
+      "comentario": "Art. 5º, LXXI, da CF (mandado de injunção). O habeas data protege o conhecimento e a retificação de informações pessoais (LXXII); o MS protege direito líquido e certo não amparado por HC ou HD (LXIX)."
+    },
+    {
+      "id": "constitucional-009",
+      "lei": "cf",
+      "artigos": ["cf-5"],
+      "tema": "Mandado de segurança coletivo",
+      "dificuldade": "media",
+      "enunciado": "O mandado de segurança coletivo pode ser impetrado por",
+      "alternativas": {
+        "A": "partido político com representação no Congresso Nacional e organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano.",
+        "B": "qualquer cidadão, em defesa do patrimônio público.",
+        "C": "partido político com registro no TSE, independentemente de representação no Congresso.",
+        "D": "associação legalmente constituída há pelo menos dois anos.",
+        "E": "Ministério Público e Defensoria Pública, exclusivamente."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 5º, LXX, da CF: (a) partido político com representação no Congresso Nacional; (b) organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados."
+    },
+    {
+      "id": "constitucional-010",
+      "lei": "cf",
+      "artigos": ["cf-5"],
+      "tema": "Ação popular e gratuidade",
+      "dificuldade": "media",
+      "enunciado": "Assinale a alternativa correta, segundo o art. 5º da Constituição Federal.",
+      "alternativas": {
+        "A": "Qualquer pessoa, física ou jurídica, é parte legítima para propor ação popular.",
+        "B": "O autor da ação popular sempre arcará com as custas se a ação for julgada improcedente.",
+        "C": "São gratuitas as ações de habeas corpus e habeas data.",
+        "D": "O mandado de segurança é gratuito para todos os impetrantes.",
+        "E": "O registro civil de nascimento e a certidão de óbito são gratuitos para todos."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 5º, LXXVII, da CF. A ação popular é proposta por qualquer cidadão, que fica isento de custas e sucumbência salvo comprovada má-fé (LXXIII). Registro de nascimento e certidão de óbito são gratuitos para os reconhecidamente pobres (LXXVI)."
+    },
+    {
+      "id": "constitucional-011",
+      "lei": "cf",
+      "artigos": ["cf-5"],
+      "tema": "Tratados de direitos humanos",
+      "dificuldade": "media",
+      "enunciado": "Os tratados e convenções internacionais sobre direitos humanos serão equivalentes às emendas constitucionais se forem aprovados, em cada Casa do Congresso Nacional,",
+      "alternativas": {
+        "A": "em um turno, por maioria absoluta dos votos dos respectivos membros.",
+        "B": "em dois turnos, por maioria absoluta dos votos dos respectivos membros.",
+        "C": "em dois turnos, por dois terços dos votos dos respectivos membros.",
+        "D": "em dois turnos, por três quintos dos votos dos respectivos membros.",
+        "E": "em turno único, por três quintos dos votos dos presentes."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 5º, § 3º, da CF (incluído pela EC 45/2004): dois turnos, três quintos dos votos dos respectivos membros, em cada Casa."
+    },
+    {
+      "id": "constitucional-012",
+      "lei": "cf",
+      "artigos": ["cf-12"],
+      "tema": "Cargos privativos de brasileiro nato",
+      "dificuldade": "facil",
+      "enunciado": "São privativos de brasileiro nato, entre outros, os cargos de",
+      "alternativas": {
+        "A": "Ministro do Superior Tribunal de Justiça e de Senador.",
+        "B": "Governador de Estado e de Ministro de Estado da Justiça.",
+        "C": "Ministro do Supremo Tribunal Federal e de Ministro de Estado da Defesa.",
+        "D": "Deputado Federal e de Procurador-Geral da República.",
+        "E": "Presidente do Superior Tribunal de Justiça e de oficial da Polícia Militar."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 12, § 3º, da CF: Presidente e Vice-Presidente da República, Presidente da Câmara, Presidente do Senado, Ministro do STF, carreira diplomática, oficial das Forças Armadas e Ministro de Estado da Defesa."
+    },
+    {
+      "id": "constitucional-013",
+      "lei": "cf",
+      "artigos": ["cf-12"],
+      "tema": "Naturalização",
+      "dificuldade": "media",
+      "enunciado": "Aos originários de países de língua portuguesa, para a aquisição da nacionalidade brasileira por naturalização, na forma da lei, a Constituição exige apenas",
+      "alternativas": {
+        "A": "residência por um ano ininterrupto e idoneidade moral.",
+        "B": "residência por quinze anos ininterruptos e ausência de condenação penal.",
+        "C": "residência por quatro anos e domínio da língua portuguesa.",
+        "D": "reciprocidade em favor de brasileiros.",
+        "E": "registro em repartição brasileira competente."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 12, II, a, da CF. A naturalização extraordinária (alínea b) exige residência há mais de quinze anos ininterruptos e ausência de condenação penal, mediante requerimento."
+    },
+    {
+      "id": "constitucional-014",
+      "lei": "cf",
+      "artigos": ["cf-37"],
+      "tema": "Princípios da Administração Pública",
+      "dificuldade": "facil",
+      "enunciado": "A administração pública direta e indireta de qualquer dos Poderes obedecerá, expressamente, segundo o caput do art. 37 da CF, aos princípios de",
+      "alternativas": {
+        "A": "legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+        "B": "legalidade, razoabilidade, moralidade, publicidade e eficiência.",
+        "C": "legalidade, impessoalidade, proporcionalidade, publicidade e eficiência.",
+        "D": "supremacia do interesse público, legalidade, moralidade, publicidade e eficiência.",
+        "E": "legalidade, impessoalidade, moralidade, motivação e eficiência."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 37, caput, da CF: legalidade, impessoalidade, moralidade, publicidade e eficiência (o famoso \"LIMPE\")."
+    },
+    {
+      "id": "constitucional-015",
+      "lei": "cf",
+      "artigos": ["cf-37"],
+      "tema": "Concurso público",
+      "dificuldade": "facil",
+      "enunciado": "O prazo de validade do concurso público será de",
+      "alternativas": {
+        "A": "até um ano, prorrogável uma vez, por igual período.",
+        "B": "dois anos, improrrogável.",
+        "C": "até quatro anos, prorrogável uma vez, por igual período.",
+        "D": "até dois anos, prorrogável uma vez, por igual período.",
+        "E": "até dois anos, prorrogável duas vezes, por igual período."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 37, III, da CF. Durante o prazo improrrogável do edital, o aprovado será convocado com prioridade sobre novos concursados (IV)."
+    },
+    {
+      "id": "constitucional-016",
+      "lei": "cf",
+      "artigos": ["cf-37"],
+      "tema": "Funções de confiança e cargos em comissão",
+      "dificuldade": "media",
+      "enunciado": "Nos termos do art. 37, V, da CF, as funções de confiança",
+      "alternativas": {
+        "A": "podem ser exercidas por qualquer pessoa, independentemente de vínculo com a Administração.",
+        "B": "são exercidas exclusivamente por servidores ocupantes de cargo efetivo e destinam-se apenas às atribuições de direção, chefia e assessoramento.",
+        "C": "destinam-se a atribuições técnicas e operacionais, além de direção.",
+        "D": "dependem de aprovação em concurso público específico.",
+        "E": "são preenchidas por servidores de carreira nos percentuais mínimos previstos em lei, como os cargos em comissão."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 37, V, da CF: funções de confiança exclusivamente por servidores de cargo efetivo; cargos em comissão a serem preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei; ambos apenas para direção, chefia e assessoramento."
+    },
+    {
+      "id": "constitucional-017",
+      "lei": "cf",
+      "artigos": ["cf-37"],
+      "tema": "Responsabilidade civil do Estado",
+      "dificuldade": "media",
+      "enunciado": "As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros,",
+      "alternativas": {
+        "A": "somente se comprovada a culpa do agente.",
+        "B": "vedado o direito de regresso contra o agente.",
+        "C": "assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.",
+        "D": "assegurado o direito de regresso apenas nos casos de dolo.",
+        "E": "desde que o dano decorra de ato ilícito."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 37, § 6º, da CF: responsabilidade objetiva do Estado e das prestadoras de serviço público, com direito de regresso contra o agente nos casos de dolo ou culpa."
+    },
+    {
+      "id": "constitucional-018",
+      "lei": "cf",
+      "artigos": ["cf-38"],
+      "tema": "Servidor no exercício de mandato eletivo",
+      "dificuldade": "dificil",
+      "enunciado": "Servidor público da administração direta é eleito Vereador. Havendo compatibilidade de horários, de acordo com o art. 38 da CF, ele",
+      "alternativas": {
+        "A": "ficará afastado do cargo, sendo-lhe facultado optar pela remuneração.",
+        "B": "perceberá as vantagens de seu cargo, sem prejuízo da remuneração do cargo eletivo.",
+        "C": "ficará afastado do cargo, sem remuneração.",
+        "D": "perceberá apenas a remuneração do cargo eletivo.",
+        "E": "deverá exonerar-se do cargo efetivo."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 38, III, da CF. Sem compatibilidade, aplica-se a regra do Prefeito: afastamento com opção pela remuneração (II). Para mandato federal, estadual ou distrital, o servidor fica afastado (I). O tempo de afastamento conta para todos os efeitos, exceto promoção por merecimento (IV)."
+    },
+    {
+      "id": "constitucional-019",
+      "lei": "cf",
+      "artigos": ["cf-41"],
+      "tema": "Estabilidade",
+      "dificuldade": "media",
+      "enunciado": "Sobre a estabilidade do servidor público, prevista no art. 41 da CF, é correto afirmar que",
+      "alternativas": {
+        "A": "é adquirida após dois anos de efetivo exercício.",
+        "B": "alcança os ocupantes de cargo em comissão após três anos.",
+        "C": "o servidor estável só perde o cargo por sentença judicial transitada em julgado.",
+        "D": "invalidada por sentença judicial a demissão do servidor estável, o eventual ocupante da vaga, se estável, terá direito a indenização.",
+        "E": "como condição para a aquisição da estabilidade, é obrigatória a avaliação especial de desempenho por comissão instituída para essa finalidade."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 41, § 4º, da CF. A estabilidade vem após três anos de efetivo exercício, para nomeados em cargo efetivo por concurso (caput). O estável perde o cargo por sentença transitada em julgado, processo administrativo ou avaliação periódica de desempenho (§ 1º). O ocupante da vaga é reconduzido sem direito a indenização (§ 2º)."
+    },
+    {
+      "id": "constitucional-020",
+      "lei": "cf",
+      "artigos": ["cf-92"],
+      "tema": "Órgãos do Poder Judiciário",
+      "dificuldade": "facil",
+      "enunciado": "Nos termos do art. 92 da Constituição Federal, NÃO é órgão do Poder Judiciário",
+      "alternativas": {
+        "A": "o Conselho Nacional de Justiça.",
+        "B": "o Tribunal Superior do Trabalho.",
+        "C": "o Conselho Nacional do Ministério Público.",
+        "D": "os Tribunais e Juízes Militares.",
+        "E": "os Tribunais e Juízes dos Estados e do Distrito Federal e Territórios."
+      },
+      "gabarito": "C",
+      "comentario": "O art. 92 da CF lista: STF, CNJ, STJ, TST, TRFs e Juízes Federais, Tribunais e Juízes do Trabalho, Eleitorais, Militares e dos Estados e DF. O CNMP não integra o Judiciário. O STF, o CNJ e os Tribunais Superiores têm sede na Capital Federal (§ 1º)."
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "materia": "Direito Processual Civil",
+  "slug": "processo-civil",
+  "questoes": [
+    {
+      "id": "processo-civil-001",
+      "lei": "cpc",
+      "artigos": ["cpc-144", "cpc-145"],
+      "tema": "Impedimento x suspeição do juiz",
+      "dificuldade": "media",
+      "enunciado": "Nos termos do Código de Processo Civil, há impedimento do juiz no processo",
+      "alternativas": {
+        "A": "em que for amigo íntimo de qualquer das partes ou de seus advogados.",
+        "B": "em que receber presentes de pessoas que tiverem interesse na causa.",
+        "C": "quando for herdeiro presuntivo, donatário ou empregador de qualquer das partes.",
+        "D": "em que qualquer das partes for sua credora ou devedora.",
+        "E": "quando for interessado no julgamento do processo em favor de qualquer das partes."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 144, VI, do CPC (impedimento). As demais alternativas são hipóteses de suspeição do art. 145 (incisos I, II, III e IV). Lembre: o juiz pode declarar-se suspeito por motivo de foro íntimo, sem declarar suas razões (art. 145, § 1º)."
+    },
+    {
+      "id": "processo-civil-002",
+      "lei": "cpc",
+      "artigos": ["cpc-146"],
+      "tema": "Prazo para alegar impedimento ou suspeição",
+      "dificuldade": "facil",
+      "enunciado": "A parte alegará o impedimento ou a suspeição do juiz, em petição específica dirigida ao juiz do processo, no prazo de",
+      "alternativas": {
+        "A": "5 (cinco) dias, a contar da citação.",
+        "B": "15 (quinze) dias, a contar do conhecimento do fato.",
+        "C": "10 (dez) dias, a contar da distribuição.",
+        "D": "15 (quinze) dias, a contar da juntada do mandado de citação.",
+        "E": "30 (trinta) dias, a contar do conhecimento do fato."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 146, caput, do CPC: \"No prazo de 15 (quinze) dias, a contar do conhecimento do fato, a parte alegará o impedimento ou a suspeição, em petição específica dirigida ao juiz do processo\"."
+    },
+    {
+      "id": "processo-civil-003",
+      "lei": "cpc",
+      "artigos": ["cpc-152"],
+      "tema": "Incumbências do escrivão ou chefe de secretaria",
+      "dificuldade": "media",
+      "enunciado": "Segundo o art. 152 do CPC, incumbe ao escrivão ou ao chefe de secretaria",
+      "alternativas": {
+        "A": "proferir despachos de mero expediente, no prazo de 5 (cinco) dias.",
+        "B": "fornecer certidão de ato ou termo do processo somente mediante despacho do juiz.",
+        "C": "permitir a saída dos autos do cartório a qualquer interessado que os requeira.",
+        "D": "praticar, de ofício, os atos meramente ordinatórios.",
+        "E": "presidir a audiência de conciliação na ausência do juiz."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 152, VI, do CPC: incumbe ao escrivão ou chefe de secretaria praticar, de ofício, os atos meramente ordinatórios (o juiz titular editará ato para regulamentar essa atribuição, § 1º). A certidão é fornecida independentemente de despacho, observado o segredo de justiça (inciso V)."
+    },
+    {
+      "id": "processo-civil-004",
+      "lei": "cpc",
+      "artigos": ["cpc-155"],
+      "tema": "Responsabilidade dos auxiliares da Justiça",
+      "dificuldade": "media",
+      "enunciado": "O escrivão, o chefe de secretaria e o oficial de justiça são responsáveis, civil e regressivamente, quando",
+      "alternativas": {
+        "A": "praticarem ato nulo com dolo ou culpa.",
+        "B": "praticarem ato anulável, ainda que sem culpa.",
+        "C": "o processo for extinto sem resolução do mérito.",
+        "D": "a parte sucumbente não pagar as custas.",
+        "E": "o juiz reformar a decisão por eles cumprida."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 155 do CPC: respondem civil e regressivamente quando, sem justo motivo, se recusarem a cumprir no prazo os atos impostos pela lei ou pelo juiz (I) ou praticarem ato nulo com dolo ou culpa (II)."
+    },
+    {
+      "id": "processo-civil-005",
+      "lei": "cpc",
+      "artigos": ["cpc-189"],
+      "tema": "Segredo de justiça",
+      "dificuldade": "facil",
+      "enunciado": "Os atos processuais são públicos, mas tramitam em segredo de justiça, entre outros, os processos que versem sobre",
+      "alternativas": {
+        "A": "cobrança de aluguéis.",
+        "B": "indenização por acidente de trânsito.",
+        "C": "execução fiscal.",
+        "D": "casamento, divórcio, união estável, filiação, alimentos e guarda de crianças e adolescentes.",
+        "E": "despejo para uso próprio."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 189, II, do CPC. Também tramitam em segredo os processos em que o exija o interesse público ou social (I), em que constem dados protegidos pelo direito à intimidade (III) e os que versem sobre arbitragem com confidencialidade comprovada (IV)."
+    },
+    {
+      "id": "processo-civil-006",
+      "lei": "cpc",
+      "artigos": ["cpc-212", "cpc-213"],
+      "tema": "Tempo dos atos processuais",
+      "dificuldade": "media",
+      "enunciado": "De acordo com o CPC, os atos processuais serão realizados em dias úteis, das ____ às ____ horas, e a prática eletrônica de ato processual pode ocorrer em qualquer horário até as ____ horas do último dia do prazo. Assinale a alternativa que completa corretamente as lacunas.",
+      "alternativas": {
+        "A": "8 … 18 … 20",
+        "B": "6 … 18 … 24",
+        "C": "8 … 20 … 22",
+        "D": "7 … 19 … 24",
+        "E": "6 … 20 … 24"
+      },
+      "gabarito": "E",
+      "comentario": "Art. 212 do CPC: atos em dias úteis, das 6 às 20 horas. Art. 213: a prática eletrônica pode ocorrer até as 24 horas do último dia do prazo, considerado o horário do juízo."
+    },
+    {
+      "id": "processo-civil-007",
+      "lei": "cpc",
+      "artigos": ["cpc-218"],
+      "tema": "Prazo supletivo",
+      "dificuldade": "media",
+      "enunciado": "Inexistindo preceito legal ou prazo determinado pelo juiz, o prazo para a prática de ato processual a cargo da parte será de",
+      "alternativas": {
+        "A": "5 (cinco) dias.",
+        "B": "48 (quarenta e oito) horas.",
+        "C": "10 (dez) dias.",
+        "D": "15 (quinze) dias.",
+        "E": "3 (três) dias."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 218, § 3º, do CPC: 5 dias. Não confundir com o § 2º: quando a lei ou o juiz não determinar prazo, as intimações somente obrigarão a comparecimento após decorridas 48 horas. E o ato praticado antes do termo inicial do prazo é tempestivo (§ 4º)."
+    },
+    {
+      "id": "processo-civil-008",
+      "lei": "cpc",
+      "artigos": ["cpc-219", "cpc-220"],
+      "tema": "Contagem e suspensão de prazos",
+      "dificuldade": "media",
+      "enunciado": "Sobre os prazos no CPC, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Na contagem de prazo em dias computam-se dias corridos, salvo nos prazos recursais.",
+        "B": "Suspende-se o curso do prazo processual entre 20 de dezembro e 20 de janeiro, inclusive.",
+        "C": "Durante a suspensão de fim de ano, juízes e servidores não exercem suas atribuições.",
+        "D": "A contagem em dias úteis aplica-se a todos os prazos, processuais e materiais.",
+        "E": "Durante a suspensão de fim de ano, apenas as audiências de conciliação podem ser realizadas."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 220 do CPC. Durante esse período, juízes, MP, Defensoria, Advocacia Pública e auxiliares exercem normalmente suas atribuições (§ 1º), mas não se realizam audiências nem sessões de julgamento (§ 2º). A contagem em dias úteis (art. 219) aplica-se somente aos prazos processuais."
+    },
+    {
+      "id": "processo-civil-009",
+      "lei": "cpc",
+      "artigos": ["cpc-226"],
+      "tema": "Prazos do juiz",
+      "dificuldade": "facil",
+      "enunciado": "Conforme o CPC, o juiz proferirá os despachos, as decisões interlocutórias e as sentenças, respectivamente, nos prazos de",
+      "alternativas": {
+        "A": "2, 5 e 10 dias.",
+        "B": "5, 15 e 30 dias.",
+        "C": "5, 10 e 30 dias.",
+        "D": "10, 15 e 30 dias.",
+        "E": "5, 10 e 20 dias."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 226 do CPC: despachos em 5 dias (I), decisões interlocutórias em 10 dias (II) e sentenças em 30 dias (III)."
+    },
+    {
+      "id": "processo-civil-010",
+      "lei": "cpc",
+      "artigos": ["cpc-229"],
+      "tema": "Prazo em dobro para litisconsortes",
+      "dificuldade": "media",
+      "enunciado": "Os litisconsortes que tiverem diferentes procuradores, de escritórios de advocacia distintos, terão prazos contados em dobro para todas as suas manifestações. Essa regra",
+      "alternativas": {
+        "A": "depende de requerimento expresso ao juiz.",
+        "B": "aplica-se apenas em primeiro grau de jurisdição.",
+        "C": "aplica-se inclusive aos processos em autos eletrônicos.",
+        "D": "continua valendo se, havendo apenas dois réus, só um deles oferecer defesa.",
+        "E": "não se aplica aos processos em autos eletrônicos."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 229 do CPC: prazo em dobro em qualquer juízo ou tribunal, independentemente de requerimento; cessa se, havendo apenas 2 réus, só um oferecer defesa (§ 1º); e não se aplica aos processos em autos eletrônicos (§ 2º)."
+    },
+    {
+      "id": "processo-civil-011",
+      "lei": "cpc",
+      "artigos": ["cpc-231"],
+      "tema": "Dia do começo do prazo",
+      "dificuldade": "dificil",
+      "enunciado": "Salvo disposição em sentido diverso, quando a citação ou a intimação for feita por oficial de justiça, considera-se dia do começo do prazo",
+      "alternativas": {
+        "A": "a data em que o oficial de justiça realizou a diligência.",
+        "B": "o dia útil seguinte à data da diligência.",
+        "C": "a data de juntada aos autos do mandado cumprido.",
+        "D": "o quinto dia útil seguinte à juntada do mandado.",
+        "E": "a data da publicação no Diário da Justiça eletrônico."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 231, II, do CPC: a data de juntada aos autos do mandado cumprido. A mesma regra se aplica à citação com hora certa (§ 4º). Pelo correio, conta-se da juntada do aviso de recebimento (I)."
+    },
+    {
+      "id": "processo-civil-012",
+      "lei": "cpc",
+      "artigos": ["cpc-252", "cpc-253"],
+      "tema": "Citação com hora certa",
+      "dificuldade": "media",
+      "enunciado": "No CPC, a citação com hora certa é cabível quando o oficial de justiça houver procurado o citando em seu domicílio ou residência, sem o encontrar,",
+      "alternativas": {
+        "A": "por 3 (três) vezes, independentemente de suspeita de ocultação.",
+        "B": "por 2 (duas) vezes, havendo suspeita de ocultação.",
+        "C": "por 1 (uma) vez, desde que haja suspeita de ocultação.",
+        "D": "por 2 (duas) vezes, independentemente de suspeita de ocultação.",
+        "E": "por 3 (três) vezes, havendo suspeita de ocultação."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 252 do CPC: por 2 vezes, sem encontrar o citando, havendo suspeita de ocultação, o oficial intimará pessoa da família ou vizinho de que voltará no dia útil imediato. Do mandado constará a advertência de que será nomeado curador especial se houver revelia (art. 253, § 4º)."
+    },
+    {
+      "id": "processo-civil-013",
+      "lei": "cpc",
+      "artigos": ["cpc-300", "cpc-311"],
+      "tema": "Tutela de urgência x tutela da evidência",
+      "dificuldade": "media",
+      "enunciado": "A tutela da evidência, nos termos do CPC, será concedida",
+      "alternativas": {
+        "A": "apenas quando houver perigo de dano ou risco ao resultado útil do processo.",
+        "B": "somente após a contestação, em qualquer hipótese.",
+        "C": "independentemente da demonstração de perigo de dano ou de risco ao resultado útil do processo.",
+        "D": "apenas mediante caução real ou fidejussória.",
+        "E": "somente em caráter antecedente."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 311 do CPC. Já a tutela de urgência exige probabilidade do direito e perigo de dano ou risco ao resultado útil do processo (art. 300). Nas hipóteses do art. 311, II e III, o juiz pode decidir liminarmente."
+    },
+    {
+      "id": "processo-civil-014",
+      "lei": "cpc",
+      "artigos": ["cpc-334"],
+      "tema": "Audiência de conciliação ou mediação",
+      "dificuldade": "dificil",
+      "enunciado": "Sobre a audiência de conciliação ou de mediação do art. 334 do CPC, é correto afirmar que",
+      "alternativas": {
+        "A": "deve ser designada com antecedência mínima de 15 (quinze) dias, citando-se o réu com pelo menos 10 (dez) dias de antecedência.",
+        "B": "não será realizada se apenas o autor manifestar desinteresse na composição consensual.",
+        "C": "o não comparecimento injustificado é sancionado com multa de até 10% do valor da causa, revertida à parte contrária.",
+        "D": "o não comparecimento injustificado do autor ou do réu é considerado ato atentatório à dignidade da justiça, sancionado com multa de até dois por cento da vantagem econômica pretendida ou do valor da causa.",
+        "E": "as partes podem comparecer desacompanhadas de advogado ou defensor público."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 334, § 8º, do CPC (multa revertida em favor da União ou do Estado). A audiência é designada com antecedência mínima de 30 dias, citando-se o réu com pelo menos 20 dias (caput); só não se realiza se AMBAS as partes manifestarem desinteresse (§ 4º, I); as partes devem estar acompanhadas de advogados ou defensores (§ 9º)."
+    },
+    {
+      "id": "processo-civil-015",
+      "lei": "cpc",
+      "artigos": ["cpc-344", "cpc-345"],
+      "tema": "Revelia e seus efeitos",
+      "dificuldade": "media",
+      "enunciado": "Se o réu não contestar a ação, será considerado revel e presumir-se-ão verdadeiras as alegações de fato formuladas pelo autor. Esse efeito, contudo, NÃO se produz se",
+      "alternativas": {
+        "A": "o réu for pessoa jurídica de direito privado.",
+        "B": "o valor da causa for superior a 40 salários mínimos.",
+        "C": "o réu tiver sido citado pelo correio.",
+        "D": "o autor não tiver requerido a produção de provas.",
+        "E": "havendo pluralidade de réus, algum deles contestar a ação."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 345 do CPC: a revelia não produz a presunção de veracidade se algum dos réus contestar (I); se o litígio versar sobre direitos indisponíveis (II); se faltar instrumento indispensável à prova do ato (III); ou se as alegações forem inverossímeis ou contraditórias com a prova dos autos (IV)."
+    },
+    {
+      "id": "processo-civil-016",
+      "lei": "cpc",
+      "artigos": ["cpc-1003", "cpc-1023"],
+      "tema": "Prazos recursais",
+      "dificuldade": "facil",
+      "enunciado": "No CPC, excetuados os embargos de declaração, o prazo para interpor os recursos e para responder-lhes é de ____ dias; os embargos de declaração são opostos no prazo de ____ dias. Assinale a alternativa que completa corretamente as lacunas.",
+      "alternativas": {
+        "A": "15 (quinze) … 5 (cinco)",
+        "B": "10 (dez) … 5 (cinco)",
+        "C": "15 (quinze) … 2 (dois)",
+        "D": "5 (cinco) … 2 (dois)",
+        "E": "30 (trinta) … 15 (quinze)"
+      },
+      "gabarito": "A",
+      "comentario": "Art. 1.003, § 5º, do CPC: 15 dias para recorrer e responder, exceto embargos de declaração, que são opostos em 5 dias (art. 1.023) e não se sujeitam a preparo."
+    },
+    {
+      "id": "processo-civil-017",
+      "lei": "cpc",
+      "artigos": ["cpc-1012"],
+      "tema": "Efeitos da apelação",
+      "dificuldade": "dificil",
+      "enunciado": "A apelação, em regra, tem efeito suspensivo. Contudo, começa a produzir efeitos imediatamente após a sua publicação a sentença que",
+      "alternativas": {
+        "A": "julga procedente o pedido em ação de cobrança.",
+        "B": "condena a pagar alimentos.",
+        "C": "julga procedentes os embargos do executado.",
+        "D": "indefere a petição inicial.",
+        "E": "julga improcedente o pedido de instituição de arbitragem."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 1.012, § 1º, do CPC: produz efeitos imediatamente a sentença que homologa divisão ou demarcação; condena a pagar alimentos; extingue sem resolução do mérito ou julga IMPROCEDENTES os embargos do executado; julga PROCEDENTE o pedido de instituição de arbitragem; confirma, concede ou revoga tutela provisória; decreta a interdição."
+    },
+    {
+      "id": "processo-civil-018",
+      "lei": "l9099civ",
+      "artigos": ["l9099civ-3", "l9099civ-9"],
+      "tema": "Competência e assistência por advogado no JEC",
+      "dificuldade": "media",
+      "enunciado": "No Juizado Especial Cível (Lei nº 9.099/1995), as causas de valor até ____ salários mínimos dispensam a assistência por advogado, e a competência abrange causas cujo valor não exceda ____ vezes o salário mínimo. Assinale a alternativa que completa corretamente as lacunas.",
+      "alternativas": {
+        "A": "40 … 60",
+        "B": "10 … 40",
+        "C": "20 … 60",
+        "D": "20 … 40",
+        "E": "30 … 40"
+      },
+      "gabarito": "D",
+      "comentario": "Art. 9º da Lei 9.099/1995: até 20 salários mínimos as partes comparecem pessoalmente, podendo ser assistidas por advogado; acima disso a assistência é obrigatória. Art. 3º, I: causas cujo valor não exceda 40 salários mínimos. (No Juizado da Fazenda Pública, o teto é de 60 salários mínimos.)"
+    },
+    {
+      "id": "processo-civil-019",
+      "lei": "l9099civ",
+      "artigos": ["l9099civ-8", "l9099civ-10", "l9099civ-18"],
+      "tema": "Partes, intervenção de terceiros e citação no JEC",
+      "dificuldade": "media",
+      "enunciado": "Assinale a alternativa que está de acordo com a Lei nº 9.099/1995, quanto aos Juizados Especiais Cíveis.",
+      "alternativas": {
+        "A": "O preso e o incapaz podem ser partes, desde que representados.",
+        "B": "Admite-se a intervenção de terceiros, mas não o litisconsórcio.",
+        "C": "A citação poderá ser feita por edital quando o réu estiver em local incerto.",
+        "D": "As empresas públicas da União podem figurar como rés.",
+        "E": "Não se fará citação por edital, e o comparecimento espontâneo suprirá a falta ou nulidade da citação."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 18, §§ 2º e 3º, da Lei 9.099/1995. Não podem ser partes o incapaz, o preso, as pessoas jurídicas de direito público, as empresas públicas da União, a massa falida e o insolvente civil (art. 8º). Não se admite intervenção de terceiro nem assistência; admite-se o litisconsórcio (art. 10)."
+    },
+    {
+      "id": "processo-civil-020",
+      "lei": "l12153",
+      "artigos": ["l12153-2", "l12153-7", "l12153-11"],
+      "tema": "Juizados Especiais da Fazenda Pública",
+      "dificuldade": "dificil",
+      "enunciado": "Sobre os Juizados Especiais da Fazenda Pública (Lei nº 12.153/2009), assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Têm competência para causas até 40 salários mínimos, inclusive mandados de segurança.",
+        "B": "As pessoas jurídicas de direito público têm prazo em dobro para recorrer.",
+        "C": "No foro onde estiver instalado, sua competência é absoluta, e nas causas de que trata a Lei não haverá reexame necessário.",
+        "D": "A citação para a audiência de conciliação deve ser feita com antecedência mínima de 15 dias.",
+        "E": "Incluem-se em sua competência as ações por improbidade administrativa de até 60 salários mínimos."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 2º, § 4º (competência absoluta onde instalado) e art. 11 (sem reexame necessário) da Lei 12.153/2009. O teto é de 60 salários mínimos e estão excluídos MS, improbidade, execuções fiscais etc. (art. 2º, § 1º, I); não há prazo diferenciado para os entes públicos e a citação para a conciliação exige antecedência mínima de 30 dias (art. 7º)."
+    }
+  ]
+}

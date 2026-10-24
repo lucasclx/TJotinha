@@ -1,0 +1,346 @@
+{
+  "materia": "Direito Administrativo",
+  "slug": "administrativo",
+  "questoes": [
+    {
+      "id": "administrativo-001",
+      "lei": "l10261",
+      "artigos": ["l10261-11"],
+      "tema": "Formas de provimento",
+      "dificuldade": "facil",
+      "enunciado": "Nos termos do Estatuto dos Funcionários Públicos Civis do Estado de São Paulo (Lei nº 10.261/1968), NÃO é forma de provimento de cargo público",
+      "alternativas": {
+        "A": "a reversão.",
+        "B": "o aproveitamento.",
+        "C": "a readmissão.",
+        "D": "a remoção.",
+        "E": "o acesso."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 11 da Lei 10.261/1968: nomeação, transferência, reintegração, acesso, reversão, aproveitamento e readmissão. A remoção (art. 43) é deslocamento entre repartições da mesma Secretaria ou órgãos da mesma repartição, não provimento."
+    },
+    {
+      "id": "administrativo-002",
+      "lei": "l10261",
+      "artigos": ["l10261-30", "l10261-35", "l10261-37", "l10261-39"],
+      "tema": "Reintegração, reversão, aproveitamento e readmissão",
+      "dificuldade": "media",
+      "enunciado": "O reingresso no serviço público, decorrente de decisão judicial passada em julgado, com ressarcimento de prejuízos resultantes do afastamento, denomina-se, segundo a Lei nº 10.261/1968,",
+      "alternativas": {
+        "A": "reintegração.",
+        "B": "readmissão.",
+        "C": "reversão.",
+        "D": "aproveitamento.",
+        "E": "readaptação."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 30 da Lei 10.261/1968. Reversão é o reingresso do aposentado (art. 35); aproveitamento, o do funcionário em disponibilidade (art. 37); readmissão, o do ex-funcionário demitido ou exonerado, sem ressarcimento de prejuízos (art. 39); readaptação, a investidura em cargo mais compatível com a capacidade do funcionário (art. 41)."
+    },
+    {
+      "id": "administrativo-003",
+      "lei": "l10261",
+      "artigos": ["l10261-39"],
+      "tema": "Readmissão após demissão a bem do serviço público",
+      "dificuldade": "dificil",
+      "enunciado": "Se a demissão tiver sido a bem do serviço público, a readmissão do ex-funcionário, observado o reexame do processo administrativo, não poderá ser decretada antes de decorridos",
+      "alternativas": {
+        "A": "2 (dois) anos do ato demissório.",
+        "B": "3 (três) anos do ato demissório.",
+        "C": "5 (cinco) anos do ato demissório.",
+        "D": "8 (oito) anos do ato demissório.",
+        "E": "10 (dez) anos do ato demissório."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 39, § 2º, da Lei 10.261/1968: 5 anos do ato demissório. A readmissão do demitido é sempre precedida de reexame do processo administrativo (§ 1º)."
+    },
+    {
+      "id": "administrativo-004",
+      "lei": "l10261",
+      "artigos": ["l10261-47"],
+      "tema": "Requisitos para a posse",
+      "dificuldade": "facil",
+      "enunciado": "Entre os requisitos para a posse em cargo público previstos no art. 47 da Lei nº 10.261/1968, está",
+      "alternativas": {
+        "A": "ter completado 21 (vinte e um) anos de idade.",
+        "B": "possuir curso superior completo.",
+        "C": "ter residência no Estado de São Paulo há pelo menos um ano.",
+        "D": "estar no gozo dos direitos políticos.",
+        "E": "não possuir parentes no serviço público estadual."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 47 da Lei 10.261/1968: ser brasileiro; ter 18 anos; estar em dia com as obrigações militares; estar no gozo dos direitos políticos; ter boa conduta; gozar de boa saúde; possuir aptidão; e atender às condições especiais do cargo."
+    },
+    {
+      "id": "administrativo-005",
+      "lei": "l10261",
+      "artigos": ["l10261-52", "l10261-60"],
+      "tema": "Prazos de posse e exercício",
+      "dificuldade": "media",
+      "enunciado": "De acordo com a Lei nº 10.261/1968, a posse deverá verificar-se no prazo de ____ dias da publicação do ato de provimento, e o exercício terá início dentro de ____ dias contados da posse. Se o funcionário não entrar em exercício no prazo, será ____. Assinale a alternativa que completa corretamente as lacunas.",
+      "alternativas": {
+        "A": "15 … 15 … demitido",
+        "B": "30 … 30 … exonerado",
+        "C": "30 … 15 … demitido",
+        "D": "15 … 30 … exonerado",
+        "E": "30 … 30 … tornado sem efeito o ato de nomeação"
+      },
+      "gabarito": "B",
+      "comentario": "Art. 52 (posse em 30 dias, prorrogáveis por mais 30) e art. 60 (exercício em 30 dias da posse, prorrogáveis por 30; quem não entra em exercício é exonerado, § 4º). Se a POSSE não se der no prazo, aí sim é tornado sem efeito o ato de provimento (art. 52, § 3º)."
+    },
+    {
+      "id": "administrativo-006",
+      "lei": "l10261",
+      "artigos": ["l10261-78"],
+      "tema": "Afastamentos considerados de efetivo exercício",
+      "dificuldade": "media",
+      "enunciado": "Segundo a Lei nº 10.261/1968, considera-se de efetivo exercício, para todos os efeitos legais, o afastamento do funcionário em virtude de",
+      "alternativas": {
+        "A": "falecimento dos avós, até 8 (oito) dias.",
+        "B": "casamento, até 8 (oito) dias.",
+        "C": "falecimento dos sogros, até 5 (cinco) dias.",
+        "D": "falecimento do cônjuge, até 2 (dois) dias.",
+        "E": "trânsito por mudança de sede, até 15 (quinze) dias."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 78 da Lei 10.261/1968: casamento, até 8 dias (II); falecimento do cônjuge, filhos, pais e irmãos, até 8 dias (III); falecimento de avós, netos, sogros, padrasto ou madrasta, até 2 dias (IV); trânsito por mudança de sede, até 8 dias (XIV)."
+    },
+    {
+      "id": "administrativo-007",
+      "lei": "l10261",
+      "artigos": ["l10261-174"],
+      "tema": "Acumulação ilegal",
+      "dificuldade": "dificil",
+      "enunciado": "Verificado, em processo administrativo, que o funcionário acumula cargos fora das condições legais, e provada a sua boa-fé, segundo a Lei nº 10.261/1968, ele",
+      "alternativas": {
+        "A": "será demitido de todos os cargos e ficará inabilitado por 5 (cinco) anos.",
+        "B": "poderá escolher o cargo em que deseja permanecer.",
+        "C": "será mantido no cargo ou função que exercer há mais tempo.",
+        "D": "será mantido no cargo de maior remuneração.",
+        "E": "será suspenso por 90 (noventa) dias e mantido em ambos os cargos."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 174, § 1º, da Lei 10.261/1968. Sem boa-fé, o funcionário é demitido de todos os cargos, restitui o indevidamente recebido e fica inabilitado por 5 anos (caput e § 2º)."
+    },
+    {
+      "id": "administrativo-008",
+      "lei": "l10261",
+      "artigos": ["l10261-240"],
+      "tema": "Direito de petição — prazo de reconsideração e recurso",
+      "dificuldade": "media",
+      "enunciado": "Ao servidor é assegurado o direito de requerer ou representar, bem como pedir reconsideração e recorrer de decisões, salvo previsão legal específica, no prazo de",
+      "alternativas": {
+        "A": "10 (dez) dias.",
+        "B": "15 (quinze) dias.",
+        "C": "60 (sessenta) dias.",
+        "D": "120 (cento e vinte) dias.",
+        "E": "30 (trinta) dias."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 240 da Lei 10.261/1968 (redação da LC 942/2003): 30 dias, salvo previsão legal específica. E, pelo art. 239, § 2º, a Administração não pode recusar-se a protocolar, encaminhar ou apreciar a petição."
+    },
+    {
+      "id": "administrativo-009",
+      "lei": "l10261",
+      "artigos": ["l10261-251", "l10261-254"],
+      "tema": "Penas disciplinares — suspensão",
+      "dificuldade": "media",
+      "enunciado": "Sobre a pena de suspensão prevista na Lei nº 10.261/1968, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Não excederá 30 (trinta) dias e é aplicada nos casos de indisciplina.",
+        "B": "Pode ser convertida em multa, na base de 50% por dia de vencimento ou remuneração, permanecendo o funcionário em serviço.",
+        "C": "Não acarreta perda de vantagens decorrentes do exercício do cargo.",
+        "D": "É aplicada sempre por escrito, nos casos de falta de cumprimento dos deveres.",
+        "E": "Não excederá 180 (cento e oitenta) dias."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 254 da Lei 10.261/1968: a suspensão não excede 90 dias, cabe em falta grave ou reincidência, implica perda das vantagens do exercício (§ 1º) e pode ser convertida em multa de 50% por dia, com o funcionário em serviço (§ 2º). A repreensão é que se aplica por escrito, por indisciplina ou falta de cumprimento dos deveres (art. 253)."
+    },
+    {
+      "id": "administrativo-010",
+      "lei": "l10261",
+      "artigos": ["l10261-256"],
+      "tema": "Inassiduidade",
+      "dificuldade": "dificil",
+      "enunciado": "Para fins de aplicação da pena de demissão, a Lei nº 10.261/1968 considera inassiduidade a ausência ao serviço, sem causa justificável,",
+      "alternativas": {
+        "A": "por mais de 30 (trinta) dias consecutivos, ou por mais de 45 (quarenta e cinco) dias intercalados, durante 1 (um) ano.",
+        "B": "por mais de 15 (quinze) dias consecutivos, ou por mais de 30 (trinta) dias intercalados, durante 1 (um) ano.",
+        "C": "por mais de 15 (quinze) dias consecutivos, ou por mais de 20 (vinte) dias úteis intercalados, durante 1 (um) ano.",
+        "D": "por mais de 10 (dez) dias consecutivos, ou por mais de 20 (vinte) dias intercalados, durante 1 (um) ano.",
+        "E": "por mais de 30 (trinta) dias consecutivos, apenas."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 256, § 1º, da Lei 10.261/1968 (redação da LC 1.361/2021). Na contagem dos 15 dias consecutivos, computam-se sábados, domingos, feriados e pontos facultativos subsequentes à primeira falta (§ 3º)."
+    },
+    {
+      "id": "administrativo-011",
+      "lei": "l10261",
+      "artigos": ["l10261-257"],
+      "tema": "Demissão a bem do serviço público",
+      "dificuldade": "media",
+      "enunciado": "Será aplicada a pena de demissão a bem do serviço público ao funcionário que",
+      "alternativas": {
+        "A": "for ineficiente no serviço, verificada a impossibilidade de readaptação.",
+        "B": "praticar procedimento irregular, de natureza grave.",
+        "C": "for inassíduo.",
+        "D": "der aplicação indevida a dinheiros públicos.",
+        "E": "receber ou solicitar propinas, comissões, presentes ou vantagens de qualquer espécie, ainda que fora de suas funções mas em razão delas."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 257, VII, da Lei 10.261/1968 (demissão a bem do serviço público). As demais alternativas são hipóteses de demissão simples (art. 256: procedimento irregular grave, ineficiência, aplicação indevida de dinheiros públicos e inassiduidade)."
+    },
+    {
+      "id": "administrativo-012",
+      "lei": "l10261",
+      "artigos": ["l10261-261", "l10261-269", "l10261-270"],
+      "tema": "Prescrição e procedimento disciplinar",
+      "dificuldade": "dificil",
+      "enunciado": "Considere a Lei nº 10.261/1968. A falta sujeita à pena de suspensão prescreve em ____ anos e será apurada mediante ____; já a falta sujeita à pena de demissão prescreve em ____ anos e exige ____. Assinale a alternativa que completa corretamente as lacunas.",
+      "alternativas": {
+        "A": "2 … sindicância … 5 … processo administrativo",
+        "B": "5 … processo administrativo … 8 … processo administrativo",
+        "C": "2 … processo administrativo … 5 … sindicância",
+        "D": "3 … sindicância … 5 … processo administrativo",
+        "E": "1 … apuração preliminar … 5 … sindicância"
+      },
+      "gabarito": "A",
+      "comentario": "Art. 261: prescrevem em 2 anos as faltas sujeitas a repreensão, suspensão ou multa, e em 5 anos as sujeitas a demissão, demissão a bem do serviço público e cassação. Art. 269: sindicância para repreensão, suspensão ou multa. Art. 270: processo administrativo obrigatório para demissão, demissão a bem do serviço público e cassação."
+    },
+    {
+      "id": "administrativo-013",
+      "lei": "l10261",
+      "artigos": ["l10261-266"],
+      "tema": "Afastamento preventivo",
+      "dificuldade": "media",
+      "enunciado": "Instaurada sindicância ou processo administrativo, o Chefe de Gabinete poderá, por despacho fundamentado, determinar o afastamento preventivo do servidor, quando o recomendar a moralidade administrativa ou a apuração do fato,",
+      "alternativas": {
+        "A": "com prejuízo de vencimentos, por até 90 (noventa) dias.",
+        "B": "sem prejuízo de vencimentos ou vantagens, por até 180 (cento e oitenta) dias, prorrogáveis uma única vez por igual período.",
+        "C": "sem prejuízo de vencimentos, por até 60 (sessenta) dias, improrrogáveis.",
+        "D": "com prejuízo de metade dos vencimentos, até a decisão final.",
+        "E": "sem prejuízo de vencimentos, por prazo indeterminado."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 266, I, da Lei 10.261/1968. O período de afastamento preventivo computa-se como de efetivo exercício e não é descontado da pena de suspensão eventualmente aplicada (art. 267)."
+    },
+    {
+      "id": "administrativo-014",
+      "lei": "l8429",
+      "artigos": ["l8429-1"],
+      "tema": "Dolo na improbidade",
+      "dificuldade": "media",
+      "enunciado": "Com a redação dada pela Lei nº 14.230/2021, a Lei de Improbidade Administrativa estabelece que",
+      "alternativas": {
+        "A": "consideram-se atos de improbidade as condutas dolosas ou culposas tipificadas nos arts. 9º, 10 e 11.",
+        "B": "basta a voluntariedade do agente para a configuração do dolo.",
+        "C": "consideram-se atos de improbidade as condutas dolosas tipificadas nos arts. 9º, 10 e 11, sendo dolo a vontade livre e consciente de alcançar o resultado ilícito, não bastando a voluntariedade do agente.",
+        "D": "a culpa grave equipara-se ao dolo para fins de lesão ao erário.",
+        "E": "o mero exercício da função pública já caracteriza responsabilidade por improbidade."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 1º, §§ 1º e 2º, da Lei 8.429/1992. O § 3º afasta a responsabilidade pelo mero exercício da função sem comprovação de ato doloso com fim ilícito."
+    },
+    {
+      "id": "administrativo-015",
+      "lei": "l8429",
+      "artigos": ["l8429-9", "l8429-10", "l8429-11"],
+      "tema": "Espécies de atos de improbidade",
+      "dificuldade": "media",
+      "enunciado": "Um servidor utiliza, em obra particular de sua casa, máquinas pertencentes ao Município e o trabalho de servidores municipais. Nos termos da Lei nº 8.429/1992, essa conduta dolosa configura, em tese, ato de improbidade",
+      "alternativas": {
+        "A": "que importa enriquecimento ilícito.",
+        "B": "que atenta contra os princípios da Administração Pública, apenas.",
+        "C": "que causa lesão ao erário, apenas se houver licitação.",
+        "D": "que não se enquadra na Lei, por ausência de dano.",
+        "E": "culposo, punido apenas com multa."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 9º, IV, da Lei 8.429/1992: utilizar, em obra ou serviço particular, bem móvel das entidades do art. 1º, bem como o trabalho de seus servidores. Atenção: quem PERMITE que outro utilize esses bens incide no art. 10, XIII (lesão ao erário)."
+    },
+    {
+      "id": "administrativo-016",
+      "lei": "l8429",
+      "artigos": ["l8429-11"],
+      "tema": "Nepotismo como improbidade",
+      "dificuldade": "media",
+      "enunciado": "Nos termos do art. 11 da Lei nº 8.429/1992, constitui ato de improbidade que atenta contra os princípios da Administração Pública nomear cônjuge, companheiro ou parente da autoridade nomeante, para cargo em comissão ou de confiança, em linha reta, colateral ou por afinidade,",
+      "alternativas": {
+        "A": "até o segundo grau, inclusive.",
+        "B": "até o quarto grau, inclusive.",
+        "C": "somente em linha reta, até o segundo grau.",
+        "D": "até o terceiro grau, inclusive, compreendido o ajuste mediante designações recíprocas.",
+        "E": "até o terceiro grau, excluído o ajuste mediante designações recíprocas."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 11, XI, da Lei 8.429/1992 (incluído pela Lei 14.230/2021): até o terceiro grau, inclusive, compreendido o ajuste mediante designações recíprocas (nepotismo cruzado)."
+    },
+    {
+      "id": "administrativo-017",
+      "lei": "l8429",
+      "artigos": ["l8429-12"],
+      "tema": "Sanções por enriquecimento ilícito",
+      "dificuldade": "dificil",
+      "enunciado": "Na hipótese de ato de improbidade que importa enriquecimento ilícito (art. 9º), a Lei nº 8.429/1992 prevê, entre outras sanções, suspensão dos direitos políticos",
+      "alternativas": {
+        "A": "de 8 a 10 anos e multa civil de até três vezes o acréscimo patrimonial.",
+        "B": "até 12 (doze) anos e multa civil equivalente ao valor do dano.",
+        "C": "até 4 (quatro) anos e multa civil de até 24 vezes a remuneração.",
+        "D": "até 10 (dez) anos e multa civil equivalente ao dobro do acréscimo patrimonial.",
+        "E": "até 14 (catorze) anos e multa civil equivalente ao valor do acréscimo patrimonial."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 12, I, da Lei 8.429/1992: suspensão dos direitos políticos até 14 anos, multa equivalente ao acréscimo patrimonial e proibição de contratar por até 14 anos. Lesão ao erário (II): até 12 anos e multa equivalente ao dano. Princípios (III): multa de até 24 vezes a remuneração e proibição de contratar por até 4 anos (sem suspensão de direitos políticos)."
+    },
+    {
+      "id": "administrativo-018",
+      "lei": "l8429",
+      "artigos": ["l8429-13"],
+      "tema": "Declaração de bens",
+      "dificuldade": "media",
+      "enunciado": "A posse e o exercício de agente público ficam condicionados à apresentação de declaração de imposto de renda. O agente público que se recusar a prestar essa declaração dentro do prazo determinado, ou que prestar declaração falsa, será apenado com",
+      "alternativas": {
+        "A": "advertência.",
+        "B": "suspensão de até 30 dias.",
+        "C": "demissão, sem prejuízo de outras sanções cabíveis.",
+        "D": "multa de até 10 vezes a remuneração.",
+        "E": "cassação de direitos políticos."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 13, § 3º, da Lei 8.429/1992. A declaração deve ser atualizada anualmente e na data em que o agente deixar o exercício do mandato, cargo, emprego ou função (§ 2º)."
+    },
+    {
+      "id": "administrativo-019",
+      "lei": "l8429",
+      "artigos": ["l8429-23"],
+      "tema": "Prescrição da ação de improbidade",
+      "dificuldade": "media",
+      "enunciado": "A ação para a aplicação das sanções previstas na Lei de Improbidade Administrativa prescreve em",
+      "alternativas": {
+        "A": "5 (cinco) anos, contados do término do mandato ou do exercício do cargo em comissão.",
+        "B": "8 (oito) anos, contados a partir da ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência.",
+        "C": "10 (dez) anos, contados da ciência do fato pela Administração.",
+        "D": "8 (oito) anos, contados da instauração do inquérito civil.",
+        "E": "5 (cinco) anos, contados da ocorrência do fato."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 23 da Lei 8.429/1992. Interrompida a prescrição, o prazo recomeça a correr pela metade (4 anos), conforme o § 5º. A instauração de inquérito civil ou processo administrativo suspende o prazo por, no máximo, 180 dias (§ 1º)."
+    },
+    {
+      "id": "administrativo-020",
+      "lei": "l8429",
+      "artigos": ["l8429-17-B", "l8429-18"],
+      "tema": "Acordo de não persecução civil e parcelamento",
+      "dificuldade": "dificil",
+      "enunciado": "Sobre a Lei nº 8.429/1992, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O acordo de não persecução civil dispensa homologação judicial quando celebrado antes do ajuizamento da ação.",
+        "B": "Descumprido o acordo de não persecução civil, o investigado fica impedido de celebrar novo acordo por 2 anos.",
+        "C": "O acordo de não persecução civil não pode ser celebrado na fase de execução da sentença condenatória.",
+        "D": "O juiz poderá autorizar o parcelamento do débito resultante da condenação em até 48 parcelas mensais corrigidas, se o réu demonstrar incapacidade financeira de saldá-lo de imediato.",
+        "E": "Para a apuração do valor do ressarcimento, não podem ser descontados os serviços efetivamente prestados."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 18, § 4º, da Lei 8.429/1992. O ANPC sempre depende de homologação judicial (art. 17-B, § 1º, III), pode ser celebrado na investigação, na ação ou na execução (§ 4º) e, se descumprido, impede novo acordo por 5 anos (§ 7º). Na apuração do ressarcimento, descontam-se os serviços efetivamente prestados (art. 18, § 3º)."
+    }
+  ]
+}

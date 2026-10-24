@@ -1,0 +1,346 @@
+{
+  "materia": "Direito Penal",
+  "slug": "penal",
+  "questoes": [
+    {
+      "id": "penal-001",
+      "lei": "cp",
+      "artigos": ["cp-312"],
+      "tema": "Peculato culposo",
+      "dificuldade": "media",
+      "enunciado": "Mário, servidor responsável pelo almoxarifado de um fórum, deixou a porta do depósito destrancada por descuido, o que permitiu que um terceiro subtraísse equipamentos públicos ali guardados. Antes da sentença irrecorrível, Mário reparou integralmente o dano. Nos termos do Código Penal, é correto afirmar que",
+      "alternativas": {
+        "A": "a reparação do dano reduz de metade a pena imposta.",
+        "B": "a reparação do dano extingue a punibilidade.",
+        "C": "a reparação do dano não produz efeitos, pois o peculato culposo é crime formal.",
+        "D": "Mário responde por peculato doloso, com pena de reclusão de dois a doze anos.",
+        "E": "a reparação do dano apenas atenua a pena, a critério do juiz."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 312, §§ 2º e 3º, do CP: no peculato culposo (o funcionário concorre culposamente para o crime de outrem), a reparação do dano que precede a sentença irrecorrível extingue a punibilidade; se lhe é posterior, reduz de metade a pena imposta."
+    },
+    {
+      "id": "penal-002",
+      "lei": "cp",
+      "artigos": ["cp-316", "cp-317"],
+      "tema": "Concussão x corrupção passiva",
+      "dificuldade": "facil",
+      "enunciado": "O funcionário público que exige, para si, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, pratica o crime de",
+      "alternativas": {
+        "A": "corrupção passiva.",
+        "B": "prevaricação.",
+        "C": "concussão.",
+        "D": "advocacia administrativa.",
+        "E": "tráfico de influência."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 316 do CP (concussão): o núcleo é \"exigir\" vantagem indevida. Na corrupção passiva (art. 317), os verbos são \"solicitar\", \"receber\" ou \"aceitar promessa\" de vantagem indevida."
+    },
+    {
+      "id": "penal-003",
+      "lei": "cp",
+      "artigos": ["cp-317"],
+      "tema": "Corrupção passiva privilegiada",
+      "dificuldade": "media",
+      "enunciado": "Um oficial de justiça deixa de cumprir um mandado, com infração de dever funcional, cedendo a pedido de um amigo, sem receber nem lhe ser prometida qualquer vantagem. Segundo o Código Penal, essa conduta",
+      "alternativas": {
+        "A": "configura corrupção passiva, na forma do art. 317, § 2º, punida com detenção, de três meses a um ano, ou multa.",
+        "B": "é atípica, pois não houve vantagem indevida.",
+        "C": "configura concussão, punida com reclusão de dois a doze anos.",
+        "D": "configura corrupção passiva com pena aumentada de um terço.",
+        "E": "configura condescendência criminosa."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 317, § 2º, do CP: se o funcionário pratica, deixa de praticar ou retarda ato de ofício, com infração de dever funcional, cedendo a pedido ou influência de outrem, a pena é de detenção, de três meses a um ano, ou multa (corrupção passiva privilegiada)."
+    },
+    {
+      "id": "penal-004",
+      "lei": "cp",
+      "artigos": ["cp-319"],
+      "tema": "Prevaricação",
+      "dificuldade": "facil",
+      "enunciado": "Retardar ou deixar de praticar, indevidamente, ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal, caracteriza o crime de",
+      "alternativas": {
+        "A": "condescendência criminosa.",
+        "B": "corrupção passiva.",
+        "C": "abandono de função.",
+        "D": "prevaricação.",
+        "E": "advocacia administrativa."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 319 do CP. O elemento que distingue a prevaricação é o especial fim de agir: \"satisfazer interesse ou sentimento pessoal\". A pena é de detenção, de três meses a um ano, e multa."
+    },
+    {
+      "id": "penal-005",
+      "lei": "cp",
+      "artigos": ["cp-327"],
+      "tema": "Conceito penal de funcionário público",
+      "dificuldade": "media",
+      "enunciado": "De acordo com o art. 327 do Código Penal, considera-se funcionário público, para os efeitos penais,",
+      "alternativas": {
+        "A": "apenas quem ocupa cargo efetivo, mediante aprovação em concurso público.",
+        "B": "quem exerce cargo, emprego ou função pública, desde que de forma remunerada.",
+        "C": "somente o servidor estável da Administração direta.",
+        "D": "quem exerce função pública por prazo superior a seis meses.",
+        "E": "quem, embora transitoriamente ou sem remuneração, exerce cargo, emprego ou função pública."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 327, caput, do CP: \"Considera-se funcionário público, para os efeitos penais, quem, embora transitoriamente ou sem remuneração, exerce cargo, emprego ou função pública.\" O § 1º equipara quem trabalha em entidade paraestatal ou em empresa contratada ou conveniada para atividade típica da Administração."
+    },
+    {
+      "id": "penal-006",
+      "lei": "cp",
+      "artigos": ["cp-327"],
+      "tema": "Causa de aumento — cargo em comissão",
+      "dificuldade": "dificil",
+      "enunciado": "Nos crimes praticados por funcionário público contra a Administração em geral, quando os autores forem ocupantes de cargos em comissão ou de função de direção ou assessoramento de órgão da administração direta, sociedade de economia mista, empresa pública ou fundação instituída pelo poder público, a pena será",
+      "alternativas": {
+        "A": "aumentada da sexta parte.",
+        "B": "aumentada da terça parte.",
+        "C": "aumentada da metade.",
+        "D": "aplicada em dobro.",
+        "E": "aumentada de um sexto a dois terços."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 327, § 2º, do CP: a pena será aumentada da terça parte quando os autores dos crimes do Capítulo forem ocupantes de cargos em comissão ou de função de direção ou assessoramento."
+    },
+    {
+      "id": "penal-007",
+      "lei": "cp",
+      "artigos": ["cp-313"],
+      "tema": "Peculato mediante erro de outrem",
+      "dificuldade": "facil",
+      "enunciado": "Um escrevente recebe, no balcão do cartório, por engano do advogado, quantia em dinheiro que não era devida, e dela se apropria. Essa conduta corresponde, em tese, ao crime de",
+      "alternativas": {
+        "A": "peculato mediante erro de outrem.",
+        "B": "concussão.",
+        "C": "excesso de exação.",
+        "D": "estelionato.",
+        "E": "peculato-furto."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 313 do CP: \"Apropriar-se de dinheiro ou qualquer utilidade que, no exercício do cargo, recebeu por erro de outrem\". Pena de reclusão, de um a quatro anos, e multa."
+    },
+    {
+      "id": "penal-008",
+      "lei": "cp",
+      "artigos": ["cp-316"],
+      "tema": "Excesso de exação",
+      "dificuldade": "media",
+      "enunciado": "O funcionário que exige tributo ou contribuição social que sabe ou deveria saber indevido, ou, quando devido, emprega na cobrança meio vexatório ou gravoso que a lei não autoriza, comete",
+      "alternativas": {
+        "A": "concussão simples, com pena de reclusão de dois a doze anos.",
+        "B": "peculato, com pena de reclusão de dois a doze anos.",
+        "C": "excesso de exação, com pena de reclusão de três a oito anos, e multa.",
+        "D": "emprego irregular de verbas públicas, com pena de detenção de um a três meses.",
+        "E": "corrupção passiva, com pena aumentada de um terço."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 316, § 1º, do CP (excesso de exação): pena de reclusão, de 3 (três) a 8 (oito) anos, e multa. Se o funcionário desvia, em proveito próprio ou de outrem, o que recebeu indevidamente para recolher aos cofres públicos, a pena é de reclusão, de dois a doze anos, e multa (§ 2º)."
+    },
+    {
+      "id": "penal-009",
+      "lei": "cp",
+      "artigos": ["cp-320"],
+      "tema": "Condescendência criminosa",
+      "dificuldade": "facil",
+      "enunciado": "Deixar o funcionário, por indulgência, de responsabilizar subordinado que cometeu infração no exercício do cargo ou, quando lhe falte competência, não levar o fato ao conhecimento da autoridade competente, constitui",
+      "alternativas": {
+        "A": "prevaricação.",
+        "B": "advocacia administrativa.",
+        "C": "violação de sigilo funcional.",
+        "D": "condescendência criminosa.",
+        "E": "favorecimento pessoal."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 320 do CP (condescendência criminosa). A palavra-chave é \"indulgência\". Pena de detenção, de quinze dias a um mês, ou multa."
+    },
+    {
+      "id": "penal-010",
+      "lei": "cp",
+      "artigos": ["cp-321"],
+      "tema": "Advocacia administrativa",
+      "dificuldade": "media",
+      "enunciado": "Patrocinar, direta ou indiretamente, interesse privado perante a administração pública, valendo-se da qualidade de funcionário, é crime de advocacia administrativa. Se o interesse patrocinado é ilegítimo, a pena é de",
+      "alternativas": {
+        "A": "detenção, de um a três meses, ou multa.",
+        "B": "reclusão, de dois a cinco anos, e multa.",
+        "C": "detenção, de seis meses a dois anos, ou multa.",
+        "D": "reclusão, de um a quatro anos.",
+        "E": "detenção, de três meses a um ano, além da multa."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 321 do CP: na forma simples, detenção de um a três meses, ou multa; parágrafo único: se o interesse é ilegítimo, detenção de três meses a um ano, além da multa."
+    },
+    {
+      "id": "penal-011",
+      "lei": "cp",
+      "artigos": ["cp-323"],
+      "tema": "Abandono de função",
+      "dificuldade": "dificil",
+      "enunciado": "Sobre o crime de abandono de função (art. 323 do CP), assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Se o fato ocorre em lugar compreendido na faixa de fronteira, a pena é de detenção, de um a três anos, e multa.",
+        "B": "O crime só se configura se houver prejuízo público.",
+        "C": "A pena da forma simples é de reclusão, de um a quatro anos.",
+        "D": "Se do fato resulta prejuízo público, a pena é aplicada em dobro.",
+        "E": "O crime se configura mesmo quando o abandono ocorre nos casos permitidos em lei."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 323 do CP: abandonar cargo público, fora dos casos permitidos em lei — detenção, de quinze dias a um mês, ou multa. § 1º: se resulta prejuízo público, detenção de três meses a um ano, e multa. § 2º: se ocorre em faixa de fronteira, detenção de um a três anos, e multa."
+    },
+    {
+      "id": "penal-012",
+      "lei": "cp",
+      "artigos": ["cp-325"],
+      "tema": "Violação de sigilo funcional",
+      "dificuldade": "media",
+      "enunciado": "Uma servidora empresta sua senha de acesso ao sistema do tribunal a um conhecido, que não tinha autorização para acessá-lo. Do fato resulta dano à Administração Pública. Nos termos do Código Penal, a servidora responde por",
+      "alternativas": {
+        "A": "inserção de dados falsos em sistema de informações, com pena de reclusão de dois a doze anos.",
+        "B": "violação de sigilo funcional qualificada, com pena de reclusão de dois a seis anos, e multa.",
+        "C": "modificação não autorizada de sistema de informações, com pena aumentada de um terço até a metade.",
+        "D": "violação de sigilo funcional simples, com pena de detenção de seis meses a dois anos, ou multa.",
+        "E": "fato atípico, pois não houve revelação de fato sigiloso."
+      },
+      "gabarito": "B",
+      "comentario": "Art. 325, § 1º, I, do CP: incorre nas penas quem permite ou facilita, mediante atribuição, fornecimento e empréstimo de senha, o acesso de pessoas não autorizadas a sistemas da Administração. § 2º: se da ação ou omissão resulta dano à Administração Pública ou a outrem, reclusão, de 2 a 6 anos, e multa."
+    },
+    {
+      "id": "penal-013",
+      "lei": "cp",
+      "artigos": ["cp-313-A", "cp-313-B"],
+      "tema": "Crimes em sistemas de informação",
+      "dificuldade": "dificil",
+      "enunciado": "O funcionário autorizado que insere dados falsos nos sistemas informatizados da Administração Pública com o fim de obter vantagem indevida para si comete o crime previsto no art. 313-A do CP, cuja pena é de",
+      "alternativas": {
+        "A": "detenção, de 3 (três) meses a 2 (dois) anos, e multa.",
+        "B": "reclusão, de 1 (um) a 4 (quatro) anos, e multa.",
+        "C": "reclusão, de 2 (dois) a 6 (seis) anos, e multa.",
+        "D": "reclusão, de 2 (dois) a 12 (doze) anos, e multa.",
+        "E": "detenção, de seis meses a dois anos, ou multa."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 313-A do CP (inserção de dados falsos em sistema de informações): reclusão, de 2 a 12 anos, e multa. Não confundir com o art. 313-B (modificação ou alteração não autorizada de sistema), punido com detenção, de 3 meses a 2 anos, e multa."
+    },
+    {
+      "id": "penal-014",
+      "lei": "cp",
+      "artigos": ["cp-333"],
+      "tema": "Corrupção ativa",
+      "dificuldade": "facil",
+      "enunciado": "O particular que oferece vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou retardar ato de ofício, pratica",
+      "alternativas": {
+        "A": "corrupção passiva.",
+        "B": "tráfico de influência.",
+        "C": "corrupção ativa.",
+        "D": "exploração de prestígio.",
+        "E": "concussão."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 333 do CP (corrupção ativa): \"Oferecer ou prometer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou retardar ato de ofício\". A pena aumenta-se de um terço se, em razão da vantagem ou promessa, o funcionário retarda ou omite o ato, ou o pratica infringindo dever funcional."
+    },
+    {
+      "id": "penal-015",
+      "lei": "cp",
+      "artigos": ["cp-332", "cp-357"],
+      "tema": "Tráfico de influência x exploração de prestígio",
+      "dificuldade": "dificil",
+      "enunciado": "Pedro solicita dinheiro a uma parte, a pretexto de influir no juiz da causa, insinuando que parte do valor também se destina ao magistrado. Nos termos do Código Penal, Pedro pratica",
+      "alternativas": {
+        "A": "tráfico de influência, com pena aumentada da metade.",
+        "B": "corrupção ativa, com pena aumentada de um terço.",
+        "C": "tráfico de influência, na forma simples.",
+        "D": "exploração de prestígio, na forma simples.",
+        "E": "exploração de prestígio, com penas aumentadas de um terço."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 357 do CP (exploração de prestígio): solicitar ou receber dinheiro ou utilidade a pretexto de influir em juiz, jurado, MP, funcionário de justiça, perito, tradutor, intérprete ou testemunha. Parágrafo único: as penas aumentam-se de um terço se o agente alega ou insinua que o dinheiro também se destina a essas pessoas. O tráfico de influência (art. 332) trata de funcionário público em geral, com aumento da metade."
+    },
+    {
+      "id": "penal-016",
+      "lei": "cp",
+      "artigos": ["cp-342"],
+      "tema": "Falso testemunho — retratação",
+      "dificuldade": "media",
+      "enunciado": "No crime de falso testemunho ou falsa perícia, o fato deixa de ser punível se o agente se retrata ou declara a verdade",
+      "alternativas": {
+        "A": "antes da sentença no processo em que ocorreu o ilícito.",
+        "B": "até o trânsito em julgado da sentença no processo em que ocorreu o ilícito.",
+        "C": "antes do recebimento da denúncia pelo crime de falso testemunho.",
+        "D": "a qualquer tempo, desde que antes da execução da pena.",
+        "E": "apenas na mesma audiência em que prestou o depoimento falso."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 342, § 2º, do CP: \"O fato deixa de ser punível se, antes da sentença no processo em que ocorreu o ilícito, o agente se retrata ou declara a verdade.\""
+    },
+    {
+      "id": "penal-017",
+      "lei": "cp",
+      "artigos": ["cp-339", "cp-340"],
+      "tema": "Denunciação caluniosa",
+      "dificuldade": "media",
+      "enunciado": "Dar causa à instauração de inquérito policial contra alguém, imputando-lhe crime de que o sabe inocente, configura denunciação caluniosa. Se o agente se serve de anonimato ou de nome suposto,",
+      "alternativas": {
+        "A": "a pena é diminuída de metade.",
+        "B": "o crime passa a ser de comunicação falsa de crime.",
+        "C": "a pena é aumentada de sexta parte.",
+        "D": "a pena é aplicada em dobro.",
+        "E": "a pena é aumentada de um terço até a metade."
+      },
+      "gabarito": "C",
+      "comentario": "Art. 339, § 1º, do CP: a pena é aumentada de sexta parte se o agente se serve de anonimato ou de nome suposto. Pelo § 2º, a pena é diminuída de metade se a imputação é de prática de contravenção."
+    },
+    {
+      "id": "penal-018",
+      "lei": "cp",
+      "artigos": ["cp-345"],
+      "tema": "Exercício arbitrário das próprias razões",
+      "dificuldade": "media",
+      "enunciado": "No crime de exercício arbitrário das próprias razões (art. 345 do CP), se não há emprego de violência,",
+      "alternativas": {
+        "A": "o fato é atípico.",
+        "B": "a ação penal é pública incondicionada.",
+        "C": "a ação penal é pública condicionada à requisição do Ministro da Justiça.",
+        "D": "somente se procede mediante queixa.",
+        "E": "a pena é aplicada em dobro."
+      },
+      "gabarito": "D",
+      "comentario": "Art. 345, parágrafo único, do CP: \"Se não há emprego de violência, somente se procede mediante queixa.\""
+    },
+    {
+      "id": "penal-019",
+      "lei": "cp",
+      "artigos": ["cp-347"],
+      "tema": "Fraude processual",
+      "dificuldade": "media",
+      "enunciado": "Inovar artificiosamente, na pendência de processo civil ou administrativo, o estado de lugar, de coisa ou de pessoa, com o fim de induzir a erro o juiz ou o perito, é crime de fraude processual. Se a inovação se destina a produzir efeito em processo penal, ainda que não iniciado,",
+      "alternativas": {
+        "A": "as penas aplicam-se em dobro.",
+        "B": "as penas aumentam-se de um terço.",
+        "C": "o fato é atípico, porque o processo ainda não existe.",
+        "D": "as penas aumentam-se de sexta parte.",
+        "E": "o crime passa a ser de coação no curso do processo."
+      },
+      "gabarito": "A",
+      "comentario": "Art. 347, parágrafo único, do CP: se a inovação se destina a produzir efeito em processo penal, ainda que não iniciado, as penas aplicam-se em dobro."
+    },
+    {
+      "id": "penal-020",
+      "lei": "cp",
+      "artigos": ["cp-311-A"],
+      "tema": "Fraudes em certames de interesse público",
+      "dificuldade": "media",
+      "enunciado": "Um funcionário público divulga, indevidamente, conteúdo sigiloso de concurso público, com o fim de beneficiar um parente. Sobre o crime do art. 311-A do CP, é correto afirmar que",
+      "alternativas": {
+        "A": "a pena é aplicada em dobro por se tratar de funcionário público.",
+        "B": "o crime somente se consuma se resultar dano à administração pública.",
+        "C": "a pena é aumentada de sexta parte, por ser o agente funcionário público.",
+        "D": "o crime não abrange exames ou processos seletivos previstos em lei.",
+        "E": "a pena é aumentada de 1/3 (um terço), por ser o fato cometido por funcionário público."
+      },
+      "gabarito": "E",
+      "comentario": "Art. 311-A, § 3º, do CP: aumenta-se a pena de 1/3 se o fato é cometido por funcionário público. O dano à administração (§ 2º) é qualificadora, não requisito de consumação; e o inciso IV inclui exame ou processo seletivo previstos em lei."
+    }
+  ]
+}
