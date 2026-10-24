@@ -1,0 +1,341 @@
+{
+  "slug": "nscgj",
+  "ancora": "nscgj",
+  "lei": "Normas de Serviço da Corregedoria Geral da Justiça — Tomo I",
+  "subtitulo": "Provimentos CG nº 50/1989 e 30/2013 (Ofícios de Justiça)",
+  "materia": "Legislação Interna",
+  "artigosNoEdital": "Cap. II, Seção I, Subseções I e II (arts. 5º a 18); Cap. III, Seções I e II (arts. 26 a 29), V, VI e VII (arts. 46 a 86), Seção VIII, Subseções I, II e III (arts. 87 a 99), Seções IX a XIX (arts. 103 a 189-G); Cap. XI, Seções I a VII (arts. 1.189 a 1.301)",
+  "totalArtigos": 300,
+  "visaoGeral": "As Normas de Serviço da Corregedoria Geral da Justiça (Tomo I) são o manual de rotina dos ofícios de justiça: função correcional, atribuições, sistema informatizado, livros e classificadores, autuação, juntada, movimentação dos autos, certidões, mandados, intimações, audiências, carga, desentranhamento, arquivamento e, no Capítulo XI, toda a tramitação do processo eletrônico. É a norma mais prática do edital e a banca cobra prazos de cartório.",
+  "mapaMental": {
+    "titulo": "NSCGJ — Tomo I (recorte)",
+    "filhos": [
+      {
+        "titulo": "Função correcional (Cap. II)",
+        "filhos": [
+          {
+            "titulo": "Corregedoria permanente, correições e visitas",
+            "artigos": [
+              "nscgj-5",
+              "nscgj-6",
+              "nscgj-9"
+            ]
+          },
+          {
+            "titulo": "Apurações, sindicâncias e processos",
+            "artigos": [
+              "nscgj-15"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Ofícios de justiça em geral (Cap. III)",
+        "filhos": [
+          {
+            "titulo": "Disposições iniciais e atribuições",
+            "artigos": [
+              "nscgj-26",
+              "nscgj-27",
+              "nscgj-28",
+              "nscgj-29"
+            ]
+          },
+          {
+            "titulo": "Sistema informatizado oficial",
+            "artigos": [
+              "nscgj-46",
+              "nscgj-60"
+            ]
+          },
+          {
+            "titulo": "Livros e classificadores",
+            "artigos": [
+              "nscgj-67",
+              "nscgj-72",
+              "nscgj-74",
+              "nscgj-75",
+              "nscgj-78"
+            ]
+          },
+          {
+            "titulo": "Autuação, volumes e numeração",
+            "nota": "Autuação em 24 h; volumes de até 200 folhas",
+            "artigos": [
+              "nscgj-87",
+              "nscgj-89"
+            ]
+          },
+          {
+            "titulo": "Movimentação dos autos",
+            "nota": "Conclusão em 1 dia, atos em 5 dias",
+            "artigos": [
+              "nscgj-97",
+              "nscgj-99"
+            ]
+          },
+          {
+            "titulo": "Certidões",
+            "nota": "5 dias",
+            "artigos": [
+              "nscgj-104",
+              "nscgj-104-A"
+            ]
+          },
+          {
+            "titulo": "Mandados, ofícios e comunicações",
+            "artigos": [
+              "nscgj-108",
+              "nscgj-118"
+            ]
+          },
+          {
+            "titulo": "Cartas precatórias",
+            "artigos": [
+              "nscgj-122"
+            ]
+          },
+          {
+            "titulo": "Intimações",
+            "nota": "Envio à publicação em até 3 dias",
+            "artigos": [
+              "nscgj-133",
+              "nscgj-135"
+            ]
+          },
+          {
+            "titulo": "Audiências e gravação",
+            "artigos": [
+              "nscgj-148",
+              "nscgj-149-A"
+            ]
+          },
+          {
+            "titulo": "Consulta e carga dos autos",
+            "artigos": [
+              "nscgj-158",
+              "nscgj-161",
+              "nscgj-164",
+              "nscgj-165",
+              "nscgj-167"
+            ]
+          },
+          {
+            "titulo": "Desentranhamento",
+            "artigos": [
+              "nscgj-172",
+              "nscgj-174",
+              "nscgj-175"
+            ]
+          },
+          {
+            "titulo": "Arquivamento e desarquivamento",
+            "artigos": [
+              "nscgj-177",
+              "nscgj-179",
+              "nscgj-181",
+              "nscgj-188"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Processo eletrônico (Cap. XI)",
+        "filhos": [
+          {
+            "titulo": "Sistema e peticionamento",
+            "artigos": [
+              "nscgj-1189",
+              "nscgj-1198"
+            ]
+          },
+          {
+            "titulo": "Indisponibilidade do sistema",
+            "artigos": [
+              "nscgj-1202",
+              "nscgj-1203",
+              "nscgj-1205",
+              "nscgj-1205-A"
+            ]
+          },
+          {
+            "titulo": "Exceções ao peticionamento eletrônico",
+            "artigos": [
+              "nscgj-1207"
+            ]
+          },
+          {
+            "titulo": "Distribuição e petições intermediárias",
+            "artigos": [
+              "nscgj-1212",
+              "nscgj-1222"
+            ]
+          },
+          {
+            "titulo": "Consulta por terceiros",
+            "artigos": [
+              "nscgj-1226-A"
+            ]
+          },
+          {
+            "titulo": "Tramitação: providências e tarjas",
+            "artigos": [
+              "nscgj-1233"
+            ]
+          },
+          {
+            "titulo": "Intimações pelo portal",
+            "nota": "10 dias corridos para ciência",
+            "artigos": [
+              "nscgj-1248-A"
+            ]
+          },
+          {
+            "titulo": "Triagem de petições",
+            "nota": "10 dias; urgência em 48 h",
+            "artigos": [
+              "nscgj-1257-A"
+            ]
+          },
+          {
+            "titulo": "Digitalização e guarda de papéis",
+            "nota": "45 dias",
+            "artigos": [
+              "nscgj-1258",
+              "nscgj-1259"
+            ]
+          },
+          {
+            "titulo": "Cumprimento de sentença",
+            "artigos": [
+              "nscgj-1286"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "maisCobrados": [
+    {
+      "artigos": [
+        "nscgj-97",
+        "nscgj-99"
+      ],
+      "tema": "Prazos de movimentação dos autos",
+      "porQueCai": "É a rotina básica do escrevente.",
+      "pegadinha": "Conclusão ao juiz no prazo de 1 dia e execução dos atos processuais em 5 dias. Nenhum processo fica parado por mais de 30 dias aguardando diligência; vencido o prazo, o ofício reitera uma única vez e, sem resposta, abre conclusão.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "nscgj-87",
+        "nscgj-89"
+      ],
+      "tema": "Autuação e volumes",
+      "porQueCai": "Números simples e certeiros.",
+      "pegadinha": "Recebida a inicial ou a denúncia, o ofício autua em 24 horas. Nos autos físicos, cada volume tem no máximo 200 folhas, salvo determinação judicial ou para não separar peça de seus documentos.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "nscgj-104"
+      ],
+      "tema": "Certidões",
+      "porQueCai": "Competência e prazo de expedição.",
+      "pegadinha": "Certidões em breve relatório ou de inteiro teor são de competência exclusiva dos ofícios de justiça e saem em 5 dias do recebimento do pedido. Pedido de certidão de objeto e pé entre ofícios por e-mail institucional: 5 dias úteis.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "nscgj-133"
+      ],
+      "tema": "Envio de atos à publicação",
+      "porQueCai": "Prazo curto que a banca troca.",
+      "pegadinha": "Despachos, decisões interlocutórias e sentenças devem ser encaminhados ao Diário da Justiça Eletrônico em até 3 dias da devolução dos autos ao cartório.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "nscgj-165",
+        "nscgj-167"
+      ],
+      "tema": "Carga rápida e devolução de autos",
+      "porQueCai": "Regras práticas do balcão.",
+      "pegadinha": "Carga rápida por 1 hora, com pedido até 1 hora antes do fim do expediente; se não devolvidos, o escrivão comunica o juiz corregedor em 24 horas. Advogado intimado que não devolve em 3 dias perde a vista fora do cartório e paga multa de meio salário mínimo.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "nscgj-1257-A"
+      ],
+      "tema": "Triagem de petições no processo eletrônico",
+      "porQueCai": "Prazo do Capítulo XI mais cobrado.",
+      "pegadinha": "Triagem das petições juntadas, com remessa à conclusão ou ao cumprimento, em no máximo 10 dias corridos. Pedido de tutela de urgência ou medida protetiva: conclusão em até 48 horas.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "nscgj-1198",
+        "nscgj-1205"
+      ],
+      "tema": "Tempestividade e indisponibilidade no sistema",
+      "porQueCai": "Compare com a regra da Res. 963 para o eproc.",
+      "pegadinha": "Petição tempestiva quando recebida até as 24h do último dia (horário de Brasília); vencimento em dia sem expediente prorroga para o 1º dia útil. Prorroga-se o prazo quando há indisponibilidade de mais de 60 minutos entre 6h e 23h, ou nas últimas 24 horas do prazo, ou nos 60 minutos antes do seu fim.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "nscgj-1248-A"
+      ],
+      "tema": "Intimação pelo portal eletrônico",
+      "porQueCai": "Prazo de ciência da intimação eletrônica.",
+      "pegadinha": "A consulta deve ocorrer em até 10 dias corridos do envio; se não houver, considera-se a intimação automaticamente realizada no fim desse prazo.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "nscgj-1258",
+        "nscgj-1212",
+        "nscgj-1222"
+      ],
+      "tema": "Papéis digitalizados",
+      "porQueCai": "O número 45 se repete em vários artigos.",
+      "pegadinha": "Petições e documentos em papel digitalizados ficam no ofício por 45 dias para retirada; depois são inutilizados, salvo ordem do juiz.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "nscgj-6",
+        "nscgj-9"
+      ],
+      "tema": "Correições e visitas",
+      "porQueCai": "Prazos da função correcional.",
+      "pegadinha": "A função correcional é permanente e por correições ordinárias, extraordinárias e visitas correcionais. O juiz que assume a corregedoria permanente faz visita correcional em até 30 dias.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "nscgj-177",
+        "nscgj-179"
+      ],
+      "tema": "Arquivamento",
+      "porQueCai": "Prazos de permanência no cartório.",
+      "pegadinha": "Publicada a decisão de arquivamento, o processo fica 30 dias no ofício antes de ir ao arquivo. Arquivo provisório autorizado para execução de título judicial há mais de 1 ano sem bens localizados.",
+      "incidencia": "media"
+    }
+  ],
+  "pegadinhas": [
+    "Carga de autos em andamento é só para advogado ou estagiário inscrito na OAB constituído nos autos; os não constituídos têm direito de consulta (arts. 158 e 161).",
+    "Durante prazo comum, os procuradores só retiram os autos em conjunto ou por ajuste prévio (art. 164, §2º).",
+    "Carta precatória é feita em 3 vias, uma delas como contrafé (art. 122).",
+    "O servidor das audiências confere os processos 10 dias antes das datas designadas (art. 148).",
+    "Indisponibilidade severa é a que passa de 3 horas entre 9h e 19h em dias úteis (art. 1.205-A).",
+    "Tarjas coloridas no sistema são obrigatórias para situações como réu menor de 21 ou maior de 70 anos (art. 1.233).",
+    "Registro de sentenças no livro em até 5 dias após a baixa dos autos (art. 72, §1º)."
+  ],
+  "dicasDeMemorizacao": [
+    "Cartório: 'autua em 24 h, conclui em 1 dia, cumpre em 5, publica em 3, certifica em 5'.",
+    "Eletrônico: 'triagem 10 dias, urgência 48 h, portal 10 dias, papel 45 dias'.",
+    "Carga rápida: 1 hora. Devolução após intimação: 3 dias."
+  ]
+}

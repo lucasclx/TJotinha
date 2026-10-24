@@ -1,0 +1,454 @@
+{
+  "slug": "l10261",
+  "ancora": "l10261",
+  "lei": "Lei nº 10.261/1968 — Estatuto dos Funcionários Públicos Civis do Estado de São Paulo",
+  "subtitulo": "Lei nº 10.261, de 28 de outubro de 1968",
+  "materia": "Direito Administrativo",
+  "artigosNoEdital": "Arts. 1º a 86; 171 a 175; 239 a 323",
+  "totalArtigos": 192,
+  "visaoGeral": "O Estatuto dos Funcionários Públicos Civis do Estado de São Paulo se aplica aos servidores do TJSP no que não colidir com a lei especial. O edital cobra o início (provimento, posse, exercício, contagem de tempo e vacância), a acumulação remunerada e todo o regime disciplinar: deveres, proibições, responsabilidades, penas, prescrição, apuração preliminar, sindicância, processo administrativo, recursos e revisão. Os prazos do Estatuto são em dias corridos.",
+  "mapaMental": {
+    "titulo": "Estatuto dos Funcionários Públicos de SP — recorte",
+    "filhos": [
+      {
+        "titulo": "Conceitos",
+        "artigos": [
+          "l10261-1",
+          "l10261-3",
+          "l10261-4",
+          "l10261-5"
+        ]
+      },
+      {
+        "titulo": "Provimento",
+        "filhos": [
+          {
+            "titulo": "Formas de provimento",
+            "nota": "Nomeação, transferência, reintegração, acesso, reversão, aproveitamento, readmissão",
+            "artigos": [
+              "l10261-11"
+            ]
+          },
+          {
+            "titulo": "Nomeação e concurso",
+            "artigos": [
+              "l10261-13",
+              "l10261-20"
+            ]
+          },
+          {
+            "titulo": "Substituição",
+            "artigos": [
+              "l10261-23",
+              "l10261-24"
+            ]
+          },
+          {
+            "titulo": "Transferência, reintegração, acesso",
+            "artigos": [
+              "l10261-26",
+              "l10261-30",
+              "l10261-31",
+              "l10261-32",
+              "l10261-33"
+            ]
+          },
+          {
+            "titulo": "Reversão, aproveitamento, readmissão",
+            "nota": "Reversão a pedido: até 58 anos",
+            "artigos": [
+              "l10261-35",
+              "l10261-37",
+              "l10261-39"
+            ]
+          },
+          {
+            "titulo": "Readaptação e remoção",
+            "artigos": [
+              "l10261-41",
+              "l10261-43",
+              "l10261-45"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Posse e exercício",
+        "filhos": [
+          {
+            "titulo": "Posse: requisitos e prazo",
+            "nota": "30 dias + 30",
+            "artigos": [
+              "l10261-46",
+              "l10261-47",
+              "l10261-52",
+              "l10261-53"
+            ]
+          },
+          {
+            "titulo": "Exercício: prazo e trânsito",
+            "nota": "30 dias + 30; trânsito de até 8 dias",
+            "artigos": [
+              "l10261-57",
+              "l10261-60",
+              "l10261-61"
+            ]
+          },
+          {
+            "titulo": "Afastamentos",
+            "artigos": [
+              "l10261-65",
+              "l10261-70",
+              "l10261-72",
+              "l10261-73"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Tempo de serviço e vacância",
+        "artigos": [
+          "l10261-76",
+          "l10261-77",
+          "l10261-78",
+          "l10261-85",
+          "l10261-86"
+        ]
+      },
+      {
+        "titulo": "Acumulação remunerada",
+        "artigos": [
+          "l10261-171",
+          "l10261-172",
+          "l10261-174"
+        ]
+      },
+      {
+        "titulo": "Direito de petição",
+        "artigos": [
+          "l10261-239",
+          "l10261-240"
+        ]
+      },
+      {
+        "titulo": "Deveres, proibições e responsabilidades",
+        "filhos": [
+          {
+            "titulo": "Deveres",
+            "artigos": [
+              "l10261-241"
+            ]
+          },
+          {
+            "titulo": "Proibições",
+            "artigos": [
+              "l10261-242",
+              "l10261-243",
+              "l10261-244"
+            ]
+          },
+          {
+            "titulo": "Responsabilidade e indenização",
+            "nota": "Desconto até 1/10 do vencimento",
+            "artigos": [
+              "l10261-245",
+              "l10261-247",
+              "l10261-248",
+              "l10261-250"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Penalidades",
+        "filhos": [
+          {
+            "titulo": "Espécies",
+            "artigos": [
+              "l10261-251"
+            ]
+          },
+          {
+            "titulo": "Repreensão, suspensão, multa",
+            "nota": "Suspensão até 90 dias",
+            "artigos": [
+              "l10261-253",
+              "l10261-254",
+              "l10261-255"
+            ]
+          },
+          {
+            "titulo": "Demissão e demissão a bem do serviço público",
+            "artigos": [
+              "l10261-256",
+              "l10261-257"
+            ]
+          },
+          {
+            "titulo": "Cassação de aposentadoria",
+            "artigos": [
+              "l10261-259"
+            ]
+          },
+          {
+            "titulo": "Competência para punir",
+            "artigos": [
+              "l10261-260"
+            ]
+          },
+          {
+            "titulo": "Prescrição",
+            "nota": "2 anos (leves) e 5 anos (graves)",
+            "artigos": [
+              "l10261-261"
+            ]
+          },
+          {
+            "titulo": "Reabilitação e incompatibilidade",
+            "artigos": [
+              "l10261-307"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Providências preliminares e consenso",
+        "filhos": [
+          {
+            "titulo": "Apuração preliminar (30 dias)",
+            "artigos": [
+              "l10261-264",
+              "l10261-265"
+            ]
+          },
+          {
+            "titulo": "Afastamento preventivo (180 + 180)",
+            "artigos": [
+              "l10261-266",
+              "l10261-267"
+            ]
+          },
+          {
+            "titulo": "Práticas autocompositivas",
+            "artigos": [
+              "l10261-267-A",
+              "l10261-267-B",
+              "l10261-267-C",
+              "l10261-267-D"
+            ]
+          },
+          {
+            "titulo": "Termo de Ajustamento de Conduta",
+            "artigos": [
+              "l10261-267-E",
+              "l10261-267-F",
+              "l10261-267-I",
+              "l10261-267-J"
+            ]
+          },
+          {
+            "titulo": "Suspensão condicional da sindicância",
+            "artigos": [
+              "l10261-267-N",
+              "l10261-267-O"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Procedimento disciplinar",
+        "filhos": [
+          {
+            "titulo": "Sindicância x processo administrativo",
+            "artigos": [
+              "l10261-268",
+              "l10261-269",
+              "l10261-270",
+              "l10261-273"
+            ]
+          },
+          {
+            "titulo": "Processo administrativo: instauração e citação",
+            "artigos": [
+              "l10261-277",
+              "l10261-278"
+            ]
+          },
+          {
+            "titulo": "Instrução, defesa e relatório",
+            "artigos": [
+              "l10261-283",
+              "l10261-285",
+              "l10261-292",
+              "l10261-293",
+              "l10261-295"
+            ]
+          },
+          {
+            "titulo": "Inassiduidade",
+            "artigos": [
+              "l10261-308",
+              "l10261-309",
+              "l10261-310",
+              "l10261-311"
+            ]
+          },
+          {
+            "titulo": "Recursos e reconsideração (30 dias)",
+            "artigos": [
+              "l10261-312",
+              "l10261-313",
+              "l10261-314"
+            ]
+          },
+          {
+            "titulo": "Revisão",
+            "artigos": [
+              "l10261-315",
+              "l10261-316",
+              "l10261-317",
+              "l10261-321"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Contagem dos prazos",
+        "nota": "Dias corridos",
+        "artigos": [
+          "l10261-323"
+        ]
+      }
+    ]
+  },
+  "maisCobrados": [
+    {
+      "artigos": [
+        "l10261-52",
+        "l10261-60"
+      ],
+      "tema": "Prazos de posse e exercício",
+      "porQueCai": "Os primeiros prazos que o aprovado vai viver, e a banca sabe disso.",
+      "pegadinha": "Posse em 30 dias da publicação do ato de provimento, prorrogável por mais 30 a requerimento; sem posse, o ato fica sem efeito. Exercício em 30 dias da posse, também prorrogável por 30; sem exercício, há exoneração.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l10261-251",
+        "l10261-254"
+      ],
+      "tema": "Espécies de penas e suspensão",
+      "porQueCai": "Lista de penas e limite da suspensão são cobrados sempre.",
+      "pegadinha": "Penas: repreensão, suspensão, multa, demissão, demissão a bem do serviço público e cassação de aposentadoria ou disponibilidade. Suspensão de até 90 dias, que pode ser convertida em multa de 50% por dia de vencimento, ficando o servidor em serviço.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l10261-256",
+        "l10261-257"
+      ],
+      "tema": "Demissão x demissão a bem do serviço público",
+      "porQueCai": "Saber em qual lista está cada conduta é a questão típica.",
+      "pegadinha": "Demissão: procedimento irregular grave, ineficiência, aplicação indevida de dinheiro público e inassiduidade (mais de 15 dias consecutivos ou mais de 20 dias úteis intercalados em 1 ano). A bem do serviço público: crime contra a administração, revelar segredo com dolo, insubordinação grave, ofensa física em serviço, receber propina, entre outras.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l10261-261"
+      ],
+      "tema": "Prescrição da pretensão punitiva",
+      "porQueCai": "Prazos numéricos e causas de interrupção.",
+      "pegadinha": "Repreensão, suspensão ou multa: 2 anos. Demissão, demissão a bem do serviço público e cassação: 5 anos. Se a falta também for crime, vale o prazo prescricional penal quando superior a 5 anos. Interrompem a prescrição as portarias que instauram sindicância e processo administrativo.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l10261-269",
+        "l10261-270",
+        "l10261-273",
+        "l10261-277"
+      ],
+      "tema": "Sindicância x processo administrativo",
+      "porQueCai": "A escolha do procedimento depende da pena em tese.",
+      "pegadinha": "Sindicância para penas de repreensão, suspensão ou multa: até 3 testemunhas e conclusão em 60 dias. Processo administrativo obrigatório para demissão e cassação: portaria em 8 dias, conclusão em 90 dias da citação, até 5 testemunhas por parte.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l10261-312",
+        "l10261-313",
+        "l10261-315"
+      ],
+      "tema": "Recurso, reconsideração e revisão",
+      "porQueCai": "Cada um tem prazo e cabimento distintos.",
+      "pegadinha": "Recurso cabe uma única vez, em 30 dias, sem efeito suspensivo; a autoridade tem 10 dias para reconsiderar. Pedido de reconsideração só contra decisão do Governador em instância única, em 30 dias. Revisão a qualquer tempo, com fatos novos ou vício insanável, e nunca agrava a pena.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l10261-171",
+        "l10261-174"
+      ],
+      "tema": "Acumulação remunerada",
+      "porQueCai": "Liga o Estatuto ao art. 37 da Constituição.",
+      "pegadinha": "Exceções: juiz + professor, 2 de professor, professor + técnico ou científico, 2 de médico, sempre com correlação de matérias e compatibilidade de horários. Acumulação ilegal comprovada: demissão de todos os cargos e restituição; com boa-fé, mantém-se o cargo mais antigo; sem boa-fé, inabilitação por 5 anos.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l10261-266",
+        "l10261-265"
+      ],
+      "tema": "Apuração preliminar e afastamento preventivo",
+      "porQueCai": "Prazos que costumam ser trocados.",
+      "pegadinha": "Apuração preliminar, de caráter investigativo, em 30 dias. Afastamento preventivo de até 180 dias, prorrogável uma única vez por igual período, sem prejuízo de vencimentos; o período conta como efetivo exercício e não é descontado da suspensão.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "l10261-267-F",
+        "l10261-267-N"
+      ],
+      "tema": "TAC e suspensão condicional da sindicância",
+      "porQueCai": "Novidades da LC 1.361/2021, muito exploradas em provas recentes.",
+      "pegadinha": "TAC: sem dolo ou má-fé, mais de 5 anos de exercício, sem punição nos últimos 5 anos, sem procedimento em curso e sem TAC nos últimos 3 anos; prazo de 1 a 2 anos. Suspensão da sindicância: 1 a 2 anos, com mais de 5 anos de exercício e sem punição nos últimos 5 anos.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "l10261-307"
+      ],
+      "tema": "Reabilitação e incompatibilidade para novo cargo",
+      "porQueCai": "Número fácil de ser trocado.",
+      "pegadinha": "Após 5 anos do cumprimento da sanção sem nova infração, ela não pode mais prejudicar o servidor, nem para reincidência. Demissão gera incompatibilidade para nova investidura por 5 anos; demissão a bem do serviço público, por 10 anos.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "l10261-11",
+        "l10261-35",
+        "l10261-39"
+      ],
+      "tema": "Formas de provimento",
+      "porQueCai": "Conceitos parecidos que a banca troca entre si.",
+      "pegadinha": "Reintegração: volta por decisão judicial transitada, com ressarcimento. Reversão: volta do aposentado (a pedido, até 58 anos). Aproveitamento: volta de quem está em disponibilidade. Readmissão: volta de ex-funcionário demitido ou exonerado, sem ressarcimento.",
+      "incidencia": "media"
+    }
+  ],
+  "pegadinhas": [
+    "Todos os prazos do Estatuto são em DIAS CORRIDOS, prorrogando-se o vencimento que cair em dia sem expediente (art. 323).",
+    "Requisitos de posse incluem ter completado 18 anos e estar em dia com obrigações militares e direitos políticos (art. 47).",
+    "Proibida remoção ou transferência ex officio para fora da localidade de residência de 6 meses antes até 3 meses depois das eleições (art. 45).",
+    "Casamento e luto por cônjuge, filhos, pais e irmãos: até 8 dias de efetivo exercício. Luto por avós, netos, sogros, padrasto ou madrasta: até 2 dias (art. 78).",
+    "O servidor preso ou pronunciado fica afastado com prejuízo da remuneração até decisão transitada em julgado (art. 70).",
+    "Indenização ao erário pode ser descontada em parcelas de até 1/10 do vencimento, salvo alcance ou desfalque, que se repõe de uma vez (arts. 247 e 248).",
+    "No processo por inassiduidade, a defesa só pode alegar força maior, coação ilegal ou motivo legalmente justificável (art. 311)."
+  ],
+  "dicasDeMemorizacao": [
+    "Posse e exercício: '30 + 30' cada um.",
+    "Prescrição: '2 para as leves, 5 para as graves'.",
+    "Sindicância '3 testemunhas, 60 dias'; processo administrativo '5 testemunhas, 90 dias'.",
+    "Incompatibilidade: demissão 5 anos, a bem do serviço público 10 anos.",
+    "Inassiduidade: '15 seguidos ou 20 intercalados'."
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "slug": "l8429",
+  "ancora": "l8429",
+  "lei": "Lei nº 8.429/1992 — Lei de Improbidade Administrativa",
+  "subtitulo": "Lei nº 8.429, de 2 de junho de 1992",
+  "materia": "Direito Administrativo",
+  "artigosNoEdital": "Íntegra",
+  "totalArtigos": 35,
+  "visaoGeral": "A Lei de Improbidade Administrativa, profundamente alterada pela Lei 14.230/2021, só pune condutas DOLOSAS tipificadas em três grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios (art. 11, rol taxativo). A prova cobra o conceito de dolo, as sanções de cada grupo, o procedimento da ação, o acordo de não persecução civil e a prescrição de 8 anos.",
+  "mapaMental": {
+    "titulo": "Lei de Improbidade — Lei 8.429/92 (íntegra)",
+    "filhos": [
+      {
+        "titulo": "Disposições gerais",
+        "filhos": [
+          {
+            "titulo": "Sistema e dolo",
+            "nota": "Só condutas dolosas; não basta voluntariedade",
+            "artigos": [
+              "l8429-1"
+            ]
+          },
+          {
+            "titulo": "Agente público e terceiro",
+            "artigos": [
+              "l8429-2",
+              "l8429-3"
+            ]
+          },
+          {
+            "titulo": "Indisponibilidade e sucessores",
+            "artigos": [
+              "l8429-7",
+              "l8429-8",
+              "l8429-8-A"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Atos de improbidade",
+        "filhos": [
+          {
+            "titulo": "Enriquecimento ilícito",
+            "artigos": [
+              "l8429-9"
+            ]
+          },
+          {
+            "titulo": "Lesão ao erário",
+            "nota": "Exige perda patrimonial efetiva e comprovada",
+            "artigos": [
+              "l8429-10"
+            ]
+          },
+          {
+            "titulo": "Violação a princípios",
+            "nota": "Rol taxativo; nepotismo no inciso XI",
+            "artigos": [
+              "l8429-11"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Sanções",
+        "nota": "Art. 9º: até 14 anos; art. 10: até 12 anos; art. 11: multa e proibição de contratar até 4 anos",
+        "artigos": [
+          "l8429-12"
+        ]
+      },
+      {
+        "titulo": "Declaração de bens",
+        "artigos": [
+          "l8429-13"
+        ]
+      },
+      {
+        "titulo": "Procedimento administrativo e ação",
+        "filhos": [
+          {
+            "titulo": "Representação e apuração",
+            "artigos": [
+              "l8429-14",
+              "l8429-15"
+            ]
+          },
+          {
+            "titulo": "Indisponibilidade de bens",
+            "artigos": [
+              "l8429-16"
+            ]
+          },
+          {
+            "titulo": "Ação de improbidade",
+            "artigos": [
+              "l8429-17",
+              "l8429-17-C",
+              "l8429-17-D",
+              "l8429-18"
+            ]
+          },
+          {
+            "titulo": "Acordo de não persecução civil",
+            "artigos": [
+              "l8429-17-B"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Disposições penais",
+        "artigos": [
+          "l8429-19",
+          "l8429-20",
+          "l8429-21",
+          "l8429-22"
+        ]
+      },
+      {
+        "titulo": "Prescrição (8 anos)",
+        "artigos": [
+          "l8429-23"
+        ]
+      },
+      {
+        "titulo": "Disposições finais",
+        "artigos": [
+          "l8429-23-A",
+          "l8429-23-B",
+          "l8429-23-C",
+          "l8429-24",
+          "l8429-25"
+        ]
+      }
+    ]
+  },
+  "maisCobrados": [
+    {
+      "artigos": [
+        "l8429-1"
+      ],
+      "tema": "Improbidade só dolosa",
+      "porQueCai": "Principal mudança da reforma de 2021.",
+      "pegadinha": "Só há improbidade em condutas DOLOSAS dos arts. 9º, 10 e 11. Dolo é a vontade livre e consciente de alcançar o resultado ilícito; a mera voluntariedade ou o simples exercício da função não bastam. Não existe mais improbidade culposa, nem na lesão ao erário.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l8429-9",
+        "l8429-10",
+        "l8429-11"
+      ],
+      "tema": "Os três grupos de atos",
+      "porQueCai": "A banca descreve a conduta e pede a classificação.",
+      "pegadinha": "Art. 9º: o agente GANHA vantagem patrimonial indevida. Art. 10: o ERÁRIO PERDE, com perda patrimonial efetiva e comprovada. Art. 11: viola honestidade, imparcialidade e legalidade em condutas do ROL TAXATIVO, como revelar segredo, frustrar concurso ou licitação e nepotismo.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l8429-12"
+      ],
+      "tema": "Sanções por grupo",
+      "porQueCai": "Números diferentes por grupo são o centro das questões.",
+      "pegadinha": "Art. 9º: suspensão dos direitos políticos e proibição de contratar até 14 anos, multa igual ao acréscimo patrimonial. Art. 10: até 12 anos, multa igual ao dano. Art. 11: sem suspensão de direitos políticos nem perda da função; multa de até 24 vezes a remuneração e proibição de contratar até 4 anos.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l8429-23"
+      ],
+      "tema": "Prescrição",
+      "porQueCai": "Prazo e marcos novos desde 2021.",
+      "pegadinha": "A ação prescreve em 8 anos do fato (ou da cessação da permanência). O inquérito civil suspende o prazo por até 180 dias e deve terminar em 365 dias, prorrogável uma vez. Interrupções: ajuizamento, sentença condenatória e acórdãos que confirmem ou imponham condenação; depois de interrompida, corre pela METADE (4 anos), a chamada prescrição intercorrente.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l8429-17-B"
+      ],
+      "tema": "Acordo de não persecução civil",
+      "porQueCai": "Requisitos cumulativos e momento do acordo.",
+      "pegadinha": "Celebrado pelo MP, exige no mínimo ressarcimento integral do dano e reversão da vantagem indevida. Depende de oitiva do ente lesado, aprovação do órgão do MP (se antes da ação, em até 60 dias) e homologação judicial. Pode ocorrer na investigação, na ação ou na execução da sentença.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l8429-17"
+      ],
+      "tema": "Legitimidade e rito da ação",
+      "porQueCai": "Mudou com a reforma e com decisão do STF.",
+      "pegadinha": "A lei passou a prever legitimidade exclusiva do MP, mas o STF (ADIs 7042 e 7043) restabeleceu a legitimidade da pessoa jurídica interessada. A ação segue o procedimento comum do CPC e não há mais fase de defesa prévia.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "l8429-16"
+      ],
+      "tema": "Indisponibilidade de bens",
+      "porQueCai": "Requisitos ficaram mais rígidos.",
+      "pegadinha": "Exige demonstração de perigo de dano irreparável ou de risco ao resultado útil do processo; não se presume a urgência. Não pode recair sobre valores impenhoráveis e deve priorizar bens de menor impacto para a atividade do réu.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "l8429-13"
+      ],
+      "tema": "Declaração de bens",
+      "porQueCai": "Obrigação do agente público na posse.",
+      "pegadinha": "Posse e exercício dependem da apresentação de declaração do imposto de renda, atualizada anualmente e na saída do cargo. Quem se recusa ou presta declaração falsa recebe pena de DEMISSÃO.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "l8429-21"
+      ],
+      "tema": "Independência das instâncias",
+      "porQueCai": "Ponto sensível da reforma.",
+      "pegadinha": "A sanção independe de dano (salvo ressarcimento e art. 10) e da aprovação de contas. Absolvição criminal confirmada por órgão colegiado, pelos mesmos fatos, impede a ação de improbidade.",
+      "incidencia": "media"
+    }
+  ],
+  "pegadinhas": [
+    "Pela letra do art. 12, §1º, a perda da função atinge só o vínculo de mesma natureza da época da infração; esse trecho teve a eficácia suspensa por liminar do STF (ADI 7236), então confira a situação atual antes da prova.",
+    "Os sucessores respondem só até o limite da herança ou do patrimônio transferido (art. 8º).",
+    "A representação à autoridade administrativa pode ser feita por qualquer pessoa; a representação falsa, sabendo da inocência, é crime (arts. 14 e 19).",
+    "Suspensão dos direitos políticos e perda da função só se efetivam com o trânsito em julgado (art. 20).",
+    "Nepotismo está no art. 11, XI, e não se configura só pela indicação política, sem dolo de beneficiar.",
+    "A multa civil pode ser aumentada até o dobro se for ineficaz pela situação econômica do réu (art. 12, §2º)."
+  ],
+  "dicasDeMemorizacao": [
+    "'Ganha (9), perde (10), viola (11)'.",
+    "Sanções: '14, 12 e 4' anos (proibição de contratar em cada grupo).",
+    "Prescrição: 8 anos; intercorrente: metade (4 anos).",
+    "Sem dolo, sem improbidade."
+  ]
+}

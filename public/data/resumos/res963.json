@@ -1,0 +1,227 @@
+{
+  "slug": "res963",
+  "ancora": "res963",
+  "lei": "Resolução TJSP nº 963/2025 — Sistema eproc",
+  "subtitulo": "Dispõe sobre a governança e utilização do sistema eproc nas unidades do Poder Judiciário do Estado de São Paulo e dá outras providências",
+  "materia": "Legislação Interna",
+  "artigosNoEdital": "Íntegra",
+  "totalArtigos": 43,
+  "visaoGeral": "A Resolução TJSP 963/2025 disciplina a governança e o uso do eproc, o sistema de processo eletrônico que está substituindo o SAJ no TJSP. Os pontos de prova são a estrutura de governança (CGe, NGN e NGT), a implantação gradual por competência, os usuários, as regras de indisponibilidade e prorrogação de prazos, a tempestividade dos atos e a tramitação de recursos.",
+  "mapaMental": {
+    "titulo": "Res. TJSP 963/2025 — eproc",
+    "filhos": [
+      {
+        "titulo": "Disposições gerais e princípios",
+        "nota": "Aderência à versão nacional, colaboração, automação, pragmatismo, autonomia",
+        "artigos": [
+          "res963-1",
+          "res963-2"
+        ]
+      },
+      {
+        "titulo": "Governança",
+        "filhos": [
+          {
+            "titulo": "Objetivos",
+            "artigos": [
+              "res963-3"
+            ]
+          },
+          {
+            "titulo": "Órgãos: CGe, NGN, NGT",
+            "artigos": [
+              "res963-4",
+              "res963-5",
+              "res963-6",
+              "res963-7"
+            ]
+          },
+          {
+            "titulo": "Comitê Interinstitucional",
+            "nota": "Único canal para demandas de usuários externos",
+            "artigos": [
+              "res963-8"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Implantação",
+        "nota": "Gradual por competência; processos antigos ficam no legado",
+        "artigos": [
+          "res963-9",
+          "res963-10",
+          "res963-11",
+          "res963-12",
+          "res963-13",
+          "res963-14"
+        ]
+      },
+      {
+        "titulo": "Usuários",
+        "nota": "Gestor retira acesso em até 24 h após o fim do vínculo",
+        "artigos": [
+          "res963-15",
+          "res963-16",
+          "res963-17",
+          "res963-18"
+        ]
+      },
+      {
+        "titulo": "Acesso e indisponibilidade",
+        "artigos": [
+          "res963-19",
+          "res963-20",
+          "res963-21"
+        ]
+      },
+      {
+        "titulo": "Integrações",
+        "artigos": [
+          "res963-22",
+          "res963-23"
+        ]
+      },
+      {
+        "titulo": "Prática de atos processuais",
+        "artigos": [
+          "res963-24",
+          "res963-25",
+          "res963-26",
+          "res963-27",
+          "res963-28",
+          "res963-29"
+        ]
+      },
+      {
+        "titulo": "Consulta e sigilo",
+        "nota": "Certidão narratória = certidão de objeto e pé",
+        "artigos": [
+          "res963-30",
+          "res963-31",
+          "res963-32"
+        ]
+      },
+      {
+        "titulo": "Segundo grau",
+        "artigos": [
+          "res963-33",
+          "res963-34",
+          "res963-35",
+          "res963-36"
+        ]
+      },
+      {
+        "titulo": "Uso inadequado",
+        "artigos": [
+          "res963-37",
+          "res963-38",
+          "res963-39"
+        ]
+      },
+      {
+        "titulo": "Disposições finais",
+        "artigos": [
+          "res963-40",
+          "res963-41",
+          "res963-42",
+          "res963-43"
+        ]
+      }
+    ]
+  },
+  "maisCobrados": [
+    {
+      "artigos": [
+        "res963-21"
+      ],
+      "tema": "Indisponibilidade e prorrogação de prazos",
+      "porQueCai": "Regra com horários exatos, perfeita para prova.",
+      "pegadinha": "Prazo que vence no dia da indisponibilidade é prorrogado para o dia útil seguinte quando: a falha passa de 60 minutos (seguidos ou não) entre 12h e 23h; ou ocorre por qualquer tempo entre 23h01 e 24h. Falhas entre 0h01 e 11h59, em feriados ou fins de semana não prorrogam. Falha no equipamento ou na internet do usuário também não.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "res963-26"
+      ],
+      "tema": "Momento e tempestividade do ato",
+      "porQueCai": "Repete a lógica do processo eletrônico.",
+      "pegadinha": "O ato se considera praticado no dia e hora do envio ao eproc. É tempestivo o que for transmitido INTEGRALMENTE até as 24h do último dia, pelo horário de Brasília. Não contam o horário de conexão à internet nem o do relógio do remetente.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "res963-10",
+        "res963-11"
+      ],
+      "tema": "Implantação: eproc x sistema legado",
+      "porQueCai": "Regras de transição costumam ser trocadas.",
+      "pegadinha": "Implantado o eproc numa competência, novos processos só por ele. Processos ajuizados antes, com seus recursos, incidentes e dependentes, seguem no sistema legado até o fim, salvo migração. Cumprimento definitivo de sentença no eproc é por petição autônoma; o de processo do legado começa no legado até haver funcionalidade própria.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "res963-4",
+        "res963-5",
+        "res963-6",
+        "res963-7"
+      ],
+      "tema": "Órgãos de governança",
+      "porQueCai": "Siglas e composições mínimas.",
+      "pegadinha": "CGe (Comitê Gestor): coordena e conversa com a versão nacional; mínimo de um juiz assessor da Presidência, da Vice-Presidência e da Corregedoria. NGN (Núcleo de Gestão Negocial): visão de negócio. NGT (Núcleo de Gestão Técnica): visão tecnológica, com ao menos 2 servidores da STI e 1 da SGS.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "res963-34"
+      ],
+      "tema": "Agravo de instrumento no eproc",
+      "porQueCai": "Mudança prática relevante para o cartório.",
+      "pegadinha": "Interposto no sistema de 1º grau, que o envia ao 2º grau em autos apartados com nova numeração. O agravante junta só a petição com razões, indicando a decisão pelo evento, sem juntar peças do processo. O próprio sistema registra a interposição no 1º grau.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "res963-15",
+        "res963-16"
+      ],
+      "tema": "Usuários e credenciamento",
+      "porQueCai": "Quem é usuário interno ou externo e quem credencia.",
+      "pegadinha": "Internos: magistrados, servidores, estagiários, cedidos, voluntários. Externos: partes, advogados, MP, defensores, policiais, peritos, leiloeiros etc. A SGS credencia gestores; o gestor credencia os demais internos e deve retirar o acesso em até 24 horas após o fim do vínculo.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "res963-27",
+        "res963-28"
+      ],
+      "tema": "Registro de eventos e certificação",
+      "porQueCai": "Elimina certidões manuais.",
+      "pegadinha": "Toda movimentação registra data, hora e usuário, que responde por ela. Os eventos do sistema equivalem à certificação do ato; conclusão, publicação, distribuição de recurso, pauta e trânsito em julgado não são certificados manualmente.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "res963-37",
+        "res963-41"
+      ],
+      "tema": "Uso inadequado e indisponibilidade absoluta",
+      "porQueCai": "Situações de exceção.",
+      "pegadinha": "Uso inadequado (ataque, violação de dados, sobrecarga) gera bloqueio preventivo, temporário e total. Em indisponibilidade absoluta certificada, para evitar perecimento de direito ou ofensa à liberdade de locomoção, a petição pode ser protocolada em papel e depois digitalizada.",
+      "incidencia": "media"
+    }
+  ],
+  "pegadinhas": [
+    "Escolher o sistema certo (eproc ou legado) é responsabilidade EXCLUSIVA do peticionante, sob pena de o ato não produzir efeitos (art. 14).",
+    "Usuários externos só podem levar demandas sobre o eproc pelo Comitê Interinstitucional (art. 8º, parágrafo único).",
+    "Perfil no sistema não equivale a reconhecimento de cargo ou função (art. 16, §3º).",
+    "Distribuição é automática; a redistribuição no 1º grau é feita no sistema pelo próprio juízo (art. 25).",
+    "RESE julgado no 2º grau tramita em autos próprios, distribuídos por dependência pelo interessado (art. 35).",
+    "Processos no SAJ continuam regidos pela Resolução 551/2011 (art. 40)."
+  ],
+  "dicasDeMemorizacao": [
+    "Indisponibilidade: 'mais de 60 min entre 12h e 23h, ou qualquer tempo depois das 23h'.",
+    "Governança: 'CGe coordena, NGN negocia, NGT tecnologia'.",
+    "Prazo tempestivo: até 24h do último dia, horário de Brasília."
+  ]
+}

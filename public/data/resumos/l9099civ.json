@@ -1,0 +1,198 @@
+{
+  "slug": "l9099civ",
+  "ancora": "l9099civ",
+  "lei": "Lei nº 9.099/1995 — Juizados Especiais Cíveis",
+  "subtitulo": "Lei nº 9.099, de 26 de setembro de 1995",
+  "materia": "Direito Processual Civil",
+  "artigosNoEdital": "Arts. 3º a 19",
+  "totalArtigos": 18,
+  "visaoGeral": "Os arts. 3º a 19 da Lei 9.099/1995 tratam do Juizado Especial Cível: competência por valor e por matéria, juiz, conciliadores e juízes leigos, quem pode ser parte, presença de advogado, atos processuais, pedido e citação. É uma lei curta e muito cobrada porque cada artigo traz um número ou uma proibição.",
+  "mapaMental": {
+    "titulo": "JEC — Lei 9.099/95 (arts. 3º a 19)",
+    "filhos": [
+      {
+        "titulo": "Competência",
+        "filhos": [
+          {
+            "titulo": "Causas de menor complexidade",
+            "nota": "Até 40 salários mínimos, despejo para uso próprio, possessórias até 40 SM",
+            "artigos": [
+              "l9099civ-3"
+            ]
+          },
+          {
+            "titulo": "Causas excluídas",
+            "nota": "Alimentar, falimentar, fiscal, Fazenda, acidente de trabalho, resíduos, estado e capacidade",
+            "artigos": [
+              "l9099civ-3"
+            ]
+          },
+          {
+            "titulo": "Foro competente",
+            "artigos": [
+              "l9099civ-4"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Juiz, conciliadores e juízes leigos",
+        "nota": "Leigos: advogados com mais de 5 anos",
+        "artigos": [
+          "l9099civ-5",
+          "l9099civ-6",
+          "l9099civ-7"
+        ]
+      },
+      {
+        "titulo": "Partes",
+        "filhos": [
+          {
+            "titulo": "Quem não pode ser parte",
+            "artigos": [
+              "l9099civ-8"
+            ]
+          },
+          {
+            "titulo": "Quem pode ser autor",
+            "artigos": [
+              "l9099civ-8"
+            ]
+          },
+          {
+            "titulo": "Advogado: até 20 SM facultativo",
+            "artigos": [
+              "l9099civ-9"
+            ]
+          },
+          {
+            "titulo": "Sem intervenção de terceiros",
+            "artigos": [
+              "l9099civ-10"
+            ]
+          },
+          {
+            "titulo": "Ministério Público",
+            "artigos": [
+              "l9099civ-11"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Atos processuais",
+        "nota": "Prazos em dias úteis",
+        "artigos": [
+          "l9099civ-12",
+          "l9099civ-12-A",
+          "l9099civ-13"
+        ]
+      },
+      {
+        "titulo": "Pedido",
+        "artigos": [
+          "l9099civ-14",
+          "l9099civ-15",
+          "l9099civ-16",
+          "l9099civ-17"
+        ]
+      },
+      {
+        "titulo": "Citações e intimações",
+        "nota": "Sem citação por edital",
+        "artigos": [
+          "l9099civ-18",
+          "l9099civ-19"
+        ]
+      }
+    ]
+  },
+  "maisCobrados": [
+    {
+      "artigos": [
+        "l9099civ-3"
+      ],
+      "tema": "Competência e renúncia ao excedente",
+      "porQueCai": "É a primeira coisa cobrada sobre o JEC.",
+      "pegadinha": "Causas até 40 salários mínimos. Optar pelo Juizado importa RENÚNCIA ao crédito que exceder o limite, salvo se houver conciliação. Possessórias só sobre imóveis de valor até 40 SM; despejo apenas para uso próprio.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l9099civ-8"
+      ],
+      "tema": "Quem não pode ser parte e quem pode propor ação",
+      "porQueCai": "Lista longa e ideal para alternativas trocadas.",
+      "pegadinha": "Não podem ser parte: incapaz, preso, pessoas jurídicas de direito público, empresas públicas da União, massa falida e insolvente civil. Podem propor: pessoas físicas capazes (não cessionárias de PJ), MEI, ME, EPP, OSCIP e sociedades de crédito ao microempreendedor. O maior de 18 anos pode ser autor sem assistência.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l9099civ-9"
+      ],
+      "tema": "Presença de advogado",
+      "porQueCai": "O limite de 20 SM é muito cobrado.",
+      "pegadinha": "Até 20 salários mínimos a parte pode comparecer sem advogado; acima disso, a assistência é obrigatória. O mandato pode ser verbal, salvo poderes especiais. Pessoa jurídica pode ser representada por preposto sem vínculo empregatício.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l9099civ-7"
+      ],
+      "tema": "Conciliadores e juízes leigos",
+      "porQueCai": "Número diferente do Juizado da Fazenda gera confusão.",
+      "pegadinha": "Conciliadores, preferencialmente bacharéis em Direito; juízes leigos, entre advogados com MAIS DE 5 ANOS de experiência, impedidos de advogar perante os Juizados Especiais enquanto exercem a função (na Fazenda Pública são 2 anos).",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l9099civ-18"
+      ],
+      "tema": "Citação no JEC",
+      "porQueCai": "Proibição do edital é cobrada todo ano.",
+      "pegadinha": "Por correspondência com AR em mão própria, por entrega ao encarregado da recepção da PJ, ou por oficial de justiça independentemente de mandado. NÃO se faz citação por edital. O comparecimento espontâneo supre a falta de citação.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l9099civ-10"
+      ],
+      "tema": "Intervenção de terceiros",
+      "porQueCai": "Regra simples, mas com pegadinha.",
+      "pegadinha": "Não se admite intervenção de terceiro nem assistência; admite-se o LITISCONSÓRCIO.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "l9099civ-12-A"
+      ],
+      "tema": "Contagem de prazos no JEC",
+      "porQueCai": "Incluído em 2018, acompanha o CPC.",
+      "pegadinha": "Prazos em dias, inclusive para recursos, contam somente dias úteis.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "l9099civ-16",
+        "l9099civ-17"
+      ],
+      "tema": "Sessão de conciliação",
+      "porQueCai": "Prazo curto e regra do comparecimento espontâneo.",
+      "pegadinha": "Registrado o pedido, a Secretaria marca a conciliação em 15 dias, sem distribuição nem autuação. Se ambas as partes comparecem, a sessão é instaurada na hora, dispensados registro e citação.",
+      "incidencia": "media"
+    }
+  ],
+  "pegadinhas": [
+    "O JEC executa seus julgados e títulos extrajudiciais de até 40 salários mínimos (art. 3º, §1º).",
+    "Causas de natureza alimentar ficam fora do JEC mesmo que de pequeno valor.",
+    "Foro: domicílio do réu ou, a critério do autor, onde exerça atividade, local de cumprimento da obrigação ou domicílio do autor ou do local do fato nas ações de reparação de dano (art. 4º).",
+    "O juiz pode decidir por equidade, atendendo aos fins sociais da lei (art. 6º).",
+    "Nulidade só se pronuncia se houver prejuízo (art. 13, §1º).",
+    "Mudança de endereço não comunicada: valem as intimações enviadas ao endereço antigo (art. 19, §2º)."
+  ],
+  "dicasDeMemorizacao": [
+    "JEC: '40 de teto, 20 sem advogado, 5 anos para juiz leigo, 15 dias para conciliar'.",
+    "Proibidos no JEC: edital e intervenção de terceiros.",
+    "Fora do JEC: 'AFFA RE' (Alimentar, Falimentar, Fiscal, Acidente de trabalho, REsíduos, Estado e capacidade)."
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "slug": "ri",
+  "ancora": "ri",
+  "lei": "Regimento Interno do Tribunal de Justiça de São Paulo",
+  "subtitulo": "Compilação aprovada pelo Órgão Especial — texto atualizado em 30/04/2026",
+  "materia": "Legislação Interna",
+  "artigosNoEdital": "Íntegra",
+  "totalArtigos": 299,
+  "visaoGeral": "O Regimento Interno do TJSP organiza o Tribunal (Pleno, Órgão Especial, Conselho Superior da Magistratura, cargos de direção e cúpula, Seções, Grupos e Câmaras), define competências, regras de prevenção e juiz certo, o funcionamento das sessões e julgamentos, e os procedimentos de incidentes, ações originárias e recursos internos. É uma norma enorme; a banca costuma ficar na estrutura do Tribunal e em prazos e números das sessões.",
+  "mapaMental": {
+    "titulo": "Regimento Interno do TJSP",
+    "filhos": [
+      {
+        "titulo": "Organização (Título I)",
+        "filhos": [
+          {
+            "titulo": "Composição do Tribunal",
+            "artigos": [
+              "ri-2",
+              "ri-3"
+            ]
+          },
+          {
+            "titulo": "Tribunal Pleno",
+            "artigos": [
+              "ri-4",
+              "ri-5",
+              "ri-6",
+              "ri-7"
+            ]
+          },
+          {
+            "titulo": "Órgão Especial: 25 desembargadores",
+            "nota": "Instala com 13",
+            "artigos": [
+              "ri-8",
+              "ri-10",
+              "ri-11",
+              "ri-13"
+            ]
+          },
+          {
+            "titulo": "Conselho Superior da Magistratura",
+            "artigos": [
+              "ri-15",
+              "ri-16"
+            ]
+          },
+          {
+            "titulo": "Direção e cúpula: eleições",
+            "artigos": [
+              "ri-17",
+              "ri-18",
+              "ri-19",
+              "ri-20",
+              "ri-24"
+            ]
+          },
+          {
+            "titulo": "Presidente, Vice, Corregedor, Decano",
+            "artigos": [
+              "ri-26",
+              "ri-27",
+              "ri-28",
+              "ri-29"
+            ]
+          },
+          {
+            "titulo": "Ouvidoria",
+            "artigos": [
+              "ri-29-A",
+              "ri-29-C"
+            ]
+          },
+          {
+            "titulo": "Seções, Turmas, Grupos e Câmaras",
+            "artigos": [
+              "ri-30",
+              "ri-31",
+              "ri-33",
+              "ri-33-A",
+              "ri-34",
+              "ri-35",
+              "ri-36"
+            ]
+          },
+          {
+            "titulo": "Funcionamento e quórum",
+            "artigos": [
+              "ri-39",
+              "ri-41",
+              "ri-42",
+              "ri-43"
+            ]
+          },
+          {
+            "titulo": "Comissões permanentes",
+            "artigos": [
+              "ri-46",
+              "ri-47",
+              "ri-48",
+              "ri-49"
+            ]
+          },
+          {
+            "titulo": "Desembargadores e juízes",
+            "artigos": [
+              "ri-57",
+              "ri-58",
+              "ri-60",
+              "ri-63",
+              "ri-71",
+              "ri-74"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Competência (Título II)",
+        "filhos": [
+          {
+            "titulo": "Prevenção",
+            "artigos": [
+              "ri-105",
+              "ri-106"
+            ]
+          },
+          {
+            "titulo": "Juiz certo",
+            "artigos": [
+              "ri-108",
+              "ri-109",
+              "ri-110"
+            ]
+          },
+          {
+            "titulo": "Impedimento e suspeição",
+            "artigos": [
+              "ri-113"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Atos e procedimentos internos (Título III)",
+        "filhos": [
+          {
+            "titulo": "Pauta de julgamento",
+            "nota": "Publicada 5 dias antes",
+            "artigos": [
+              "ri-123",
+              "ri-124",
+              "ri-127",
+              "ri-130"
+            ]
+          },
+          {
+            "titulo": "Ordem dos trabalhos",
+            "artigos": [
+              "ri-133",
+              "ri-134",
+              "ri-135",
+              "ri-144"
+            ]
+          },
+          {
+            "titulo": "Sustentação oral",
+            "artigos": [
+              "ri-146",
+              "ri-147",
+              "ri-148",
+              "ri-150",
+              "ri-151"
+            ]
+          },
+          {
+            "titulo": "Acórdão e publicidade",
+            "artigos": [
+              "ri-163"
+            ]
+          },
+          {
+            "titulo": "Feitos, vista e remessa",
+            "artigos": [
+              "ri-170",
+              "ri-173",
+              "ri-175"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Incidentes, ações e recursos (Título IV)",
+        "filhos": [
+          {
+            "titulo": "Reclamação e conflito de competência",
+            "artigos": [
+              "ri-197",
+              "ri-204"
+            ]
+          },
+          {
+            "titulo": "Desaforamento e correição parcial",
+            "artigos": [
+              "ri-205",
+              "ri-211",
+              "ri-212"
+            ]
+          },
+          {
+            "titulo": "Exceção da verdade",
+            "artigos": [
+              "ri-218",
+              "ri-220"
+            ]
+          },
+          {
+            "titulo": "Habeas corpus",
+            "artigos": [
+              "ri-248"
+            ]
+          },
+          {
+            "titulo": "Agravo em execução e agravo regimental",
+            "artigos": [
+              "ri-251",
+              "ri-253",
+              "ri-254",
+              "ri-255"
+            ]
+          },
+          {
+            "titulo": "Recursos aos tribunais superiores",
+            "artigos": [
+              "ri-256"
+            ]
+          },
+          {
+            "titulo": "Intervenção e precatórios",
+            "artigos": [
+              "ri-262",
+              "ri-263",
+              "ri-264",
+              "ri-269"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "maisCobrados": [
+    {
+      "artigos": [
+        "ri-2",
+        "ri-30"
+      ],
+      "tema": "Composição e estrutura do Tribunal",
+      "porQueCai": "Questão de abertura de quase toda prova sobre o Regimento.",
+      "pegadinha": "Compõem o Tribunal: Pleno, Órgão Especial, Conselho Superior da Magistratura, Presidente, Vice-Presidente, Corregedor Geral, Ouvidoria, as três Seções (Criminal, Privado e Público), Turmas Especiais, Presidentes das Seções, Grupos de Câmaras, Câmara Especial, Câmara Especial de Presidentes, Câmaras, Comissões e desembargadores.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "ri-8",
+        "ri-11"
+      ],
+      "tema": "Órgão Especial",
+      "porQueCai": "Números fixos e cobrados literalmente.",
+      "pegadinha": "25 desembargadores: Presidente, Vice e Corregedor como membros natos, mais as classes da antiguidade e dos eleitos. Instala-se com no mínimo 13 desembargadores.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "ri-15"
+      ],
+      "tema": "Conselho Superior da Magistratura",
+      "porQueCai": "Composição muito confundida com a da Câmara Especial.",
+      "pegadinha": "Presidente do Tribunal (que preside), Vice-Presidente, Corregedor Geral, Decano e Presidentes das Seções. Câmara Especial: presidida pelo Vice, com os Presidentes das Seções e o Decano. Câmara Especial de Presidentes: presidida pelo Presidente, com o Vice e os Presidentes das Seções.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "ri-34",
+        "ri-41",
+        "ri-43"
+      ],
+      "tema": "Câmaras e quórum",
+      "porQueCai": "Formação da turma julgadora é cobrada sempre.",
+      "pegadinha": "Cada Câmara tem 5 desembargadores e julga por turma de 3, ou pelos 5 nos embargos infringentes criminais e na técnica do art. 942 do CPC. Sessões só se instalam com maioria absoluta dos integrantes.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "ri-17",
+        "ri-19",
+        "ri-24"
+      ],
+      "tema": "Eleições e substituição do Presidente",
+      "porQueCai": "Datas e regras de escrutínio.",
+      "pegadinha": "Eleição para Presidente, Vice e Corregedor na segunda quarta-feira de novembro do ano em que terminam os mandatos, em votação secreta. Segundo escrutínio se ninguém tiver maioria absoluta; empate favorece o mais antigo. O Presidente é substituído pelo Vice e, na falta, pelo Decano.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "ri-127",
+        "ri-123"
+      ],
+      "tema": "Pauta de julgamento",
+      "porQueCai": "Prazo e exceções.",
+      "pegadinha": "A pauta é publicada pelo menos 5 dias antes da sessão e afixada com 15 minutos de antecedência. Independem de pauta, entre outros, habeas corpus, desaforamento e conflitos de competência.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "ri-253",
+        "ri-255"
+      ],
+      "tema": "Agravo regimental (interno)",
+      "porQueCai": "Recurso interno típico do Tribunal.",
+      "pegadinha": "Cabe, sem efeito suspensivo, em 15 dias, contra decisão monocrática que cause prejuízo à parte, inclusive em matéria administrativa e disciplinar de magistrado. O prolator pode reconsiderar; se mantiver, leva a julgamento em mesa, sem pauta.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "ri-108",
+        "ri-109"
+      ],
+      "tema": "Juiz certo",
+      "porQueCai": "Regra de vinculação do julgador.",
+      "pegadinha": "É juiz certo quem tem visto nos autos ou pediu adiamento, e quem participou do julgamento em caso de conversão em diligência ou embargos. Deixa de ser se se afastar por mais de 60 dias após o visto ou o pedido de adiamento.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "ri-173",
+        "ri-175"
+      ],
+      "tema": "Pedido de vista e remessa de feitos",
+      "porQueCai": "Prazos de tramitação.",
+      "pegadinha": "Pedido de vista: devolução em até 10 dias, prorrogáveis por mais 10, com inclusão automática na pauta seguinte. Remessa e apresentação de feitos ao Tribunal em 48 horas se urgentes e em 5 dias nos demais casos.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "ri-146",
+        "ri-147"
+      ],
+      "tema": "Sustentação oral",
+      "porQueCai": "Inscrição e ordem de fala.",
+      "pegadinha": "Pedido por inscrição prévia por e-mail, com 24 horas de antecedência, quando adotada pelo órgão, ou no próprio dia da sessão. Fala primeiro o autor ou recorrente e, por último, o MP quando não for parte.",
+      "incidencia": "media"
+    }
+  ],
+  "pegadinhas": [
+    "Não podem integrar o mesmo Grupo ou Câmara cônjuges, companheiros e parentes até o 3º grau (art. 63).",
+    "Não há distribuição de feitos nos 30 dias que antecedem a aposentadoria do desembargador (art. 71).",
+    "Turmas Especiais são formadas pelos 2 desembargadores mais antigos de cada Câmara ordinária da Seção (art. 31).",
+    "Correição parcial só cabe no processo PENAL, contra erro ou abuso que inverta a ordem processual sem recurso específico, e segue o rito do agravo de instrumento (arts. 211 e 212).",
+    "Nenhum feito é julgado na ausência do relator, salvo se ele se afastar depois de iniciado o julgamento (art. 134).",
+    "O Ouvidor é eleito pelo Órgão Especial para 2 anos, permitida uma reeleição (art. 29-A).",
+    "Não cabe agravo interno da decisão do Presidente em pedido de sequestro em precatórios (art. 269)."
+  ],
+  "dicasDeMemorizacao": [
+    "Órgão Especial: 25 membros, instala com 13.",
+    "Câmara: 5 integrantes, julga com 3.",
+    "Pauta: 5 dias antes. Vista: 10 + 10 dias. Agravo regimental: 15 dias.",
+    "CSM = Presidente + Vice + Corregedor + Decano + Presidentes das Seções."
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "slug": "cf",
+  "ancora": "cf",
+  "lei": "Constituição Federal de 1988",
+  "subtitulo": "Constituição da República Federativa do Brasil",
+  "materia": "Direito Constitucional",
+  "artigosNoEdital": "Título II, Capítulos I, II e III (arts. 5º a 13); Título III, Capítulo VII, Seções I e II (arts. 37 a 41); art. 92",
+  "totalArtigos": 15,
+  "visaoGeral": "O recorte da Constituição tem três blocos: direitos e garantias fundamentais (arts. 5º a 13: individuais, sociais, nacionalidade e língua oficial), administração pública e servidores (arts. 37 a 41) e a lista de órgãos do Poder Judiciário (art. 92). A VUNESP cobra muito a letra dos incisos do art. 5º e as regras de concurso, acumulação, teto e estabilidade.",
+  "mapaMental": {
+    "titulo": "Constituição Federal — recorte",
+    "filhos": [
+      {
+        "titulo": "Direitos e deveres individuais e coletivos",
+        "artigos": [
+          "cf-5"
+        ],
+        "filhos": [
+          {
+            "titulo": "Liberdades e inviolabilidades",
+            "nota": "Casa (XI), sigilo das comunicações (XII), reunião (XVI), associação (XVII a XXI)"
+          },
+          {
+            "titulo": "Garantias penais",
+            "nota": "Racismo, tortura, tráfico, terrorismo, hediondos e ação de grupos armados (XLII a XLIV); presunção de inocência (LVII)"
+          },
+          {
+            "titulo": "Remédios constitucionais",
+            "nota": "HC (LXVIII), MS (LXIX e LXX), MI (LXXI), HD (LXXII), ação popular (LXXIII)"
+          },
+          {
+            "titulo": "Tratados de direitos humanos",
+            "nota": "§3º: 3/5 em dois turnos nas duas Casas = emenda"
+          }
+        ]
+      },
+      {
+        "titulo": "Direitos sociais",
+        "artigos": [
+          "cf-6",
+          "cf-7",
+          "cf-8",
+          "cf-9",
+          "cf-10",
+          "cf-11"
+        ]
+      },
+      {
+        "titulo": "Nacionalidade",
+        "artigos": [
+          "cf-12"
+        ],
+        "filhos": [
+          {
+            "titulo": "Natos e naturalizados",
+            "nota": "Naturalização: 1 ano para países de língua portuguesa; 15 anos para os demais"
+          },
+          {
+            "titulo": "Cargos privativos de brasileiro nato",
+            "nota": "Presidente e Vice, presidentes da Câmara e do Senado, ministro do STF, carreira diplomática, oficial das Forças Armadas, ministro da Defesa"
+          },
+          {
+            "titulo": "Perda da nacionalidade"
+          }
+        ]
+      },
+      {
+        "titulo": "Língua e símbolos",
+        "artigos": [
+          "cf-13"
+        ]
+      },
+      {
+        "titulo": "Administração Pública",
+        "filhos": [
+          {
+            "titulo": "Princípios e regras gerais",
+            "nota": "LIMPE, concurso, validade de até 2 anos + 2, teto, acumulação",
+            "artigos": [
+              "cf-37"
+            ]
+          },
+          {
+            "titulo": "Servidor em mandato eletivo",
+            "artigos": [
+              "cf-38"
+            ]
+          },
+          {
+            "titulo": "Regime e remuneração",
+            "artigos": [
+              "cf-39"
+            ]
+          },
+          {
+            "titulo": "Previdência do servidor",
+            "artigos": [
+              "cf-40"
+            ]
+          },
+          {
+            "titulo": "Estabilidade",
+            "nota": "3 anos + avaliação especial de desempenho",
+            "artigos": [
+              "cf-41"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Órgãos do Poder Judiciário",
+        "artigos": [
+          "cf-92"
+        ]
+      }
+    ]
+  },
+  "maisCobrados": [
+    {
+      "artigos": [
+        "cf-5"
+      ],
+      "tema": "Remédios constitucionais",
+      "porQueCai": "Presentes em quase toda prova de Constitucional.",
+      "pegadinha": "HC protege a liberdade de locomoção; MS, direito líquido e certo não amparado por HC ou HD; MI, falta de norma regulamentadora; HD, informações pessoais em bancos de dados públicos ou de caráter público. Ação popular pode ser proposta por qualquer CIDADÃO e o autor fica isento de custas, salvo má-fé. HC e HD são gratuitos.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cf-5"
+      ],
+      "tema": "Crimes inafiançáveis e imprescritíveis",
+      "porQueCai": "A banca embaralha os adjetivos de cada crime.",
+      "pegadinha": "Racismo e ação de grupos armados contra a ordem constitucional: inafiançáveis e IMPRESCRITÍVEIS. Tortura, tráfico, terrorismo e hediondos: inafiançáveis e insuscetíveis de graça ou anistia (não são imprescritíveis).",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cf-5"
+      ],
+      "tema": "Inviolabilidade do domicílio e sigilo",
+      "porQueCai": "Exceções são cobradas pela letra.",
+      "pegadinha": "Casa: só se entra sem consentimento em flagrante delito, desastre, para prestar socorro ou, DURANTE O DIA, por determinação judicial. Sigilo das comunicações telefônicas: só por ordem judicial, para investigação criminal ou instrução processual penal.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cf-37"
+      ],
+      "tema": "Concurso público e validade",
+      "porQueCai": "O art. 37 é o mais cobrado da Constituição em provas de tribunal.",
+      "pegadinha": "Investidura em cargo efetivo depende de concurso de provas ou de provas e títulos; cargo em comissão é de livre nomeação e exoneração. Validade de até 2 anos, prorrogável UMA vez por igual período. Aprovados no prazo de validade têm prioridade sobre novos concursados.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cf-37"
+      ],
+      "tema": "Acumulação de cargos e teto remuneratório",
+      "porQueCai": "Hipóteses fechadas, ideais para pegadinha.",
+      "pegadinha": "Só se acumula, com compatibilidade de horários: 2 cargos de professor; 1 de professor + 1 técnico ou científico; 2 de profissionais de saúde com profissão regulamentada. Teto geral: subsídio de ministro do STF; nos Estados, subteto do Judiciário é o subsídio dos desembargadores (até 90,25% do STF).",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cf-37"
+      ],
+      "tema": "Funções de confiança x cargos em comissão; responsabilidade do Estado",
+      "porQueCai": "Diferença conceitual e §6º caem juntos.",
+      "pegadinha": "Funções de confiança: EXCLUSIVAMENTE por servidores efetivos. Cargos em comissão: percentuais mínimos para servidores de carreira, apenas para direção, chefia e assessoramento. O §6º traz a responsabilidade objetiva das pessoas de direito público e privadas prestadoras de serviço público, com direito de regresso contra o agente em caso de dolo ou culpa.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cf-41"
+      ],
+      "tema": "Estabilidade do servidor",
+      "porQueCai": "Tema essencial para quem vai tomar posse.",
+      "pegadinha": "Estável após 3 anos de efetivo exercício, com avaliação especial de desempenho por comissão. Perde o cargo por sentença transitada em julgado, processo administrativo com ampla defesa ou avaliação periódica de desempenho (lei complementar). Invalidada a demissão, o servidor é reintegrado; extinto o cargo, fica em disponibilidade com remuneração proporcional.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cf-12"
+      ],
+      "tema": "Nacionalidade",
+      "porQueCai": "Cargos privativos e prazos de naturalização são cobrados com frequência.",
+      "pegadinha": "A lei não pode distinguir natos e naturalizados, salvo nos casos da Constituição. Cargos privativos de nato são 7 (lembre do 'Ministro da Defesa', o mais esquecido). Naturalização ordinária para originários de língua portuguesa: 1 ano ininterrupto de residência e idoneidade moral.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "cf-7"
+      ],
+      "tema": "Direitos dos trabalhadores aplicáveis ao servidor",
+      "porQueCai": "Base do art. 39, §3º.",
+      "pegadinha": "Ex.: 13º salário, adicional noturno, salário-família, jornada de até 8 horas diárias e 44 semanais, férias com 1/3 a mais, licença-gestante de 120 dias. Proibido trabalho noturno, perigoso ou insalubre a menores de 18 e qualquer trabalho a menores de 16, salvo aprendiz a partir de 14.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "cf-92"
+      ],
+      "tema": "Órgãos do Judiciário",
+      "porQueCai": "Lista curta e de fácil cobrança.",
+      "pegadinha": "STF, CNJ, STJ, TST, TRFs e juízes federais, Justiça do Trabalho, Eleitoral, Militar e os Tribunais e juízes dos Estados e DF. O CNJ é órgão do Judiciário, mas não tem função jurisdicional. STF, CNJ e tribunais superiores têm sede na Capital Federal.",
+      "incidencia": "media"
+    }
+  ],
+  "pegadinhas": [
+    "Reunião pacífica independe de autorização, mas exige PRÉVIO AVISO à autoridade (art. 5º, XVI).",
+    "Associação só pode ser dissolvida compulsoriamente por decisão judicial TRANSITADA EM JULGADO; para suspender as atividades basta decisão judicial (art. 5º, XIX).",
+    "Brasileiro nato nunca é extraditado; o naturalizado pode ser, por crime comum anterior à naturalização ou por tráfico (art. 5º, LI).",
+    "O direito de greve do servidor público será exercido nos termos de lei ESPECÍFICA (art. 37, VII).",
+    "A vedação de nepotismo vem da Súmula Vinculante 13, não do texto do art. 37.",
+    "Servidor em mandato de vereador com horário compatível acumula as remunerações; se incompatível, aplica-se a regra do prefeito, com opção (art. 38)."
+  ],
+  "dicasDeMemorizacao": [
+    "LIMPE: Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência.",
+    "'Imprescritível só RAÇÃO': RAcismo e AÇÃO de grupos armados.",
+    "Concurso: '2 + 2' (validade de até 2 anos, prorrogável uma vez por igual período).",
+    "Estabilidade: 3 anos e 3 formas de perder o cargo."
+  ]
+}

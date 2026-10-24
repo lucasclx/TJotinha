@@ -1,0 +1,463 @@
+{
+  "slug": "cpp",
+  "ancora": "cpp",
+  "lei": "Código de Processo Penal",
+  "subtitulo": "Decreto-Lei nº 3.689, de 3 de outubro de 1941",
+  "materia": "Direito Processual Penal",
+  "artigosNoEdital": "Arts. 251 a 258; 261 a 267; 274; 351 a 372; 394 a 497; 531 a 538; 541 a 548; 574 a 667",
+  "totalArtigos": 256,
+  "visaoGeral": "O recorte do CPP é o maior do Direito Processual Penal: sujeitos do processo (juiz, MP, defensor e serventuários), citações e intimações, procedimentos comum ordinário, sumário e do júri, restauração de autos e a teoria geral dos recursos, com RESE, apelação, embargos, revisão criminal, carta testemunhável e habeas corpus. Para escrevente, a banca prioriza prazos, número de testemunhas e regras de citação.",
+  "mapaMental": {
+    "titulo": "CPP — recorte do edital",
+    "filhos": [
+      {
+        "titulo": "Sujeitos do processo",
+        "filhos": [
+          {
+            "titulo": "Juiz: impedimento e suspeição",
+            "artigos": [
+              "cpp-251",
+              "cpp-252",
+              "cpp-253",
+              "cpp-254",
+              "cpp-255",
+              "cpp-256"
+            ]
+          },
+          {
+            "titulo": "Ministério Público",
+            "artigos": [
+              "cpp-257",
+              "cpp-258"
+            ]
+          },
+          {
+            "titulo": "Acusado e defensor",
+            "artigos": [
+              "cpp-261",
+              "cpp-262",
+              "cpp-263",
+              "cpp-264",
+              "cpp-265",
+              "cpp-266",
+              "cpp-267"
+            ]
+          },
+          {
+            "titulo": "Funcionários da justiça",
+            "nota": "Aplicam-se as regras de suspeição dos juízes",
+            "artigos": [
+              "cpp-274"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Citações e intimações",
+        "filhos": [
+          {
+            "titulo": "Citação pessoal por mandado",
+            "artigos": [
+              "cpp-351",
+              "cpp-352",
+              "cpp-357"
+            ]
+          },
+          {
+            "titulo": "Precatória e situações especiais",
+            "artigos": [
+              "cpp-353",
+              "cpp-354",
+              "cpp-358",
+              "cpp-359",
+              "cpp-360"
+            ]
+          },
+          {
+            "titulo": "Hora certa",
+            "artigos": [
+              "cpp-362"
+            ]
+          },
+          {
+            "titulo": "Edital (15 dias)",
+            "artigos": [
+              "cpp-361",
+              "cpp-365"
+            ]
+          },
+          {
+            "titulo": "Revelia e suspensão do processo",
+            "artigos": [
+              "cpp-366",
+              "cpp-367"
+            ]
+          },
+          {
+            "titulo": "Estrangeiro, rogatória e legação",
+            "artigos": [
+              "cpp-368",
+              "cpp-369"
+            ]
+          },
+          {
+            "titulo": "Intimações",
+            "artigos": [
+              "cpp-370",
+              "cpp-371",
+              "cpp-372"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Procedimento comum",
+        "filhos": [
+          {
+            "titulo": "Espécies de rito",
+            "nota": "Ordinário: pena máx. ≥ 4 anos; sumário: < 4 anos; sumaríssimo: IMPO",
+            "artigos": [
+              "cpp-394"
+            ]
+          },
+          {
+            "titulo": "Rejeição da denúncia",
+            "artigos": [
+              "cpp-395"
+            ]
+          },
+          {
+            "titulo": "Resposta à acusação (10 dias)",
+            "artigos": [
+              "cpp-396",
+              "cpp-396-A"
+            ]
+          },
+          {
+            "titulo": "Absolvição sumária",
+            "artigos": [
+              "cpp-397"
+            ]
+          },
+          {
+            "titulo": "Audiência de instrução (60 dias)",
+            "artigos": [
+              "cpp-399",
+              "cpp-400",
+              "cpp-401",
+              "cpp-402",
+              "cpp-403"
+            ]
+          },
+          {
+            "titulo": "Rito sumário (30 dias, 5 testemunhas)",
+            "artigos": [
+              "cpp-531",
+              "cpp-532",
+              "cpp-533",
+              "cpp-534",
+              "cpp-535",
+              "cpp-536",
+              "cpp-538"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Tribunal do Júri",
+        "filhos": [
+          {
+            "titulo": "1ª fase: acusação e instrução preliminar",
+            "artigos": [
+              "cpp-406",
+              "cpp-409",
+              "cpp-410",
+              "cpp-411",
+              "cpp-412"
+            ]
+          },
+          {
+            "titulo": "Pronúncia, impronúncia, absolvição sumária, desclassificação",
+            "artigos": [
+              "cpp-413",
+              "cpp-414",
+              "cpp-415",
+              "cpp-416",
+              "cpp-419"
+            ]
+          },
+          {
+            "titulo": "Preparação do plenário",
+            "artigos": [
+              "cpp-422",
+              "cpp-423",
+              "cpp-427",
+              "cpp-428"
+            ]
+          },
+          {
+            "titulo": "Jurados e Conselho de Sentença",
+            "nota": "25 sorteados; mínimo 15 para instalar; 7 no Conselho",
+            "artigos": [
+              "cpp-433",
+              "cpp-436",
+              "cpp-447",
+              "cpp-463",
+              "cpp-468"
+            ]
+          },
+          {
+            "titulo": "Debates e quesitos",
+            "artigos": [
+              "cpp-476",
+              "cpp-477",
+              "cpp-482",
+              "cpp-483"
+            ]
+          },
+          {
+            "titulo": "Sentença e ata",
+            "artigos": [
+              "cpp-492",
+              "cpp-494"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Restauração de autos",
+        "artigos": [
+          "cpp-541",
+          "cpp-542",
+          "cpp-543",
+          "cpp-546",
+          "cpp-547",
+          "cpp-548"
+        ]
+      },
+      {
+        "titulo": "Recursos",
+        "filhos": [
+          {
+            "titulo": "Teoria geral",
+            "artigos": [
+              "cpp-574",
+              "cpp-575",
+              "cpp-576",
+              "cpp-577",
+              "cpp-578",
+              "cpp-579",
+              "cpp-580"
+            ]
+          },
+          {
+            "titulo": "RESE (5 dias)",
+            "artigos": [
+              "cpp-581",
+              "cpp-583",
+              "cpp-584",
+              "cpp-586",
+              "cpp-588",
+              "cpp-589"
+            ]
+          },
+          {
+            "titulo": "Apelação (5 dias + 8 de razões)",
+            "artigos": [
+              "cpp-593",
+              "cpp-597",
+              "cpp-598",
+              "cpp-599",
+              "cpp-600"
+            ]
+          },
+          {
+            "titulo": "Embargos (infringentes e declaratórios)",
+            "artigos": [
+              "cpp-609",
+              "cpp-619",
+              "cpp-620"
+            ]
+          },
+          {
+            "titulo": "Revisão criminal",
+            "artigos": [
+              "cpp-621",
+              "cpp-622",
+              "cpp-623",
+              "cpp-626",
+              "cpp-630"
+            ]
+          },
+          {
+            "titulo": "Carta testemunhável (48 h)",
+            "artigos": [
+              "cpp-639",
+              "cpp-640"
+            ]
+          },
+          {
+            "titulo": "Habeas corpus",
+            "artigos": [
+              "cpp-647",
+              "cpp-648",
+              "cpp-654",
+              "cpp-660"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "maisCobrados": [
+    {
+      "artigos": [
+        "cpp-361",
+        "cpp-362",
+        "cpp-366"
+      ],
+      "tema": "Citação por edital, por hora certa e suspensão do art. 366",
+      "porQueCai": "É o tema de CPP que mais aparece em prova de escrevente.",
+      "pegadinha": "Edital: prazo de 15 dias, quando o réu não é encontrado. Hora certa: réu que se oculta, nos moldes do CPC; se não comparecer, recebe defensor dativo. Citado por edital e sem comparecer nem constituir advogado, ficam SUSPENSOS O PROCESSO E O PRAZO PRESCRICIONAL.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpp-394"
+      ],
+      "tema": "Espécies de procedimento",
+      "porQueCai": "Base para calcular rito, prazos e número de testemunhas.",
+      "pegadinha": "Ordinário: pena máxima IGUAL OU SUPERIOR a 4 anos. Sumário: pena máxima INFERIOR a 4 anos. Sumaríssimo: infrações de menor potencial ofensivo (Lei 9.099). O critério é a pena MÁXIMA em abstrato.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpp-396",
+        "cpp-396-A",
+        "cpp-397"
+      ],
+      "tema": "Resposta à acusação e absolvição sumária",
+      "porQueCai": "Etapa obrigatória do rito comum, com prazos e hipóteses enumeradas.",
+      "pegadinha": "Resposta em 10 dias, contados da citação (do comparecimento, se por edital). Não apresentada, o juiz nomeia defensor. Absolvição sumária: excludente manifesta de ilicitude, excludente de culpabilidade (salvo inimputabilidade), fato não é crime ou punibilidade extinta.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpp-400",
+        "cpp-401",
+        "cpp-403",
+        "cpp-531",
+        "cpp-532"
+      ],
+      "tema": "Audiência de instrução e números do rito",
+      "porQueCai": "Números são o prato preferido da VUNESP.",
+      "pegadinha": "Ordinário: audiência em até 60 dias, até 8 testemunhas por parte. Sumário: até 30 dias, até 5 testemunhas. Alegações orais de 20 minutos, prorrogáveis por mais 10; memoriais em 5 dias e sentença em 10 dias.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpp-413",
+        "cpp-414",
+        "cpp-415",
+        "cpp-419"
+      ],
+      "tema": "Decisões ao fim da 1ª fase do júri",
+      "porQueCai": "Cada decisão tem consequência e recurso próprios.",
+      "pegadinha": "Pronúncia: materialidade + indícios suficientes de autoria (cabe RESE). Impronúncia: sem esses requisitos (cabe apelação) e permite nova denúncia com prova nova enquanto não extinta a punibilidade. Absolvição sumária (cabe apelação). Desclassificação: remete ao juiz competente.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpp-447",
+        "cpp-463",
+        "cpp-468",
+        "cpp-477"
+      ],
+      "tema": "Composição do júri e tempo dos debates",
+      "porQueCai": "Números fixos que a banca cobra literalmente.",
+      "pegadinha": "Júri: juiz presidente + 25 jurados sorteados; instala com no mínimo 15; Conselho de Sentença de 7. Cada parte recusa até 3 jurados sem motivo. Debates: 1h30 para cada parte e 1h de réplica e tréplica; com mais de um acusado, +1h e réplica/tréplica em dobro.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpp-581",
+        "cpp-586",
+        "cpp-593"
+      ],
+      "tema": "RESE x apelação",
+      "porQueCai": "Saber qual recurso cabe é questão clássica.",
+      "pegadinha": "RESE cabe nas hipóteses do art. 581 (ex.: não receber denúncia, pronúncia, conceder ou negar fiança). Prazo de 5 dias para ambos. Apelação cabe de sentença definitiva e de decisões do júri; se cabível apelação, não cabe RESE, ainda que se recorra de parte da decisão (art. 593, §4º).",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpp-574",
+        "cpp-576",
+        "cpp-579",
+        "cpp-580"
+      ],
+      "tema": "Princípios recursais",
+      "porQueCai": "Itens de teoria que se resolvem com a letra da lei.",
+      "pegadinha": "O MP não pode desistir de recurso que interpôs. Fungibilidade: recurso errado é conhecido se não houver má-fé. Efeito extensivo: no concurso de agentes, a decisão do recurso de um aproveita aos outros se não fundada em motivo pessoal.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpp-252",
+        "cpp-254",
+        "cpp-274"
+      ],
+      "tema": "Impedimento e suspeição",
+      "porQueCai": "Cai junto com o CPC; a banca mistura as hipóteses.",
+      "pegadinha": "Impedimento (252) é objetivo: parentesco com quem atuou no feito, ter atuado como advogado, MP, autoridade policial, perito ou testemunha, ou ter julgado em outra instância. Suspeição (254) é subjetiva: amizade íntima, inimizade capital, aconselhamento da parte. As regras alcançam os serventuários (274).",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "cpp-619",
+        "cpp-620",
+        "cpp-621",
+        "cpp-622"
+      ],
+      "tema": "Embargos de declaração e revisão criminal",
+      "porQueCai": "Prazos curtos e regras de cabimento.",
+      "pegadinha": "Embargos de declaração no CPP: 2 dias, contra ambiguidade, obscuridade, contradição ou omissão. Revisão criminal só em favor do réu, a qualquer tempo, antes ou depois de extinta a pena; não se admite reiteração sem novas provas.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "cpp-647",
+        "cpp-648"
+      ],
+      "tema": "Habeas corpus",
+      "porQueCai": "Hipóteses de coação ilegal são cobradas pela letra.",
+      "pegadinha": "Cabe sempre que alguém sofrer ou se achar na iminência de sofrer violência ou coação ilegal na liberdade de ir e vir, salvo punição disciplinar. Art. 648 lista: sem justa causa, prisão além do tempo da lei, autoridade incompetente, cessado o motivo, fiança negada, processo nulo e punibilidade extinta.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "cpp-640"
+      ],
+      "tema": "Carta testemunhável",
+      "porQueCai": "Recurso pouco usado, mas com prazo marcante.",
+      "pegadinha": "Cabe da decisão que denega o recurso ou impede seu seguimento. É requerida ao escrivão nas 48 horas seguintes ao despacho.",
+      "incidencia": "media"
+    }
+  ],
+  "pegadinhas": [
+    "Se o réu estiver preso, será requisitado para o interrogatório, mas a citação continua sendo PESSOAL (art. 360).",
+    "Militar é citado por intermédio do chefe do serviço (art. 358); funcionário público tem o chefe NOTIFICADO do dia da audiência (art. 359).",
+    "Réu no estrangeiro em lugar sabido é citado por carta rogatória, suspendendo-se a prescrição até o cumprimento (art. 368).",
+    "Intimação do MP e do defensor nomeado é PESSOAL (art. 370, §4º); a do defensor constituído é pela imprensa.",
+    "Desaforamento (art. 427) é pedido ao Tribunal e não suspende automaticamente o julgamento; o relator pode suspender.",
+    "No júri, a votação dos quesitos se encerra quando há mais de 3 votos no mesmo sentido (art. 483, §§1º e 2º).",
+    "O defensor não pode abandonar o processo sem motivo imperioso, sob pena de multa de 10 a 100 salários mínimos (art. 265)."
+  ],
+  "dicasDeMemorizacao": [
+    "Ordinário 8 testemunhas e 60 dias; sumário 5 testemunhas e 30 dias.",
+    "Júri: '25-15-7' (sorteados, mínimo para instalar, Conselho) e 3 recusas imotivadas.",
+    "RESE e apelação: 5 dias para interpor. Razões: RESE 2 dias, apelação 8 dias.",
+    "Pronúncia → RESE. Impronúncia e absolvição sumária → apelação.",
+    "Edital no CPP: 15 dias. Embargos de declaração no CPP: 2 dias. Carta testemunhável: 48 horas."
+  ]
+}

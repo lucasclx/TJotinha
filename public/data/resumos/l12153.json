@@ -1,0 +1,195 @@
+{
+  "slug": "l12153",
+  "ancora": "l12153",
+  "lei": "Lei nº 12.153/2009 — Juizados Especiais da Fazenda Pública",
+  "subtitulo": "Lei nº 12.153, de 22 de dezembro de 2009",
+  "materia": "Direito Processual Civil",
+  "artigosNoEdital": "Íntegra",
+  "totalArtigos": 28,
+  "visaoGeral": "A Lei 12.153/2009 cria os Juizados Especiais da Fazenda Pública, que julgam causas cíveis de interesse de Estados, DF, Territórios e Municípios até 60 salários mínimos. A prova cobra o valor de alçada, as causas excluídas, quem pode ser autor e réu, a ausência de prazos diferenciados e de reexame necessário e o pagamento por RPV ou precatório.",
+  "mapaMental": {
+    "titulo": "JEFP — Lei 12.153/2009 (íntegra)",
+    "filhos": [
+      {
+        "titulo": "Sistema e competência",
+        "filhos": [
+          {
+            "titulo": "Sistema dos Juizados",
+            "artigos": [
+              "l12153-1"
+            ]
+          },
+          {
+            "titulo": "Até 60 salários mínimos",
+            "nota": "Competência absoluta onde instalado",
+            "artigos": [
+              "l12153-2"
+            ]
+          },
+          {
+            "titulo": "Causas excluídas",
+            "nota": "MS, desapropriação, divisão e demarcação, populares, improbidade, execução fiscal, difusos e coletivos, imóveis, demissão de servidor",
+            "artigos": [
+              "l12153-2"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Tutelas e recursos",
+        "nota": "Recurso só contra sentença e decisão de tutela",
+        "artigos": [
+          "l12153-3",
+          "l12153-4"
+        ]
+      },
+      {
+        "titulo": "Partes",
+        "nota": "Autores: pessoas físicas, ME, EPP. Réus: entes, autarquias, fundações e empresas públicas",
+        "artigos": [
+          "l12153-5"
+        ]
+      },
+      {
+        "titulo": "Atos e procedimento",
+        "artigos": [
+          "l12153-6",
+          "l12153-7",
+          "l12153-8",
+          "l12153-9",
+          "l12153-10",
+          "l12153-11"
+        ]
+      },
+      {
+        "titulo": "Cumprimento",
+        "filhos": [
+          {
+            "titulo": "Fazer, não fazer, entregar",
+            "artigos": [
+              "l12153-12"
+            ]
+          },
+          {
+            "titulo": "Pagar quantia: RPV em 60 dias ou precatório",
+            "nota": "Sem lei local: 40 SM Estados/DF, 30 SM Municípios",
+            "artigos": [
+              "l12153-13"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Estrutura",
+        "nota": "Juízes leigos: advogados com mais de 2 anos",
+        "artigos": [
+          "l12153-14",
+          "l12153-15",
+          "l12153-16"
+        ]
+      },
+      {
+        "titulo": "Turmas recursais e uniformização",
+        "artigos": [
+          "l12153-17",
+          "l12153-18",
+          "l12153-19",
+          "l12153-20",
+          "l12153-21"
+        ]
+      },
+      {
+        "titulo": "Disposições finais",
+        "artigos": [
+          "l12153-22",
+          "l12153-23",
+          "l12153-24",
+          "l12153-25",
+          "l12153-26",
+          "l12153-27",
+          "l12153-28"
+        ]
+      }
+    ]
+  },
+  "maisCobrados": [
+    {
+      "artigos": [
+        "l12153-2"
+      ],
+      "tema": "Competência e causas excluídas",
+      "porQueCai": "Artigo mais cobrado da lei.",
+      "pegadinha": "Até 60 salários mínimos; com parcelas vincendas, a soma de 12 vincendas e das vencidas não pode passar disso. Ficam fora: mandado de segurança, desapropriação, divisão e demarcação, ações populares, improbidade, execuções fiscais, direitos difusos e coletivos, causas sobre imóveis dos entes e impugnação de demissão de servidor civil ou sanção a militar. Onde instalado, a competência é ABSOLUTA.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l12153-5"
+      ],
+      "tema": "Partes",
+      "porQueCai": "Diferente do JEC, e a banca compara as duas listas.",
+      "pegadinha": "Autores: pessoas físicas, microempresas e empresas de pequeno porte. Réus: Estados, DF, Territórios e Municípios, além de autarquias, fundações e EMPRESAS PÚBLICAS a eles vinculadas. Sociedade de economia mista não está na lista.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l12153-7",
+        "l12153-11"
+      ],
+      "tema": "Sem prazo diferenciado e sem reexame necessário",
+      "porQueCai": "Duas quebras de prerrogativa da Fazenda.",
+      "pegadinha": "A Fazenda não tem prazo em dobro nem para recorrer. A citação para a audiência de conciliação deve ocorrer com antecedência mínima de 30 dias. Não há reexame necessário.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l12153-13"
+      ],
+      "tema": "Pagamento: RPV ou precatório",
+      "porQueCai": "Prazos e valores de referência são cobrados literalmente.",
+      "pegadinha": "Obrigação de pequeno valor: pagamento em até 60 dias da requisição, sem precatório; desatendida, sequestro imediato sem ouvir a Fazenda. Sem lei local, pequeno valor é 40 SM para Estados e DF e 30 SM para Municípios. É vedado fracionar a execução; o credor pode renunciar ao excedente para receber sem precatório.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l12153-3",
+        "l12153-4"
+      ],
+      "tema": "Tutelas de ofício e recorribilidade",
+      "porQueCai": "Dois artigos curtos que andam juntos.",
+      "pegadinha": "O juiz pode deferir cautelares e antecipatórias de ofício ou a requerimento. Fora essas decisões, só cabe recurso contra a sentença.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "l12153-15",
+        "l12153-17"
+      ],
+      "tema": "Juízes leigos e turmas recursais",
+      "porQueCai": "Números que diferem do JEC.",
+      "pegadinha": "Juízes leigos: advogados com mais de 2 anos de experiência, impedidos de advogar em todos os Juizados da Fazenda do país. Turmas recursais: juízes de 1º grau, mandato de 2 anos, sem recondução salvo se não houver outro juiz.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "l12153-18"
+      ],
+      "tema": "Pedido de uniformização",
+      "porQueCai": "Quem julga depende da origem da divergência.",
+      "pegadinha": "Divergência entre Turmas do mesmo Estado: reunião conjunta presidida por desembargador. Divergência entre Estados ou contrariedade a súmula do STJ: julga o STJ.",
+      "incidencia": "media"
+    }
+  ],
+  "pegadinhas": [
+    "Os Juizados da Fazenda são órgãos da Justiça COMUM e integram o sistema com o JEC e o JECrim.",
+    "Citações e intimações seguem o CPC (art. 6º), diferentemente do JEC.",
+    "O laudo técnico deve ser entregue até 5 dias antes da audiência (art. 10).",
+    "O representante da Fazenda pode conciliar, transigir ou desistir, nos termos da lei do ente (art. 8º).",
+    "O autor pode sacar o depósito pessoalmente em qualquer agência, sem alvará; por procurador, só na agência destinatária e com procuração específica (art. 13, §§6º e 7º)."
+  ],
+  "dicasDeMemorizacao": [
+    "Fazenda: '60 de teto, 60 dias para RPV, 30 dias de antecedência da citação'.",
+    "RPV sem lei local: '40 para Estado, 30 para Município'.",
+    "Juiz leigo: JEC 5 anos, Fazenda 2 anos."
+  ]
+}
