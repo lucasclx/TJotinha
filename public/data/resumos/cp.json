@@ -1,0 +1,386 @@
+{
+  "slug": "cp",
+  "ancora": "cp",
+  "lei": "Código Penal",
+  "subtitulo": "Decreto-Lei nº 2.848, de 7 de dezembro de 1940",
+  "materia": "Direito Penal",
+  "artigosNoEdital": "Arts. 293 a 305; 307; 308; 311-A; 312 a 317; 319 a 333; 336 e 337; 339 a 347; 357 e 359",
+  "totalArtigos": 53,
+  "visaoGeral": "O recorte do Código Penal cobra só a Parte Especial: crimes contra a fé pública (falsificações e fraudes em certames) e crimes contra a Administração Pública (praticados por funcionário, por particular e contra a administração da justiça). A VUNESP cobra quase sempre o verbo do tipo: a banca troca 'exigir' por 'solicitar', 'oferecer' por 'dar' e cobra quem é funcionário público para fins penais.",
+  "mapaMental": {
+    "titulo": "Código Penal — Parte Especial (recorte)",
+    "filhos": [
+      {
+        "titulo": "Fé pública (Título X)",
+        "filhos": [
+          {
+            "titulo": "Papéis públicos",
+            "artigos": [
+              "cp-293",
+              "cp-294",
+              "cp-295"
+            ]
+          },
+          {
+            "titulo": "Falsidade documental",
+            "filhos": [
+              {
+                "titulo": "Documento público (material)",
+                "nota": "Equiparados: paraestatal, título ao portador/endosso, ações, livros mercantis, testamento particular",
+                "artigos": [
+                  "cp-297"
+                ]
+              },
+              {
+                "titulo": "Documento particular",
+                "nota": "Cartão de crédito/débito é documento particular",
+                "artigos": [
+                  "cp-298"
+                ]
+              },
+              {
+                "titulo": "Falsidade ideológica",
+                "nota": "Documento verdadeiro, conteúdo falso",
+                "artigos": [
+                  "cp-299"
+                ]
+              },
+              {
+                "titulo": "Reconhecimento de firma / certidão falsa",
+                "artigos": [
+                  "cp-300",
+                  "cp-301"
+                ]
+              },
+              {
+                "titulo": "Atestado médico falso",
+                "artigos": [
+                  "cp-302"
+                ]
+              },
+              {
+                "titulo": "Uso de documento falso",
+                "nota": "Pena do crime de falsificação correspondente",
+                "artigos": [
+                  "cp-304"
+                ]
+              },
+              {
+                "titulo": "Supressão de documento",
+                "artigos": [
+                  "cp-305"
+                ]
+              }
+            ]
+          },
+          {
+            "titulo": "Outras falsidades",
+            "nota": "Falsa identidade, uso de documento alheio, fraude em certame",
+            "artigos": [
+              "cp-307",
+              "cp-308",
+              "cp-311-A"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Funcionário contra a Administração (Cap. I)",
+        "filhos": [
+          {
+            "titulo": "Peculato e variações",
+            "artigos": [
+              "cp-312",
+              "cp-313",
+              "cp-313-A",
+              "cp-313-B"
+            ]
+          },
+          {
+            "titulo": "Extravio e emprego irregular de verbas",
+            "artigos": [
+              "cp-314",
+              "cp-315"
+            ]
+          },
+          {
+            "titulo": "Concussão e excesso de exação",
+            "nota": "Verbo: EXIGIR",
+            "artigos": [
+              "cp-316"
+            ]
+          },
+          {
+            "titulo": "Corrupção passiva",
+            "nota": "Verbos: SOLICITAR, RECEBER, ACEITAR promessa",
+            "artigos": [
+              "cp-317"
+            ]
+          },
+          {
+            "titulo": "Prevaricação e omissões",
+            "artigos": [
+              "cp-319",
+              "cp-319-A",
+              "cp-320"
+            ]
+          },
+          {
+            "titulo": "Advocacia administrativa",
+            "artigos": [
+              "cp-321"
+            ]
+          },
+          {
+            "titulo": "Violência arbitrária, abandono, exercício ilegal",
+            "artigos": [
+              "cp-322",
+              "cp-323",
+              "cp-324"
+            ]
+          },
+          {
+            "titulo": "Violação de sigilo funcional",
+            "artigos": [
+              "cp-325"
+            ]
+          },
+          {
+            "titulo": "Conceito de funcionário público",
+            "nota": "§1º equiparado; §2º aumento de 1/3 para comissão/direção",
+            "artigos": [
+              "cp-327"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Particular contra a Administração (Cap. II)",
+        "filhos": [
+          {
+            "titulo": "Usurpação de função",
+            "artigos": [
+              "cp-328"
+            ]
+          },
+          {
+            "titulo": "Resistência, desobediência, desacato",
+            "artigos": [
+              "cp-329",
+              "cp-330",
+              "cp-331"
+            ]
+          },
+          {
+            "titulo": "Tráfico de influência",
+            "artigos": [
+              "cp-332"
+            ]
+          },
+          {
+            "titulo": "Corrupção ativa",
+            "nota": "Verbos: OFERECER ou PROMETER",
+            "artigos": [
+              "cp-333"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Contra a administração da justiça (Cap. III)",
+        "filhos": [
+          {
+            "titulo": "Edital e documentos",
+            "artigos": [
+              "cp-336",
+              "cp-337"
+            ]
+          },
+          {
+            "titulo": "Denunciação caluniosa e falsas comunicações",
+            "artigos": [
+              "cp-339",
+              "cp-340",
+              "cp-341"
+            ]
+          },
+          {
+            "titulo": "Falso testemunho e suborno",
+            "artigos": [
+              "cp-342",
+              "cp-343"
+            ]
+          },
+          {
+            "titulo": "Coação no curso do processo",
+            "artigos": [
+              "cp-344"
+            ]
+          },
+          {
+            "titulo": "Exercício arbitrário das próprias razões",
+            "artigos": [
+              "cp-345",
+              "cp-346"
+            ]
+          },
+          {
+            "titulo": "Fraude processual",
+            "artigos": [
+              "cp-347"
+            ]
+          },
+          {
+            "titulo": "Exploração de prestígio",
+            "artigos": [
+              "cp-357"
+            ]
+          },
+          {
+            "titulo": "Desobediência a decisão judicial",
+            "artigos": [
+              "cp-359"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "maisCobrados": [
+    {
+      "artigos": [
+        "cp-312"
+      ],
+      "tema": "Peculato (apropriação, desvio, furto e culposo)",
+      "porQueCai": "É o crime funcional mais cobrado. A banca explora as modalidades e o regime especial do peculato culposo.",
+      "pegadinha": "No peculato CULPOSO (§2º), a reparação do dano ANTES da sentença irrecorrível extingue a punibilidade; se for DEPOIS, reduz a pena pela metade (§3º). Não vale para o peculato doloso.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cp-316",
+        "cp-317",
+        "cp-333"
+      ],
+      "tema": "Concussão x corrupção passiva x corrupção ativa",
+      "porQueCai": "Questões pedem para identificar o crime pelo verbo da conduta.",
+      "pegadinha": "Concussão = EXIGIR. Corrupção passiva = SOLICITAR, RECEBER ou ACEITAR PROMESSA. Corrupção ativa = OFERECER ou PROMETER. O particular que apenas PAGA o que o funcionário exigiu não comete corrupção ativa.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cp-327"
+      ],
+      "tema": "Conceito de funcionário público para fins penais",
+      "porQueCai": "Aparece como enunciado ou dentro de casos práticos (empregado de concessionária, estagiário, mesário).",
+      "pegadinha": "Equipara-se a funcionário quem trabalha em entidade paraestatal e em empresa contratada ou conveniada para atividade TÍPICA da Administração (§1º). O aumento de 1/3 do §2º é para ocupantes de cargo em comissão, função de direção ou assessoramento.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cp-319",
+        "cp-317"
+      ],
+      "tema": "Prevaricação x corrupção passiva privilegiada",
+      "porQueCai": "A diferença é sutil e a banca gosta dela.",
+      "pegadinha": "Prevaricação: retardar ou deixar de praticar ato para satisfazer INTERESSE OU SENTIMENTO PESSOAL. Corrupção passiva privilegiada (art. 317, §2º): fazer o mesmo CEDENDO A PEDIDO OU INFLUÊNCIA DE OUTREM.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cp-329",
+        "cp-330",
+        "cp-331"
+      ],
+      "tema": "Resistência, desobediência e desacato",
+      "porQueCai": "Os três crimes do particular contra o funcionário costumam vir juntos em alternativas.",
+      "pegadinha": "Resistência exige VIOLÊNCIA OU AMEAÇA contra ato legal. Desobediência é só não cumprir ordem legal. Desacato é humilhar o funcionário NO EXERCÍCIO da função ou EM RAZÃO dela.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cp-332",
+        "cp-357"
+      ],
+      "tema": "Tráfico de influência x exploração de prestígio",
+      "porQueCai": "Ambos são 'venda de fumaça' e diferem pelo alvo da suposta influência.",
+      "pegadinha": "Exploração de prestígio (357) é quando a influência alegada é sobre juiz, jurado, órgão do MP, funcionário de justiça, perito, tradutor, intérprete ou testemunha. Nos demais casos é tráfico de influência (332). Em ambos a pena aumenta se o agente alega que o dinheiro também se destina ao funcionário.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cp-297",
+        "cp-298",
+        "cp-299"
+      ],
+      "tema": "Falsidade material x ideológica",
+      "porQueCai": "Base de todas as questões sobre falsificação.",
+      "pegadinha": "Material: o documento é forjado ou alterado. Ideológica: o documento é verdadeiro, mas a informação inserida é falsa. Documento público por equiparação inclui testamento particular e livros mercantis.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cp-342"
+      ],
+      "tema": "Falso testemunho ou falsa perícia",
+      "porQueCai": "Muito ligado à rotina do cartório e das audiências.",
+      "pegadinha": "O fato deixa de ser punível se, ANTES DA SENTENÇA no processo em que ocorreu o ilícito, o agente se retrata ou declara a verdade (§2º).",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cp-339",
+        "cp-340",
+        "cp-341"
+      ],
+      "tema": "Denunciação caluniosa, comunicação falsa e autoacusação falsa",
+      "porQueCai": "A banca troca os três pela presença ou não de pessoa determinada.",
+      "pegadinha": "Denunciação caluniosa: dar causa a investigação ou processo contra PESSOA que sabe inocente. Comunicação falsa de crime: provocar ação da autoridade sobre crime que não ocorreu, sem apontar pessoa. Autoacusação falsa: acusar-se de crime inexistente ou praticado por outro.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "cp-320",
+        "cp-321"
+      ],
+      "tema": "Condescendência criminosa e advocacia administrativa",
+      "porQueCai": "Crimes de menor pena que aparecem em itens de 'assinale a correta'.",
+      "pegadinha": "Condescendência é deixar, por INDULGÊNCIA, de responsabilizar subordinado. Advocacia administrativa é patrocinar interesse privado perante a Administração valendo-se da condição de funcionário; a pena é maior se o interesse for ilegítimo.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "cp-311-A"
+      ],
+      "tema": "Fraudes em certames de interesse público",
+      "porQueCai": "Tema natural numa prova de concurso.",
+      "pegadinha": "Pune quem utiliza ou divulga conteúdo sigiloso de concurso, avaliação, vestibular ou exame. A pena aumenta de 1/3 se o fato é cometido por funcionário público.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "cp-313-A",
+        "cp-325"
+      ],
+      "tema": "Inserção de dados falsos e violação de sigilo funcional",
+      "porQueCai": "Crimes ligados a sistemas informatizados, próximos da rotina do escrevente.",
+      "pegadinha": "313-A é só para o funcionário AUTORIZADO a operar o sistema. Quem permite ou facilita o acesso de pessoa não autorizada a sistema responde pelo art. 325, §1º.",
+      "incidencia": "media"
+    }
+  ],
+  "pegadinhas": [
+    "Concussão é crime formal: consuma-se com a exigência, mesmo que a vantagem não seja entregue.",
+    "Peculato-furto (art. 312, §1º): o funcionário não tem a posse do bem, mas subtrai valendo-se da facilidade do cargo.",
+    "Peculato mediante erro de outrem (art. 313) exige que a vantagem tenha sido recebida por erro de terceiro, não provocado pelo agente.",
+    "Excesso de exação (art. 316, §1º) é exigir tributo que sabe ou deveria saber indevido, ou empregar meio vexatório na cobrança.",
+    "Abandono de função (art. 323): a pena aumenta se resulta prejuízo público e mais ainda se ocorre em faixa de fronteira.",
+    "Coação no curso do processo (art. 344) usa violência ou grave ameaça contra autoridade, parte ou quem intervém no processo.",
+    "Exercício arbitrário das próprias razões (art. 345): se não há violência, só se procede mediante queixa."
+  ],
+  "dicasDeMemorizacao": [
+    "'Exige? Concussão. Pede? Corrupção.' O particular que oferece comete corrupção ativa.",
+    "Peculato culposo: 'repara antes, extingue; repara depois, metade'.",
+    "Exploração de prestígio = 'pessoal do processo' (juiz, jurado, MP, perito, tradutor, intérprete, testemunha).",
+    "Resistência = violência ou ameaça. Sem isso, é só desobediência."
+  ]
+}

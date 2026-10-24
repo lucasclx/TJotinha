@@ -1,0 +1,613 @@
+{
+  "slug": "cpc",
+  "ancora": "cpc",
+  "lei": "Código de Processo Civil",
+  "subtitulo": "Lei nº 13.105, de 16 de março de 2015",
+  "materia": "Direito Processual Civil",
+  "artigosNoEdital": "Arts. 144 a 155; 188 a 275; 294 a 311; 318 a 538; 994 a 1.026",
+  "totalArtigos": 372,
+  "visaoGeral": "O recorte do CPC é o maior do edital e mistura temas de cartório e de processo: impedimento e suspeição, auxiliares da justiça (escrivão e oficial de justiça), atos processuais, tempo e lugar, prazos, comunicação dos atos (citação, intimação e cartas), tutela provisória, todo o procedimento comum até o cumprimento de sentença e a teoria geral dos recursos com apelação, agravos e embargos. Para escrevente, os artigos sobre prazos, citação e atribuições do escrivão são os que mais pontuam.",
+  "mapaMental": {
+    "titulo": "CPC — recorte do edital",
+    "filhos": [
+      {
+        "titulo": "Juiz e auxiliares",
+        "filhos": [
+          {
+            "titulo": "Impedimento e suspeição",
+            "artigos": [
+              "cpc-144",
+              "cpc-145",
+              "cpc-146",
+              "cpc-147",
+              "cpc-148"
+            ]
+          },
+          {
+            "titulo": "Auxiliares da justiça",
+            "artigos": [
+              "cpc-149"
+            ]
+          },
+          {
+            "titulo": "Escrivão e chefe de secretaria",
+            "nota": "Art. 153: ordem cronológica de recebimento para publicar e efetivar",
+            "artigos": [
+              "cpc-150",
+              "cpc-152",
+              "cpc-153"
+            ]
+          },
+          {
+            "titulo": "Oficial de justiça",
+            "artigos": [
+              "cpc-154"
+            ]
+          },
+          {
+            "titulo": "Responsabilidade civil dos auxiliares",
+            "artigos": [
+              "cpc-155"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Atos processuais",
+        "filhos": [
+          {
+            "titulo": "Forma e publicidade",
+            "artigos": [
+              "cpc-188",
+              "cpc-189",
+              "cpc-190",
+              "cpc-191",
+              "cpc-192"
+            ]
+          },
+          {
+            "titulo": "Atos eletrônicos",
+            "artigos": [
+              "cpc-193",
+              "cpc-194",
+              "cpc-195",
+              "cpc-196",
+              "cpc-197",
+              "cpc-198",
+              "cpc-199"
+            ]
+          },
+          {
+            "titulo": "Pronunciamentos do juiz",
+            "nota": "Sentença, decisão interlocutória, despacho",
+            "artigos": [
+              "cpc-203",
+              "cpc-204",
+              "cpc-205"
+            ]
+          },
+          {
+            "titulo": "Atos do escrivão",
+            "artigos": [
+              "cpc-206",
+              "cpc-207",
+              "cpc-208",
+              "cpc-209",
+              "cpc-210",
+              "cpc-211"
+            ]
+          },
+          {
+            "titulo": "Tempo e lugar",
+            "nota": "6h às 20h; eletrônico até 24h",
+            "artigos": [
+              "cpc-212",
+              "cpc-213",
+              "cpc-214",
+              "cpc-215",
+              "cpc-216",
+              "cpc-217"
+            ]
+          },
+          {
+            "titulo": "Prazos",
+            "artigos": [
+              "cpc-218",
+              "cpc-219",
+              "cpc-220",
+              "cpc-221",
+              "cpc-223",
+              "cpc-224",
+              "cpc-226",
+              "cpc-228",
+              "cpc-229",
+              "cpc-231",
+              "cpc-234",
+              "cpc-235"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Comunicação dos atos",
+        "filhos": [
+          {
+            "titulo": "Citação: conceito e efeitos",
+            "artigos": [
+              "cpc-238",
+              "cpc-239",
+              "cpc-240",
+              "cpc-242",
+              "cpc-243",
+              "cpc-244",
+              "cpc-245"
+            ]
+          },
+          {
+            "titulo": "Modalidades de citação",
+            "nota": "Preferencialmente eletrônica",
+            "artigos": [
+              "cpc-246",
+              "cpc-247",
+              "cpc-248",
+              "cpc-249",
+              "cpc-250",
+              "cpc-251"
+            ]
+          },
+          {
+            "titulo": "Citação por hora certa",
+            "artigos": [
+              "cpc-252",
+              "cpc-253",
+              "cpc-254"
+            ]
+          },
+          {
+            "titulo": "Citação por edital",
+            "artigos": [
+              "cpc-256",
+              "cpc-257",
+              "cpc-258",
+              "cpc-259"
+            ]
+          },
+          {
+            "titulo": "Cartas",
+            "artigos": [
+              "cpc-260",
+              "cpc-261",
+              "cpc-262",
+              "cpc-263",
+              "cpc-264",
+              "cpc-265",
+              "cpc-266",
+              "cpc-267",
+              "cpc-268"
+            ]
+          },
+          {
+            "titulo": "Intimações",
+            "artigos": [
+              "cpc-269",
+              "cpc-270",
+              "cpc-272",
+              "cpc-273",
+              "cpc-274",
+              "cpc-275"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Tutela provisória",
+        "filhos": [
+          {
+            "titulo": "Disposições gerais",
+            "artigos": [
+              "cpc-294",
+              "cpc-295",
+              "cpc-296",
+              "cpc-297",
+              "cpc-298",
+              "cpc-299"
+            ]
+          },
+          {
+            "titulo": "Urgência: requisitos",
+            "artigos": [
+              "cpc-300",
+              "cpc-301",
+              "cpc-302"
+            ]
+          },
+          {
+            "titulo": "Antecipada antecedente e estabilização",
+            "artigos": [
+              "cpc-303",
+              "cpc-304"
+            ]
+          },
+          {
+            "titulo": "Cautelar antecedente",
+            "artigos": [
+              "cpc-305",
+              "cpc-306",
+              "cpc-307",
+              "cpc-308",
+              "cpc-309",
+              "cpc-310"
+            ]
+          },
+          {
+            "titulo": "Tutela da evidência",
+            "artigos": [
+              "cpc-311"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Procedimento comum",
+        "filhos": [
+          {
+            "titulo": "Petição inicial",
+            "artigos": [
+              "cpc-319",
+              "cpc-320",
+              "cpc-321",
+              "cpc-330",
+              "cpc-331",
+              "cpc-332"
+            ]
+          },
+          {
+            "titulo": "Audiência de conciliação ou mediação",
+            "artigos": [
+              "cpc-334"
+            ]
+          },
+          {
+            "titulo": "Contestação, reconvenção e revelia",
+            "artigos": [
+              "cpc-335",
+              "cpc-336",
+              "cpc-337",
+              "cpc-341",
+              "cpc-343",
+              "cpc-344",
+              "cpc-345"
+            ]
+          },
+          {
+            "titulo": "Providências preliminares e saneamento",
+            "artigos": [
+              "cpc-347",
+              "cpc-351",
+              "cpc-354",
+              "cpc-355",
+              "cpc-356",
+              "cpc-357"
+            ]
+          },
+          {
+            "titulo": "Audiência de instrução e julgamento",
+            "artigos": [
+              "cpc-358",
+              "cpc-361",
+              "cpc-362",
+              "cpc-364",
+              "cpc-366"
+            ]
+          },
+          {
+            "titulo": "Provas",
+            "artigos": [
+              "cpc-369",
+              "cpc-370",
+              "cpc-373",
+              "cpc-374",
+              "cpc-385",
+              "cpc-389",
+              "cpc-405",
+              "cpc-442",
+              "cpc-450",
+              "cpc-464"
+            ]
+          },
+          {
+            "titulo": "Sentença e coisa julgada",
+            "artigos": [
+              "cpc-485",
+              "cpc-487",
+              "cpc-489",
+              "cpc-494",
+              "cpc-496",
+              "cpc-502",
+              "cpc-503",
+              "cpc-507",
+              "cpc-508"
+            ]
+          },
+          {
+            "titulo": "Liquidação",
+            "artigos": [
+              "cpc-509",
+              "cpc-510",
+              "cpc-511"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Cumprimento de sentença",
+        "filhos": [
+          {
+            "titulo": "Disposições gerais",
+            "artigos": [
+              "cpc-513",
+              "cpc-515",
+              "cpc-516",
+              "cpc-517"
+            ]
+          },
+          {
+            "titulo": "Provisório e definitivo (pagar quantia)",
+            "artigos": [
+              "cpc-520",
+              "cpc-523",
+              "cpc-524",
+              "cpc-525"
+            ]
+          },
+          {
+            "titulo": "Alimentos",
+            "artigos": [
+              "cpc-528"
+            ]
+          },
+          {
+            "titulo": "Fazenda Pública",
+            "artigos": [
+              "cpc-534",
+              "cpc-535"
+            ]
+          },
+          {
+            "titulo": "Fazer, não fazer e entregar coisa",
+            "artigos": [
+              "cpc-536",
+              "cpc-537",
+              "cpc-538"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Recursos",
+        "filhos": [
+          {
+            "titulo": "Teoria geral",
+            "artigos": [
+              "cpc-994",
+              "cpc-995",
+              "cpc-996",
+              "cpc-997",
+              "cpc-998",
+              "cpc-999",
+              "cpc-1000",
+              "cpc-1001",
+              "cpc-1003",
+              "cpc-1007",
+              "cpc-1008"
+            ]
+          },
+          {
+            "titulo": "Apelação",
+            "artigos": [
+              "cpc-1009",
+              "cpc-1010",
+              "cpc-1012",
+              "cpc-1013"
+            ]
+          },
+          {
+            "titulo": "Agravo de instrumento",
+            "artigos": [
+              "cpc-1015",
+              "cpc-1016",
+              "cpc-1017",
+              "cpc-1018",
+              "cpc-1019"
+            ]
+          },
+          {
+            "titulo": "Agravo interno",
+            "artigos": [
+              "cpc-1021"
+            ]
+          },
+          {
+            "titulo": "Embargos de declaração",
+            "artigos": [
+              "cpc-1022",
+              "cpc-1023",
+              "cpc-1024",
+              "cpc-1025",
+              "cpc-1026"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "maisCobrados": [
+    {
+      "artigos": [
+        "cpc-212",
+        "cpc-213",
+        "cpc-219",
+        "cpc-220"
+      ],
+      "tema": "Tempo dos atos e contagem de prazos",
+      "porQueCai": "É o assunto mais presente em prova de escrevente.",
+      "pegadinha": "Atos de 6h às 20h; protocolo eletrônico até as 24h do último dia. Prazos em dias contam só DIAS ÚTEIS e apenas para prazos processuais. Suspensão do curso dos prazos de 20 de dezembro a 20 de janeiro, mas juízes, MP e servidores seguem trabalhando, salvo férias individuais.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpc-226",
+        "cpc-228"
+      ],
+      "tema": "Prazos do juiz e do serventuário",
+      "porQueCai": "Números diretos e muito cobrados.",
+      "pegadinha": "Juiz: despachos em 5 dias, decisões interlocutórias em 10 dias e sentenças em 30 dias. Serventuário: remeter os autos à conclusão em 1 dia e executar os atos em 5 dias.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpc-229"
+      ],
+      "tema": "Prazo em dobro para litisconsortes",
+      "porQueCai": "A exceção dos autos eletrônicos é a pegadinha preferida.",
+      "pegadinha": "Litisconsortes com procuradores diferentes, de escritórios diferentes, têm prazos em dobro. NÃO se aplica em processo em AUTOS ELETRÔNICOS, e cessa se só um deles se defende e há só dois réus.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpc-240",
+        "cpc-244"
+      ],
+      "tema": "Efeitos da citação e quando não se cita",
+      "porQueCai": "Aparece em toda prova de processo civil.",
+      "pegadinha": "Citação válida induz litispendência, torna litigiosa a coisa e constitui em mora o devedor; o despacho que ordena a citação interrompe a prescrição, retroagindo à data da propositura. Não se cita quem está em ato de culto religioso, cônjuge ou parente de morto no dia do falecimento e nos 7 dias seguintes, noivos nos 3 primeiros dias após o casamento e o doente grave.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpc-246",
+        "cpc-247",
+        "cpc-249"
+      ],
+      "tema": "Modalidades de citação",
+      "porQueCai": "Mudanças recentes (citação eletrônica) são exploradas.",
+      "pegadinha": "A citação é feita preferencialmente por meio eletrônico, em até 2 dias úteis da decisão. Depois, correio, oficial de justiça, escrivão (se o citando comparecer em cartório) e edital. Por correio não se cita, entre outros, incapaz e pessoa de direito público.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpc-252",
+        "cpc-253",
+        "cpc-254"
+      ],
+      "tema": "Citação por hora certa",
+      "porQueCai": "Procedimento detalhado e cheio de números.",
+      "pegadinha": "O oficial procura o réu por 2 vezes no domicílio sem encontrá-lo e, havendo suspeita de ocultação, intima pessoa da família ou vizinho de que voltará no dia útil seguinte. Feita a citação, o escrivão envia carta, telegrama ou e-mail ao réu em 10 dias.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpc-256",
+        "cpc-257"
+      ],
+      "tema": "Citação por edital",
+      "porQueCai": "Prazos de edital são clássicos.",
+      "pegadinha": "Cabe quando desconhecido ou incerto o citando, ignorado ou inacessível o lugar, ou nos casos da lei. O juiz fixa prazo entre 20 e 60 dias, contado da primeira publicação.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpc-300",
+        "cpc-303",
+        "cpc-304",
+        "cpc-311"
+      ],
+      "tema": "Tutela de urgência, estabilização e evidência",
+      "porQueCai": "Tema de alto impacto e presença constante.",
+      "pegadinha": "Urgência exige probabilidade do direito + perigo de dano ou risco ao resultado útil do processo. A tutela antecipada antecedente se estabiliza se não houver recurso, e a ação para revê-la deve vir em 2 anos. A tutela da evidência dispensa urgência; liminar só nos incisos II e III do art. 311.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpc-334",
+        "cpc-335",
+        "cpc-344"
+      ],
+      "tema": "Audiência de conciliação, contestação e revelia",
+      "porQueCai": "Fluxo inicial do procedimento comum.",
+      "pegadinha": "Audiência com antecedência mínima de 30 dias, citado o réu com pelo menos 20 dias. Só não ocorre se AMBAS as partes manifestarem desinteresse ou se não admitir autocomposição. Ausência injustificada gera multa de até 2%. Contestação em 15 dias; revelia presume verdadeiros os fatos alegados.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpc-1003",
+        "cpc-1007",
+        "cpc-1009",
+        "cpc-1012"
+      ],
+      "tema": "Prazo, preparo e efeitos da apelação",
+      "porQueCai": "Teoria geral de recursos aparece todo ano.",
+      "pegadinha": "Todos os recursos têm prazo de 15 dias, exceto embargos de declaração (5 dias). Falta de preparo: intima-se para recolher EM DOBRO antes da deserção. A apelação tem efeito suspensivo como regra, com as exceções do art. 1.012, §1º (ex.: alimentos, tutela provisória, interdição).",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpc-1015",
+        "cpc-1021",
+        "cpc-1022",
+        "cpc-1026"
+      ],
+      "tema": "Agravo de instrumento, agravo interno e embargos de declaração",
+      "porQueCai": "Cabimento e efeitos são cobrados juntos.",
+      "pegadinha": "Agravo de instrumento só nas hipóteses do art. 1.015 (ex.: tutelas provisórias, mérito do processo, rejeição de convenção de arbitragem). Agravo interno contra decisão do relator, multa de 1% a 5% se manifestamente inadmissível. Embargos de declaração interrompem o prazo e não têm efeito suspensivo; protelatórios: multa até 2%, reiteração até 10%.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "cpc-144",
+        "cpc-145"
+      ],
+      "tema": "Impedimento x suspeição do juiz",
+      "porQueCai": "Hipóteses são cobradas literalmente.",
+      "pegadinha": "Impedimento é objetivo e pode ser alegado a qualquer tempo, até por ação rescisória (ex.: parente da parte até o 3º grau; atuou como mandatário). Suspeição é subjetiva (amigo íntimo ou inimigo, credor ou devedor da parte) e o juiz pode se declarar suspeito por foro íntimo sem dizer as razões.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "cpc-152",
+        "cpc-154"
+      ],
+      "tema": "Atribuições do escrivão e do oficial de justiça",
+      "porQueCai": "É a descrição do trabalho do cargo em disputa.",
+      "pegadinha": "Escrivão: redigir ofícios e mandados, executar ordens, comparecer a audiências, guardar os autos, fornecer certidões, praticar atos ordinatórios. Oficial de justiça: fazer citações, prisões, penhoras e diligências, certificar proposta de autocomposição.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "cpc-523",
+        "cpc-525"
+      ],
+      "tema": "Cumprimento de sentença de quantia",
+      "porQueCai": "Percentuais e prazos aparecem com frequência.",
+      "pegadinha": "Intimado, o devedor paga em 15 dias. Sem pagamento, multa de 10% e honorários de 10%. Depois desse prazo, abre-se mais 15 dias para impugnação, independentemente de penhora.",
+      "incidencia": "media"
+    }
+  ],
+  "pegadinhas": [
+    "O art. 219 vale só para prazos PROCESSUAIS; prazos materiais seguem em dias corridos.",
+    "Considera-se dia do começo do prazo a data da juntada do AR, do mandado cumprido ou o dia útil seguinte à consulta eletrônica, entre outros (art. 231).",
+    "Publicação no Diário da Justiça eletrônico: considera-se data da publicação o 1º dia útil seguinte à disponibilização (art. 224, §2º).",
+    "Atos de citação, intimação e penhora podem ser feitos nas férias e feriados e fora do horário, independentemente de autorização (art. 212, §2º).",
+    "Despachos são irrecorríveis (art. 1.001).",
+    "A desistência do recurso independe da anuência do recorrido ou dos litisconsortes (art. 998).",
+    "Na apelação, o juízo de 1º grau não faz juízo de admissibilidade; só intima para contrarrazões e remete ao tribunal (art. 1.010, §3º).",
+    "Recurso adesivo segue o principal: não conhecido o principal, o adesivo também não é (art. 997)."
+  ],
+  "dicasDeMemorizacao": [
+    "Juiz '5-10-30' (despacho, interlocutória, sentença). Servidor '1-5' (conclusão, atos).",
+    "Recursos: 15 dias, menos embargos de declaração, que são 5.",
+    "Recesso dos prazos: 20/12 a 20/01.",
+    "Conciliação: '30 de antecedência, 20 de citação, multa de 2%'.",
+    "Não se cita: culto, luto de 7 dias, núpcias de 3 dias, doente grave."
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "versao": 1,
+  "bloco": "Bloco II — TJ-SP 2027",
+  "aviso": "Os destaques de 'mais cobrados' e a incidência (alta/média) são uma curadoria baseada no histórico de provas VUNESP para Escrevente do TJ-SP, não uma contagem estatística. Confira sempre o texto da lei.",
+  "leis": [
+    {
+      "slug": "cp",
+      "lei": "Código Penal",
+      "materia": "Direito Penal",
+      "arquivo": "cp.json",
+      "totalArtigos": 53,
+      "maisCobrados": 12,
+      "altaIncidencia": 8
+    },
+    {
+      "slug": "cpp",
+      "lei": "Código de Processo Penal",
+      "materia": "Direito Processual Penal",
+      "arquivo": "cpp.json",
+      "totalArtigos": 256,
+      "maisCobrados": 12,
+      "altaIncidencia": 8
+    },
+    {
+      "slug": "l9099pen",
+      "lei": "Lei nº 9.099/1995 — Juizados Especiais Criminais",
+      "materia": "Direito Processual Penal",
+      "arquivo": "l9099pen.json",
+      "totalArtigos": 26,
+      "maisCobrados": 8,
+      "altaIncidencia": 6
+    },
+    {
+      "slug": "cpc",
+      "lei": "Código de Processo Civil",
+      "materia": "Direito Processual Civil",
+      "arquivo": "cpc.json",
+      "totalArtigos": 372,
+      "maisCobrados": 14,
+      "altaIncidencia": 11
+    },
+    {
+      "slug": "l9099civ",
+      "lei": "Lei nº 9.099/1995 — Juizados Especiais Cíveis",
+      "materia": "Direito Processual Civil",
+      "arquivo": "l9099civ.json",
+      "totalArtigos": 18,
+      "maisCobrados": 8,
+      "altaIncidencia": 5
+    },
+    {
+      "slug": "l12153",
+      "lei": "Lei nº 12.153/2009 — Juizados Especiais da Fazenda Pública",
+      "materia": "Direito Processual Civil",
+      "arquivo": "l12153.json",
+      "totalArtigos": 28,
+      "maisCobrados": 7,
+      "altaIncidencia": 4
+    },
+    {
+      "slug": "cf",
+      "lei": "Constituição Federal de 1988",
+      "materia": "Direito Constitucional",
+      "arquivo": "cf.json",
+      "totalArtigos": 15,
+      "maisCobrados": 10,
+      "altaIncidencia": 7
+    },
+    {
+      "slug": "l10261",
+      "lei": "Lei nº 10.261/1968 — Estatuto dos Funcionários Públicos Civis do Estado de São Paulo",
+      "materia": "Direito Administrativo",
+      "arquivo": "l10261.json",
+      "totalArtigos": 192,
+      "maisCobrados": 11,
+      "altaIncidencia": 7
+    },
+    {
+      "slug": "l8429",
+      "lei": "Lei nº 8.429/1992 — Lei de Improbidade Administrativa",
+      "materia": "Direito Administrativo",
+      "arquivo": "l8429.json",
+      "totalArtigos": 35,
+      "maisCobrados": 9,
+      "altaIncidencia": 5
+    },
+    {
+      "slug": "res850",
+      "lei": "Resolução TJSP nº 850/2021 — Teletrabalho",
+      "materia": "Legislação Interna",
+      "arquivo": "res850.json",
+      "totalArtigos": 40,
+      "maisCobrados": 8,
+      "altaIncidencia": 5
+    },
+    {
+      "slug": "res963",
+      "lei": "Resolução TJSP nº 963/2025 — Sistema eproc",
+      "materia": "Legislação Interna",
+      "arquivo": "res963.json",
+      "totalArtigos": 43,
+      "maisCobrados": 8,
+      "altaIncidencia": 4
+    },
+    {
+      "slug": "lc1111",
+      "lei": "Lei Complementar nº 1.111/2010 — Plano de Cargos e Carreiras do TJSP",
+      "materia": "Legislação Interna",
+      "arquivo": "lc1111.json",
+      "totalArtigos": 56,
+      "maisCobrados": 8,
+      "altaIncidencia": 5
+    },
+    {
+      "slug": "ri",
+      "lei": "Regimento Interno do Tribunal de Justiça de São Paulo",
+      "materia": "Legislação Interna",
+      "arquivo": "ri.json",
+      "totalArtigos": 299,
+      "maisCobrados": 10,
+      "altaIncidencia": 4
+    },
+    {
+      "slug": "nscgj",
+      "lei": "Normas de Serviço da Corregedoria Geral da Justiça — Tomo I",
+      "materia": "Legislação Interna",
+      "arquivo": "nscgj.json",
+      "totalArtigos": 300,
+      "maisCobrados": 11,
+      "altaIncidencia": 6
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "slug": "l9099pen",
+  "ancora": "l9099pen",
+  "lei": "Lei nº 9.099/1995 — Juizados Especiais Criminais",
+  "subtitulo": "Lei nº 9.099, de 26 de setembro de 1995",
+  "materia": "Direito Processual Penal",
+  "artigosNoEdital": "Arts. 60 a 83; 88 e 89",
+  "totalArtigos": 26,
+  "visaoGeral": "A parte criminal da Lei 9.099/1995 cria o Juizado Especial Criminal para as infrações de menor potencial ofensivo e traz os institutos despenalizadores: composição civil, transação penal, representação nas lesões leves e culposas e suspensão condicional do processo. A prova costuma cobrar o conceito de IMPO, os requisitos da transação e da suspensão e os prazos do procedimento sumaríssimo.",
+  "mapaMental": {
+    "titulo": "JECrim — Lei 9.099/95 (arts. 60 a 83, 88 e 89)",
+    "filhos": [
+      {
+        "titulo": "Competência e conceitos",
+        "filhos": [
+          {
+            "titulo": "Competência do JECrim",
+            "artigos": [
+              "l9099pen-60"
+            ]
+          },
+          {
+            "titulo": "Infração de menor potencial ofensivo",
+            "nota": "Contravenções + crimes com pena máxima até 2 anos",
+            "artigos": [
+              "l9099pen-61"
+            ]
+          },
+          {
+            "titulo": "Critérios orientadores",
+            "artigos": [
+              "l9099pen-62"
+            ]
+          },
+          {
+            "titulo": "Lugar da infração",
+            "artigos": [
+              "l9099pen-63"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Atos processuais",
+        "nota": "Sem citação por edital: vai ao juízo comum",
+        "artigos": [
+          "l9099pen-64",
+          "l9099pen-65",
+          "l9099pen-66",
+          "l9099pen-67",
+          "l9099pen-68"
+        ]
+      },
+      {
+        "titulo": "Fase preliminar",
+        "filhos": [
+          {
+            "titulo": "Termo circunstanciado",
+            "nota": "Sem flagrante nem fiança se assumir compromisso de comparecer",
+            "artigos": [
+              "l9099pen-69"
+            ]
+          },
+          {
+            "titulo": "Audiência preliminar",
+            "artigos": [
+              "l9099pen-70",
+              "l9099pen-71",
+              "l9099pen-72",
+              "l9099pen-73"
+            ]
+          },
+          {
+            "titulo": "Composição civil",
+            "artigos": [
+              "l9099pen-74",
+              "l9099pen-75"
+            ]
+          },
+          {
+            "titulo": "Transação penal",
+            "artigos": [
+              "l9099pen-76"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Procedimento sumaríssimo",
+        "filhos": [
+          {
+            "titulo": "Denúncia ou queixa oral",
+            "artigos": [
+              "l9099pen-77",
+              "l9099pen-78"
+            ]
+          },
+          {
+            "titulo": "Audiência de instrução e julgamento",
+            "artigos": [
+              "l9099pen-79",
+              "l9099pen-80",
+              "l9099pen-81"
+            ]
+          },
+          {
+            "titulo": "Recursos: apelação (10 dias) e embargos (5 dias)",
+            "artigos": [
+              "l9099pen-82",
+              "l9099pen-83"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Disposições finais (recorte)",
+        "filhos": [
+          {
+            "titulo": "Representação: lesão leve e culposa",
+            "artigos": [
+              "l9099pen-88"
+            ]
+          },
+          {
+            "titulo": "Suspensão condicional do processo",
+            "nota": "Pena mínima até 1 ano; prova de 2 a 4 anos",
+            "artigos": [
+              "l9099pen-89"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "maisCobrados": [
+    {
+      "artigos": [
+        "l9099pen-61"
+      ],
+      "tema": "Conceito de infração de menor potencial ofensivo",
+      "porQueCai": "Todo o resto da lei depende desse conceito.",
+      "pegadinha": "São as contravenções penais e os crimes com pena MÁXIMA não superior a 2 anos, cumulada ou não com multa. Não importa se o procedimento é especial.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l9099pen-76"
+      ],
+      "tema": "Transação penal",
+      "porQueCai": "Requisitos e impedimentos são cobrados um a um.",
+      "pegadinha": "Proposta pelo MP de pena restritiva de direitos ou multa. Não cabe se o autor já foi condenado definitivamente a pena privativa de liberdade por crime, se recebeu transação nos últimos 5 anos ou se antecedentes e circunstâncias não indicarem a medida. Não gera reincidência nem consta de certidão de antecedentes.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l9099pen-89"
+      ],
+      "tema": "Suspensão condicional do processo",
+      "porQueCai": "Instituto que também vale fora do Juizado, o que confunde candidatos.",
+      "pegadinha": "Cabe em crimes com pena MÍNIMA igual ou inferior a 1 ano, abrangidos ou não pela lei. Prova de 2 a 4 anos. O acusado não pode estar sendo processado nem ter sido condenado por outro crime. Durante a suspensão não corre a prescrição.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l9099pen-74",
+        "l9099pen-75"
+      ],
+      "tema": "Composição civil dos danos",
+      "porQueCai": "Consequência da homologação é ponto clássico.",
+      "pegadinha": "Homologada, vale como título executivo no cível e é irrecorrível. Em ação privada ou pública condicionada, o acordo homologado acarreta RENÚNCIA ao direito de queixa ou representação.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l9099pen-69"
+      ],
+      "tema": "Termo circunstanciado e flagrante",
+      "porQueCai": "Atuação da autoridade policial é cobrada pela letra.",
+      "pegadinha": "A autoridade lavra termo circunstanciado e encaminha ao Juizado. Se o autor for encaminhado imediatamente ou assumir o compromisso de comparecer, não se impõe prisão em flagrante nem se exige fiança. Em violência doméstica, o juiz pode afastá-lo do lar.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l9099pen-66"
+      ],
+      "tema": "Citação no Juizado",
+      "porQueCai": "Diferença marcante em relação ao CPP.",
+      "pegadinha": "A citação é pessoal, no Juizado ou por mandado. Não encontrado o acusado para ser citado, o juiz encaminha as peças ao JUÍZO COMUM. Não existe citação por edital no JECrim.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "l9099pen-82",
+        "l9099pen-83"
+      ],
+      "tema": "Recursos no Juizado Criminal",
+      "porQueCai": "Prazos diferentes do CPP costumam ser trocados.",
+      "pegadinha": "Apelação em 10 dias, já com as razões, julgada por turma de 3 juízes em exercício no 1º grau. Embargos de declaração em 5 dias, que INTERROMPEM o prazo para outros recursos.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "l9099pen-88"
+      ],
+      "tema": "Representação nas lesões leves e culposas",
+      "porQueCai": "Mudou a natureza da ação penal desses crimes.",
+      "pegadinha": "A ação penal nos crimes de lesão corporal leve e lesão culposa depende de representação. Atenção: na violência doméstica contra a mulher, a Lei Maria da Penha afasta a Lei 9.099.",
+      "incidencia": "media"
+    }
+  ],
+  "pegadinhas": [
+    "A competência do JECrim é pelo lugar em que foi PRATICADA a infração (art. 63), não pelo resultado.",
+    "Complexidade da causa também desloca para o juízo comum (art. 77, §2º).",
+    "Na transação, a aplicação da pena não importa reincidência e só impede novo benefício por 5 anos.",
+    "Na audiência de instrução, primeiro a defesa responde à acusação, depois o juiz recebe ou não a denúncia (art. 81).",
+    "A sentença dispensa relatório (art. 81, §3º).",
+    "Atos processuais podem ser em horário noturno e em qualquer dia da semana (art. 64)."
+  ],
+  "dicasDeMemorizacao": [
+    "IMPO = 'até 2 anos de pena máxima'. Sursis processual = 'até 1 ano de pena mínima'.",
+    "Prova da suspensão: 2 a 4 anos. Impedimento da transação: 5 anos.",
+    "Recursos do JECrim: apelação 10, embargos 5."
+  ]
+}

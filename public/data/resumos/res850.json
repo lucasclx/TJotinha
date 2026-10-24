@@ -1,0 +1,239 @@
+{
+  "slug": "res850",
+  "ancora": "res850",
+  "lei": "Resolução TJSP nº 850/2021 — Teletrabalho",
+  "subtitulo": "Regulamenta o teletrabalho no âmbito do Tribunal de Justiça do Estado de São Paulo e dá outras providências",
+  "materia": "Legislação Interna",
+  "artigosNoEdital": "Íntegra (texto compilado)",
+  "totalArtigos": 40,
+  "visaoGeral": "A Resolução TJSP 850/2021 regula o teletrabalho de servidores e magistrados. O teletrabalho é facultativo, no interesse da Administração, não pode gerar custo ao Tribunal e mantém os direitos do presencial, exceto o auxílio-transporte. O capítulo dos servidores é o mais cobrado: percentuais por unidade, vedações, deveres, produtividade superior à do presencial e hipóteses de desligamento.",
+  "mapaMental": {
+    "titulo": "Res. TJSP 850/2021 — Teletrabalho",
+    "filhos": [
+      {
+        "titulo": "Disposições gerais",
+        "filhos": [
+          {
+            "titulo": "Conceito e objetivos",
+            "artigos": [
+              "res850-1",
+              "res850-2"
+            ]
+          },
+          {
+            "titulo": "Mesmos direitos, sem auxílio-transporte",
+            "artigos": [
+              "res850-3"
+            ]
+          },
+          {
+            "titulo": "Sem despesa ao Tribunal; estrutura por conta do servidor",
+            "artigos": [
+              "res850-4",
+              "res850-5",
+              "res850-20"
+            ]
+          },
+          {
+            "titulo": "Dissensos: Presidência",
+            "artigos": [
+              "res850-6",
+              "res850-38"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Servidores (Cap. II)",
+        "filhos": [
+          {
+            "titulo": "Cargos abrangidos",
+            "nota": "Escreventes, assistentes judiciários e jurídicos, psicólogos e assistentes sociais",
+            "artigos": [
+              "res850-7"
+            ]
+          },
+          {
+            "titulo": "Regras e limites por unidade",
+            "nota": "Até 70% nas unidades ligadas à cúpula; até 50% no 1º grau; gabinetes: o magistrado define",
+            "artigos": [
+              "res850-8",
+              "res850-9"
+            ]
+          },
+          {
+            "titulo": "Requerimento e publicidade",
+            "artigos": [
+              "res850-10"
+            ]
+          },
+          {
+            "titulo": "Vedações",
+            "artigos": [
+              "res850-11"
+            ]
+          },
+          {
+            "titulo": "Deveres do servidor",
+            "artigos": [
+              "res850-12",
+              "res850-13"
+            ]
+          },
+          {
+            "titulo": "Chefia e plano de trabalho",
+            "artigos": [
+              "res850-14",
+              "res850-15",
+              "res850-16"
+            ]
+          },
+          {
+            "titulo": "Produtividade superior ao presencial",
+            "artigos": [
+              "res850-17",
+              "res850-18"
+            ]
+          },
+          {
+            "titulo": "Desligamento",
+            "nota": "Retorno em até 5 dias úteis",
+            "artigos": [
+              "res850-19"
+            ]
+          },
+          {
+            "titulo": "GA-Tel e capacitação",
+            "artigos": [
+              "res850-21",
+              "res850-22"
+            ]
+          }
+        ]
+      },
+      {
+        "titulo": "Magistrados (Cap. III)",
+        "nota": "Presença mínima de 3 ou 4 dias úteis por semana",
+        "artigos": [
+          "res850-23",
+          "res850-24",
+          "res850-25",
+          "res850-26",
+          "res850-27"
+        ]
+      },
+      {
+        "titulo": "Condições especiais (Cap. IV)",
+        "nota": "Deficiência, doença grave ou dependente nessas condições",
+        "artigos": [
+          "res850-28",
+          "res850-29",
+          "res850-30",
+          "res850-32",
+          "res850-33",
+          "res850-36",
+          "res850-37"
+        ]
+      },
+      {
+        "titulo": "Disposições finais",
+        "artigos": [
+          "res850-39",
+          "res850-40"
+        ]
+      }
+    ]
+  },
+  "maisCobrados": [
+    {
+      "artigos": [
+        "res850-9"
+      ],
+      "tema": "Percentuais e regras do teletrabalho de servidores",
+      "porQueCai": "Os números do art. 9º são o alvo preferido da banca.",
+      "pegadinha": "Só atividades de processamento DIGITAL. Até 70% do quadro nas unidades ligadas à Presidência, Vice, Corregedoria e Presidências de Seção; até 50% nas unidades de 1º grau (frações arredondadas para cima); nos gabinetes, o juiz ou desembargador define. Reuniões no mínimo mensais. Almoço de 30 minutos, com tolerância de 15, entre 12h e 14h. Login e logoff valem como ponto. Superar a meta não gera hora extra nem banco de horas.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "res850-11"
+      ],
+      "tema": "Quem não pode fazer teletrabalho",
+      "porQueCai": "Lista fechada de vedações, cobrada item por item.",
+      "pegadinha": "Vedado a quem: tenha contraindicação médica; sofreu penalidade disciplinar nos 2 anos anteriores; foi desligado por descumprimento nos últimos 6 meses; foi relotado por remoção nos últimos 6 meses; não teve conceito positivo na última avaliação; está no PRIMEIRO ANO do estágio probatório.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "res850-3",
+        "res850-4",
+        "res850-5"
+      ],
+      "tema": "Direitos e custos",
+      "porQueCai": "Princípio central da resolução.",
+      "pegadinha": "Mantém os mesmos direitos do presencial, inclusive auxílio-alimentação, mas SEM auxílio-transporte. O regime não pode gerar despesa ao Tribunal: móveis, equipamentos, energia e internet ficam por conta do servidor.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "res850-18"
+      ],
+      "tema": "Produtividade",
+      "porQueCai": "Regra que diferencia o teletrabalho.",
+      "pegadinha": "A produtividade em teletrabalho deve ser SUPERIOR à aferida no presencial da unidade. Quem está no regime do Capítulo IV (deficiência ou doença grave) é dispensado desse acréscimo.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "res850-19"
+      ],
+      "tema": "Desligamento do teletrabalho",
+      "porQueCai": "Hipóteses e prazo de retorno.",
+      "pegadinha": "A pedido, a qualquer tempo; fim do teletrabalho na unidade; necessidade de serviço presencial; não atingir metas ou descumprir regras; a critério do gestor ou da Presidência; mudança de posto ou cargo. Retorno ao presencial em até 5 dias úteis.",
+      "incidencia": "alta"
+    },
+    {
+      "artigos": [
+        "res850-12",
+        "res850-13"
+      ],
+      "tema": "Deveres e descumprimento",
+      "porQueCai": "Rotina prática do servidor em casa.",
+      "pegadinha": "Cumprir metas, atender a convocação para comparecer, manter telefone ativo, consultar o e-mail institucional diariamente, preservar sigilo, não usar terceiros, não contatar partes ou advogados sem ciência do gestor. Descumprimento ou denúncia: esclarecimentos em 2 dias úteis, podendo haver suspensão.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "res850-10"
+      ],
+      "tema": "Requerimento e publicidade",
+      "porQueCai": "Prazos e locais de publicação.",
+      "pegadinha": "Requerimento com autorização do gestor; comunicação à SGP em até 10 dias úteis; vigência por prazo indeterminado. Autorizações publicadas no DJE e nomes no Portal da Transparência, atualizado ao menos semestralmente. Após 30 dias, a estação de trabalho pode ser desativada.",
+      "incidencia": "media"
+    },
+    {
+      "artigos": [
+        "res850-24",
+        "res850-25"
+      ],
+      "tema": "Teletrabalho de magistrados",
+      "porQueCai": "Números de presença mínima.",
+      "pegadinha": "Entrância final e intermediária com mais de 3 varas: presença no fórum em pelo menos 3 dias úteis por semana. Intermediária com até 3 varas, entrância inicial e substitutos: pelo menos 4 dias. O diretor do fórum garante presença diária de ao menos 1/3 dos magistrados, salvo vara única.",
+      "incidencia": "media"
+    }
+  ],
+  "pegadinhas": [
+    "O teletrabalho é FACULTATIVO, no interesse e a critério da Administração; não é direito do servidor.",
+    "Estagiários, cedidos pelas prefeituras e voluntários também podem fazer teletrabalho, dispensada a comunicação à SGP (art. 40).",
+    "O dia de teletrabalho equivale a um dia normal da jornada, cumprida no horário de expediente forense (art. 8º).",
+    "Atividades que, por natureza, já são externas (como as do oficial de justiça) não são teletrabalho (art. 8º, §1º).",
+    "O Capítulo IV entrou em vigor na data da publicação; o restante, 30 dias após o fim do trabalho remoto da pandemia (art. 39).",
+    "Pedido para residir em local diverso da lotação é possível, a critério da Administração (art. 10, §4º)."
+  ],
+  "dicasDeMemorizacao": [
+    "Percentuais: '70 na cúpula, 50 no 1º grau, gabinete decide'.",
+    "Vedações: '2 anos de punição, 6 meses de desligamento ou remoção, 1º ano de estágio'.",
+    "Prazos: '2 dias úteis para explicar, 5 dias úteis para voltar, 10 dias úteis para comunicar a SGP'.",
+    "Almoço: 30 min (+15) entre 12h e 14h."
+  ]
+}
