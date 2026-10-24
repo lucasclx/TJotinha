@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TJotinha · Lei Seca do Bloco II</title>
+<meta name="description" content="Lei Seca do Bloco II (Conhecimentos em Direito) do TJ-SP 2027, com progresso de leitura, grifos, notas e revisão espaçada.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preload" href="data/indice.json" as="fetch" crossorigin>
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="css/conteudo.css">
+<link rel="stylesheet" href="css/app.css">
+<script>
+  // Aplica tema e tamanho de fonte antes da primeira pintura.
+  try {
+    var c = JSON.parse(localStorage.getItem('tjotinha:v1') || '{}').config || {};
+    if (c.tema && c.tema !== 'auto') document.documentElement.dataset.theme = c.tema;
+    if (c.fonte) document.documentElement.style.setProperty('--fs', c.fonte + 'px');
+  } catch (e) {}
+</script>
+</head>
+<body>
+<div class="app">
+  <aside class="side" aria-label="Navegação">
+    <a class="brand" href="#/painel"><span class="brand-m">TJ</span><span><b>TJotinha</b><small>Lei Seca · Bloco II</small></span></a>
+    <nav class="side-nav">
+      <a href="#/painel" data-rota="painel"><svg viewBox="0 0 20 20"><path d="M3 10.5 10 4l7 6.5M5 9v7h4v-4h2v4h4V9"/></svg>Painel</a>
+      <a href="#/revisao" data-rota="revisao"><svg viewBox="0 0 20 20"><path d="M4 10a6 6 0 1 0 2-4.5M4 3.5V6h2.5"/></svg>Revisão<span class="badge" id="badgeRevisao" hidden></span></a>
+      <a href="#/caderno" data-rota="caderno"><svg viewBox="0 0 20 20"><path d="M5 3h9a1 1 0 0 1 1 1v13H6a1 1 0 0 1-1-1zM8 7h4M8 10h4"/></svg>Caderno</a>
+      <a href="#/questoes" data-rota="questoes" id="navQuestoes" hidden><svg viewBox="0 0 20 20"><path d="M7.5 7.5a2.5 2.5 0 1 1 3.5 2.3c-.6.3-1 .8-1 1.5V12M10 15h.01"/></svg>Questões</a>
+      <a href="#/cronograma" data-rota="cronograma" id="navCronograma" hidden><svg viewBox="0 0 20 20"><path d="M4 5h12v11H4zM4 8h12M7 3v3M13 3v3"/></svg>Cronograma</a>
+    </nav>
+    <div class="side-sec">Matérias</div>
+    <div class="side-tree" id="arvore"></div>
+    <div class="side-foot">
+      <button class="lnk" id="btnConfig" type="button"><svg viewBox="0 0 20 20"><circle cx="10" cy="10" r="2.5"/><path d="M10 2.5v2M10 15.5v2M2.5 10h2M15.5 10h2M4.7 4.7l1.4 1.4M13.9 13.9l1.4 1.4M4.7 15.3l1.4-1.4M13.9 6.1l1.4-1.4"/></svg>Ajustes e backup</button>
+      <button class="lnk" id="btnAtalhos" type="button"><svg viewBox="0 0 20 20"><rect x="2.5" y="5" width="15" height="10" rx="1.5"/><path d="M5.5 8h1M9 8h2M13.5 8h1M6 12h8"/></svg>Atalhos do teclado</button>
+    </div>
+  </aside>
+
+  <div class="main">
+    <header class="top">
+      <button class="busca-btn" id="btnBusca" type="button"><svg viewBox="0 0 20 20"><circle cx="9" cy="9" r="5.5"/><path d="m13 13 4 4"/></svg><span>Buscar artigo ou palavra…</span><kbd>Ctrl K</kbd></button>
+      <div class="top-acoes">
+        <a class="btn" id="btnContinuar" href="#/painel" hidden><svg viewBox="0 0 20 20"><path d="M7 5l6 5-6 5z"/></svg>Continuar de onde parei</a>
+        <button class="icon-btn" id="btnTema" type="button" title="Alternar tema claro/escuro" aria-label="Alternar tema"><svg viewBox="0 0 20 20"><path d="M15.5 12.5A6 6 0 0 1 7.5 4.5a6 6 0 1 0 8 8z"/></svg></button>
+      </div>
+    </header>
+    <main id="vista" tabindex="-1"></main>
+  </div>
+</div>
+
+<div class="grifo-bar" id="grifoBar" hidden>
+  <button type="button" data-cor="amarelo" title="Grifar em amarelo (1)"></button>
+  <button type="button" data-cor="verde" title="Grifar em verde (2)"></button>
+  <button type="button" data-cor="azul" title="Grifar em azul (3)"></button>
+  <button type="button" data-cor="rosa" title="Grifar em rosa (4)"></button>
+  <button type="button" data-cor="remover" class="g-rem" title="Remover grifo">✕</button>
+</div>
+
+<dialog class="dlg busca-dlg" id="dlgBusca">
+  <div class="busca-top">
+    <svg viewBox="0 0 20 20"><circle cx="9" cy="9" r="5.5"/><path d="m13 13 4 4"/></svg>
+    <input id="buscaQ" type="search" placeholder="Ex.: peculato, art. 312, prazo de 15 dias, citação por edital" autocomplete="off">
+    <select id="buscaEscopo" aria-label="Onde buscar"><option value="">Todas as normas</option></select>
+  </div>
+  <div class="busca-res" id="buscaRes"></div>
+  <div class="busca-rod"><span><kbd>↑</kbd><kbd>↓</kbd> navegar</span><span><kbd>Enter</kbd> abrir</span><span><kbd>Esc</kbd> fechar</span><span id="buscaInfo"></span></div>
+</dialog>
+
+<dialog class="dlg" id="dlgConfig">
+  <form method="dialog" class="dlg-c">
+    <h2>Ajustes</h2>
+    <label class="campo"><span>Meta diária de artigos lidos</span><input type="number" id="cfMeta" min="1" max="500"></label>
+    <label class="campo"><span>Tamanho do texto da lei</span><input type="range" id="cfFonte" min="15" max="22" step="1"><output id="cfFonteV"></output></label>
+    <label class="campo"><span>Tema</span><select id="cfTema"><option value="auto">Automático</option><option value="light">Claro</option><option value="dark">Escuro</option></select></label>
+    <label class="chk"><input type="checkbox" id="cfAuto"> Ao marcar um artigo como lido, agendar a revisão espaçada dele</label>
+    <label class="chk"><input type="checkbox" id="cfAn"> Esconder notas de alteração, como “(Redação dada pela Lei…)”</label>
+    <h3>Backup do progresso</h3>
+    <p class="dica">O progresso fica salvo só neste navegador. Exporte de vez em quando para não perder nada se o navegador for limpo.</p>
+    <div class="linha">
+      <button type="button" class="btn" id="cfExportar">Exportar backup</button>
+      <label class="btn ghost">Importar backup<input type="file" id="cfImportar" accept="application/json" hidden></label>
+      <button type="button" class="btn perigo" id="cfZerar">Apagar todo o progresso</button>
+    </div>
+    <div class="linha fim"><button class="btn ghost" value="ok">Fechar</button></div>
+  </form>
+</dialog>
+
+<dialog class="dlg" id="dlgAtalhos">
+  <form method="dialog" class="dlg-c">
+    <h2>Atalhos do teclado</h2>
+    <dl class="atalhos">
+      <dt><kbd>Ctrl</kbd> <kbd>K</kbd> ou <kbd>/</kbd></dt><dd>Buscar</dd>
+      <dt><kbd>J</kbd> / <kbd>K</kbd></dt><dd>Próximo / anterior artigo</dd>
+      <dt><kbd>L</kbd></dt><dd>Marcar o artigo atual como lido e ir ao próximo</dd>
+      <dt><kbd>E</kbd></dt><dd>Marcar o artigo atual com estrela (difícil / importante)</dd>
+      <dt><kbd>R</kbd></dt><dd>Incluir ou tirar o artigo atual da revisão</dd>
+      <dt><kbd>N</kbd></dt><dd>Escrever nota no artigo atual</dd>
+      <dt><kbd>1</kbd>–<kbd>4</kbd></dt><dd>Com texto selecionado: grifar em amarelo, verde, azul ou rosa</dd>
+      <dt><kbd>C</kbd></dt><dd>Continuar de onde parei</dd>
+      <dt><kbd>Espaço</kbd></dt><dd>Na revisão: mostrar a resposta</dd>
+      <dt><kbd>1</kbd>–<kbd>4</kbd></dt><dd>Na revisão: Errei, Difícil, Bom, Fácil</dd>
+    </dl>
+    <div class="linha fim"><button class="btn ghost" value="ok">Fechar</button></div>
+  </form>
+</dialog>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

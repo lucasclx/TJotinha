@@ -1,0 +1,31 @@
+/* Tipografia do texto das normas (classes vindas do HTML-fonte). */
+.lei-texto{font:400 var(--fs,17px)/1.65 var(--serif);color:var(--ink)}
+.lei-texto .law-head{display:none}
+.lei-texto .hd{font-family:var(--sans);margin:2.6em 0 1.1em;text-align:center;text-wrap:balance;line-height:1.35;scroll-margin-top:90px}
+.lei-texto .hd+.hd{margin-top:1.1em}
+.lei-texto .hd .hl{display:block;font-weight:600;letter-spacing:.12em;text-transform:uppercase;font-size:13px;color:var(--accent);margin-bottom:3px}
+.lei-texto .hd .ht{display:block;font-weight:600}
+.lei-texto .hd .hn{display:block;font:italic 400 13px/1.4 var(--serif);color:var(--annot);margin-top:2px}
+.lei-texto .hd.lv0 .ht,.lei-texto .hd.lv1 .ht,.lei-texto .hd.lv2 .ht{font-size:20px}
+.lei-texto .hd.lv3 .ht{font-size:17px}
+.lei-texto .hd.lv4 .ht,.lei-texto .hd.lv5 .ht{font-size:15px;font-weight:500}
+.lei-texto .hd.lv4 .hl,.lei-texto .hd.lv5 .hl{font-size:12px}
+.lei-texto p{margin:0 0 .5em;overflow-wrap:anywhere}
+.lei-texto .epi{font:600 15px/1.35 var(--sans);color:var(--accent);margin:0 0 .25em}
+.lei-texto .epi-in{font:italic 600 15px/1.35 var(--sans);color:var(--accent);margin:.5em 0 .2em}
+.lei-texto .al{font-family:var(--sans);font-weight:700;color:var(--accent);letter-spacing:.01em}
+.lei-texto .dl{font-family:var(--sans);font-weight:600}
+.lei-texto .par,.lei-texto .pena{padding-left:1.1em}
+.lei-texto .inc{padding-left:1.8em}
+.lei-texto .ali{padding-left:2.6em}
+.lei-texto .ite{padding-left:3.3em}
+.lei-texto .pena .dl{font-variant:small-caps}
+.lei-texto .an{color:var(--annot);font-size:.82em;font-style:italic}
+.sem-an .lei-texto .an{display:none}
+.lei-texto .nt{font:italic 400 13.5px/1.45 var(--serif);color:var(--annot);border-left:2px solid var(--rule);padding-left:10px;margin:.3em 0 .5em}
+.lei-texto .nt.box{border-left-color:var(--accent);background:var(--accent-soft);padding:8px 12px;font-style:normal;color:var(--ink)}
+.lei-texto .compiler .nt{border-left-color:var(--accent);font-style:normal;color:var(--ink)}
+.lei-texto .compiler .nt a{color:var(--accent);overflow-wrap:anywhere}
+.lei-texto .compiler .nt.src{color:var(--muted)}
+.lei-texto .cargo{font:700 14px/1.3 var(--sans);letter-spacing:.06em;margin:1.2em 0 .3em}
+.lei-texto a{color:var(--accent)}
